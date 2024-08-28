@@ -256,9 +256,9 @@ Logotipo del servicio:
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">xxx</td>
-		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center"><p align="center"> Piero Alonso Martinez Villanueva - U202113821 <img src="images/fotoPiero.JPG" alt="Foto Piero" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces, siendo puntual con los plazos establecidos en la elaboración de los proyectos. Me gusta aprender sobre nuevas tecnologías, además de ser paciente y perseverante en el desarrrollo de un proyecto.</td>
+		<td style="text-align: center" align="center">Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D.</td>
 	</TR>
   <TR>
 		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
