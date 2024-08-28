@@ -244,6 +244,45 @@ Logotipo del servicio:
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
+<TABLE BORDER>
+	<TR>
+		<TH><h2>Intregantes</h2></TH> 
+		<TH><h2>Descripción</h2></TH>
+		<TH><h2>Conocimientos</h2></TH>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Karen Ramos - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="40%"> </p></td>
+		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los 		objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia.</td>
+		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
+	</TR>
+  	<TR>
+		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center">xxx</td>
+	</TR>
+  <TR>
+		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center">xxx</td>
+	</TR>
+  <TR>
+		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center">xxx</td>
+	</TR>
+  <TR>
+		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center">xxx</td>
+	</TR>
+  <TR>
+		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center">xxx</td>
+	</TR>
+</TABLE>
+
+
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
