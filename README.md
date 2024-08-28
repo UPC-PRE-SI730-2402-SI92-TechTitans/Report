@@ -249,6 +249,8 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 
 **Logotipo del servicio:**
 
+<p align="left"><img src="images/FinanceGuardLogo.png" alt="Finance Guard Logo" width="60%" height="40%"></p>
+
 ### 1.1.2 Perfiles de integrantes del equipo
 
 <TABLE BORDER>
@@ -263,7 +265,7 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Piero Alonso Martinez Villanueva - U202113821 <img src="images/fotoPiero.JPG" alt="Foto Piero" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Piero Alonso Martinez Villanueva - U202113821 <img src="images/fotoPiero.jpeg" alt="Foto Piero" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces, siendo puntual con los plazos establecidos en la elaboración de los proyectos. Me gusta aprender sobre nuevas tecnologías, además de ser paciente y perseverante en el desarrrollo de un proyecto.</td>
 		<td style="text-align: center" align="center">Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D.</td>
 	</TR>
@@ -322,9 +324,54 @@ El modelo de negocio puede incluir diferentes niveles de suscripción, desde una
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+FinanceGuard es una plataforma integral diseñada para la gestión de finanzas personales y empresariales. Su objetivo es ofrecer a los usuarios una solución completa para el seguimiento de gastos, la organización de presupuestos, y la optimización de recursos económicos, tanto a nivel individual como para pequeñas y medianas empresas.
+
+Hemos identificado que en el contexto actual, muchas personas y organizaciones enfrentan dificultades significativas debido a la falta de herramientas efectivas para la administración financiera. La dependencia de métodos manuales, como hojas de cálculo y registros dispersos, conlleva a problemas de desorganización, errores en el seguimiento de gastos, y una gestión ineficiente de los recursos económicos. Esto puede resultar en desequilibrios presupuestarios, pérdidas económicas, y dificultades para alcanzar metas financieras, afectando tanto la estabilidad financiera como la capacidad de toma de decisiones informadas.
+
+¿Cómo podríamos abordar estos problemas mediante una herramienta que integre y automatice la gestión financiera, proporcionando una visión clara y accesible de los ingresos, gastos y deudas? La solución debería simplificar la planificación financiera, mejorar la precisión en el seguimiento de metas económicas y facilitar la toma de decisiones estratégicas, contribuyendo así a una mayor estabilidad y éxito financiero a largo plazo.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+##### 1.2.2.2.1. Assumptions:
+
+- Existe una demanda en el mercado para una solución digital que simplifique la gestión de finanzas personales y empresariales, ayudando a los usuarios a mantener un control más preciso sobre sus recursos económicos.
+- Los individuos y las pequeñas y medianas empresas están dispuestos a adoptar una plataforma digital para la administración financiera, reconociendo sus beneficios en términos de claridad, eficiencia y toma de decisiones.
+- La plataforma será técnicamente viable y escalable, capaz de manejar grandes volúmenes de datos financieros y operaciones complejas.
+- Se espera que la plataforma proporcione a los usuarios una mejora significativa en la organización de sus finanzas, reduciendo el riesgo de errores y facilitando la planificación financiera.
+- Se asume que una interfaz de usuario intuitiva y fácil de usar será clave para la aceptación y adopción generalizada de la plataforma.
+- Se anticipa que la plataforma ofrecerá funcionalidades de integración con otras herramientas financieras y bancos para facilitar una gestión financiera más coherente y completa.
+
+##### 1.2.2.2.2. Features:
+
+- La plataforma permitirá el seguimiento en tiempo real de gastos e ingresos, facilitando una gestión financiera precisa y actualizada.
+- Integrará funcionalidades para la creación y seguimiento de presupuestos y metas financieras, ayudando a los usuarios a planificar y ajustar sus finanzas de manera efectiva.
+- Ofrecerá herramientas automáticas para el cálculo de deudas y saldos, proporcionando una visión clara de las obligaciones financieras entre los usuarios.
+- Incorporará alertas automáticas y recordatorios para fechas límite de pagos y vencimientos de presupuestos, ayudando a evitar retrasos y cargos adicionales.
+- Dispone de una interfaz intuitiva y fácil de usar que permite a los usuarios gestionar sus finanzas de manera sencilla y accesible.
+- Ofrecerá capacidades de generación de reportes financieros detallados y personalizados, facilitando la toma de decisiones y la planificación estratégica.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+- 1st Hypothesis Statement:
+Nosotros creemos que si implementamos una función de categorización automática de gastos en FinanceGuard,
+Cuando los usuarios registren nuevas transacciones en la plataforma,
+Veremos que la clasificación y organización de los gastos mejorará, y los usuarios podrán generar reportes financieros más precisos y detallados sin esfuerzo adicional,
+Mediremos esto a través de la comparación del tiempo invertido en categorizar gastos manualmente antes y después de la implementación, así como la retroalimentación de los usuarios sobre la precisión y utilidad de la categorización automática.
+
+- 2nd Hypothesis Statement:
+Nosotros creemos que si desarrollamos una función de alertas personalizadas para vencimientos de pagos y metas financieras en FinanceGuard,
+Cuando los usuarios configuren sus alertas y realicen un seguimiento de sus pagos y objetivos en la plataforma,
+Veremos que la puntualidad en los pagos y el cumplimiento de metas financieras mejorará, reduciendo la cantidad de cargos por pagos atrasados y ayudando a los usuarios a alcanzar sus metas con mayor eficacia,
+Mediremos esto a través de la comparación de la cantidad de cargos por pagos atrasados y la tasa de cumplimiento de metas antes y después de la implementación de las alertas personalizadas, así como la retroalimentación de los usuarios sobre la efectividad y utilidad de las alertas.
+
+- 3rd Hypothesis Statement:
+Nosotros creemos que si integramos una herramienta de análisis de tendencias financieras en FinanceGuard que utilice datos históricos para predecir patrones de gastos e ingresos,
+Cuando los usuarios consulten estos análisis para planificar su presupuesto y ajustar sus gastos,
+Veremos que la precisión en la planificación financiera y la toma de decisiones mejorará, permitiendo a los usuarios evitar desajustes presupuestarios y optimizar su administración económica,
+Mediremos esto a través de la comparación de la precisión en la planificación financiera antes y después de la integración del análisis de tendencias, así como la evaluación del impacto en la satisfacción del usuario y la eficiencia en la gestión del presupuesto a través de encuestas y métricas de uso.
+
 #### 1.2.2.4. Lean UX Canvas
+
+
 ## 1.3. Segmentos objetivo
 
 El segmento objetivo de FinanceGuard consiste en personas y grupos que comparten gastos y desean una solución conveniente y efectiva para gestionar finanzas empresariales, controlar gastos, y optimizar el flujo de efectivo.
