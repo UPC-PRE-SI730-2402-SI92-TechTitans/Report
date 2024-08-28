@@ -292,6 +292,13 @@ Logotipo del servicio:
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
+
+El segmento objetivo de FinanceGuard consiste en personas y grupos que comparten gastos y desean una solución conveniente y efectiva para gestionar finanzas empresariales, controlar gastos, y optimizar el flujo de efectivo.
+
+Profesionales y Empresas: Para gestionar finanzas empresariales, controlar gastos, y optimizar el flujo de efectivo.
+Personas que buscan organización financiera: Aquellos interesados en controlar su presupuesto personal, seguir sus gastos, y planificar para el futuro.
+Usuarios tecnológicos: Personas que prefieren soluciones digitales para administrar sus finanzas y que valoran la integración con cuentas bancarias y herramientas de análisis financiero.
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ## 2.2. Entrevistas
