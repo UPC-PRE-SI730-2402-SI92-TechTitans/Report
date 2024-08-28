@@ -29,6 +29,7 @@ Producto: FinanceGuard
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
 |      Ramos Carpio, Karen       | U20201E493 |
+|      Martinez Villanueva, Piero Alonso       | U202113821 |
 
 Agosto 2024
 
@@ -234,19 +235,19 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 
 ### 1.1.1 Descripción de la Startup
 
-"TechTitans" presenta "FinanceGuard", una innovadora plataforma diseñada para gestionar tanto las finanzas personales como empresariales. Con el objetivo principal de simplificar la administración del dinero y mejorar la organización financiera de sus usuarios, FinanceGuard ofrece una experiencia intuitiva y eficiente.
+**TechTitans** presenta **FinanceGuard**, una innovadora plataforma diseñada para gestionar tanto las finanzas personales como empresariales. Con el objetivo principal de simplificar la administración del dinero y mejorar la organización financiera de sus usuarios, FinanceGuard ofrece una experiencia intuitiva y eficiente.
 
 La plataforma permite a los usuarios crear grupos para gestionar y compartir gastos de manera colaborativa. Dentro de estos grupos, se pueden registrar gastos, especificar quién pagó y cuánto, así como distribuir los costos entre los participantes. Además, FinanceGuard calcula automáticamente las deudas y saldos, proporcionando una visión clara de quién debe a quién, lo que resulta especialmente útil para compañeros de cuarto, parejas, amigos o familiares que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios y compras conjuntas.
 
 Más allá de las finanzas personales, FinanceGuard ofrece herramientas avanzadas para la gestión financiera empresarial. Entre estas, se incluyen la conciliación de cuentas y la generación de reportes contables detallados, facilitando el seguimiento y optimización de los recursos económicos de las empresas.
 
-"FinanceGuard" empodera a sus usuarios, tanto individuales como corporativos, a tomar el control de su bienestar financiero, brindándoles las herramientas necesarias para seguir sus gastos, establecer metas financieras y ajustar sus presupuestos en función de sus objetivos económicos. Esta solución integral no solo mejora la transparencia financiera, sino que también promueve una mayor estabilidad económica, ayudando a los usuarios a alcanzar sus metas con confianza.
+FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a tomar el control de su bienestar financiero, brindándoles las herramientas necesarias para seguir sus gastos, establecer metas financieras y ajustar sus presupuestos en función de sus objetivos económicos. Esta solución integral no solo mejora la transparencia financiera, sino que también promueve una mayor estabilidad económica, ayudando a los usuarios a alcanzar sus metas con confianza.
 
-Misión: En FinanceGuard, nuestra misión es capacitar a individuos y empresas para que tomen las riendas de su bienestar financiero mediante una administración precisa, accesible y fácil de usar. Nos comprometemos a ofrecer soluciones innovadoras que simplifiquen el monitoreo, la planificación y la optimización de los recursos financieros, con el propósito de fomentar una mayor seguridad económica y ayudar a nuestros usuarios a cumplir sus objetivos financieros con certeza.
+**Misión:** En FinanceGuard, nuestra misión es capacitar a individuos y empresas para que tomen las riendas de su bienestar financiero mediante una administración precisa, accesible y fácil de usar. Nos comprometemos a ofrecer soluciones innovadoras que simplifiquen el monitoreo, la planificación y la optimización de los recursos financieros, con el propósito de fomentar una mayor seguridad económica y ayudar a nuestros usuarios a cumplir sus objetivos financieros con certeza.
 
-Visión: Aspiramos a convertirnos en la plataforma de referencia en la gestión financiera personal y empresarial, reconocida por nuestra capacidad de revolucionar la manera en que las personas y organizaciones administran sus finanzas. Nuestro objetivo es construir un futuro donde la claridad financiera y la educación económica estén al alcance de todos, contribuyendo al desarrollo económico y al bienestar integral de nuestros usuarios.
+**Visión:** Aspiramos a convertirnos en la plataforma de referencia en la gestión financiera personal y empresarial, reconocida por nuestra capacidad de revolucionar la manera en que las personas y organizaciones administran sus finanzas. Nuestro objetivo es construir un futuro donde la claridad financiera y la educación económica estén al alcance de todos, contribuyendo al desarrollo económico y al bienestar integral de nuestros usuarios.
 
-Logotipo del servicio:
+**Logotipo del servicio:**
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
@@ -257,7 +258,7 @@ Logotipo del servicio:
 		<TH><h2>Conocimientos</h2></TH>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Karen Ramos - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="40%"> </p></td>
+		<td style="text-align: center" align="center"><p align="center"> Karen Ramos Carpio - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="40%"> </p></td>
 		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los 		objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia.</td>
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
 	</TR>
@@ -292,6 +293,33 @@ Logotipo del servicio:
 
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
+Para identificar el contexto en el que se situa FinanceGuard, utilizaremos la técnica de las 5 W's y 2 H's.
+
+#### 1.2.1.1. Las 5 W's:
+
+- **What (Qué):**<br>
+FinanceGuard es una plataforma digital diseñada para simplificar la gestión de finanzas tanto personales como empresariales. Permite a los usuarios organizar y compartir gastos, gestionar deudas, y seguir objetivos financieros. Además, ofrece herramientas avanzadas para la conciliación de cuentas y la generación de reportes contables.
+
+- **Why (Por qué):**<br>
+Existe una necesidad creciente de herramientas que faciliten la gestión financiera, especialmente en contextos de colaboración como grupos de amigos, compañeros de cuarto, parejas, y empresas. FinanceGuard responde a esta necesidad ofreciendo una solución que promueve la transparencia, la organización y la estabilidad financiera.
+
+- **Who (Quién):**<br>
+El producto está dirigido a individuos que comparten gastos con otros, como amigos, compañeros de cuarto, parejas, y familiares, así como a pequeñas y medianas empresas que requieren herramientas eficientes para la gestión contable y financiera.
+
+- **Where (Dónde):**<br>
+FinanceGuard se implementa como una aplicación móvil y web, accesible desde cualquier lugar con conexión a internet, lo que permite a los usuarios gestionar sus finanzas en tiempo real, sin importar su ubicación.
+
+- **When (Cuándo):**<br>
+El uso de FinanceGuard es continuo, permitiendo a los usuarios realizar un seguimiento constante de sus finanzas, tanto en el día a día como a largo plazo, ajustándose a sus necesidades en cualquier momento.
+
+#### 1.2.1.2. Las 2 H's:
+
+- **How (Cómo):**<br>
+FinanceGuard funciona mediante la creación de grupos donde los usuarios pueden agregar y gestionar gastos compartidos. La plataforma automatiza el cálculo de deudas y saldos, proporciona herramientas para establecer y seguir objetivos financieros, y ofrece funciones específicas para la gestión empresarial, como la conciliación de cuentas y la generación de reportes.
+
+- **How much (Cuánto):**<br>
+El modelo de negocio puede incluir diferentes niveles de suscripción, desde una versión gratuita con funciones básicas hasta planes de pago que ofrecen características avanzadas para usuarios personales y empresariales. El costo variará según el nivel de acceso y las herramientas necesarias para cada tipo de usuario.
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
