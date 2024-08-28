@@ -22,9 +22,9 @@ Profesor: Naldo Reupo-Musayon Gastulo
 
 “Informe de Trabajo Final”
 
-Startup: 
+Startup: TechTitans
 
-Producto: 
+Producto: FinanceGuard
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
@@ -229,8 +229,22 @@ URL Project Report (Github):
 ---
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
+
+En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo
+
 ### 1.1.1 Descripción de la Startup
+
+El producto presentado por “TechTitans”, llamado "FinanceGuard" se enfoca en gestionar finanzas personales y empresariales. Su objetivo principal es simplificar el manejo de dinero y mejorar la organización financiera de sus usuarioss. Para ello, implementa una plataforma donde los usuarios pueden crear grupos para organizar y compartir gastos, dentro de estos grupos, pueden agregar gastos, especificando quién pagó y cuánto, así como qué parte corresponde a cada persona. Los usuarios pueden establecer metas financieras, seguir sus gastos y ajustar sus presupuestos en función de sus objetivos económicos . La aplicación calcula automáticamente las deudas y los saldos, mostrando claramente quién debe cuánto a quién, es especialmente útil para compañeros de cuarto, parejas, amigos o familiares que comparten gastos en actividades como viajes, cenas, alquileres, facturas de servicios, compras compartidas. Además de las herramientas para finanzas personales, FinanceGuard ofrece características específicas para la gestión financiera empresarial, como la conciliación de cuentas y la generación de reportes contables.
+
+Misión: La misión de FinanceGuard es empoderar a individuos y empresas para que tomen el control de su bienestar financiero a través de una gestión eficiente, accesible e intuitiva. Nos dedicamos a proporcionar herramientas innovadoras que faciliten el seguimiento, planificación y optimización de los recursos económicos, con el objetivo de promover una mayor estabilidad financiera y permitir a nuestros usuarios alcanzar sus metas económicas con confianza
+
+Visión: Ser la plataforma líder en gestión financiera personal y empresarial, reconocida por su capacidad para transformar la forma en que las personas y organizaciones manejan su dinero. Aspiramos a crear un futuro donde la transparencia financiera y la educación económica sean accesibles para todos, contribuyendo así al crecimiento económico y al bienestar general de nuestros usuarios
+
+Logotipo del servicio:
+
 ### 1.1.2 Perfiles de integrantes del equipo
+
+
 ## 1.2 Solution Profile
 ### 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process
