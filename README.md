@@ -29,6 +29,7 @@ Producto:
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
 |      Ramos Carpio, Karen       | U20201E493 |
+|      Iparraguirre Rueda, Cristian Luis       | U202113111 |
 
 Agosto 2024
 
@@ -355,6 +356,13 @@ URL Project Report (Github):
 </table>
 
 ## 2.2. Entrevistas
+**Objetivo:** El objetivo de las entrevistas es recopilar información detallada sobre las necesidades, expectativas y problemas que enfrentan los usuarios potenciales de "Tech Titans", nuestra aplicación para la gestión y división de gastos grupales. Estas entrevistas ayudarán a comprender mejor los casos de uso y a validar las suposiciones realizadas durante la fase de análisis inicial.
+
+**Segmentos objetivo:**
+1. **Estudiantes universitarios que comparten vivienda.**
+2. **Trabajadores que organizan eventos o viajes grupales.**
+3. **Parejas que gestionan finanzas conjuntas.**
+
 ### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
