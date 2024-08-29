@@ -140,6 +140,8 @@ URL Project Report (Github):
 
 ### [Capítulo III: Requirements Specification]()
 - [3.1. To-Be Scenario Mapping]()
+  - [To - Be User Profesionales y Empresas](#to---be-user-empresa)
+  - [To - Be User Finanzas Personales](#to---be-user-personal)
 - [3.2. User Stories]()
 - [3.3. Impact Mapping]()
 - [3.4. Product Backlog]()
@@ -254,6 +256,13 @@ URL Project Report (Github):
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+### To - Be User Profesionales y Empresas
+
+<p align="center"><img src="images/to-be user empresas.PNG" alt="toBe User Empresas" width="100%"></p>
+
+### To - Be User Finanzas Personales
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
