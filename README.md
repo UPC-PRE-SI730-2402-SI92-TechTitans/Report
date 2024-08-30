@@ -785,9 +785,217 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
 
 En este apartado veremos el detalle de Impact Mapping que es una técnica visual que conecta objetivos de negocio con las acciones necesarias para lograrlos, mostrando cómo cada funcionalidad del proyecto contribuye a esos objetivos.
 
+#### Mejorar la experiencia de distribución de movimientos financieros grupales personales y/o enmpresariales.
+
+<p align="center"><img src="images/impactMapUserViajero.png" alt="Empathy Map User Viajero"  width="100%"></p>
+
+#### Digitalizar el 80% de procesos de registro de saldos y movimientos financieros grupales personales y/o enmpresariales.
+
+<p align="center"><img src="images/impactMapUserFrecuentedeRestaurante.png" alt="Empathy Map User Viajero"  width="100%"></p>
+
+#### Discernir la preocupación constante del uso de diferentes registros de movimientos financieros en los usuarios.
+
+<p align="center"><img src="images/impactMapUserCompañerodePiso.png" alt="Empathy Map User Viajero"  width="100%"></p>
+
 ## 3.4. Product Backlog
 
 En este apartado veremos el detalle de Product Backlog es una lista priorizada de todas las tareas, funcionalidades y mejoras que se deben realizar en un proyecto. Sirve como una fuente única de requisitos, que se actualiza continuamente para reflejar las necesidades y prioridades del negocio.
+
+<table>
+  <thead>
+    <tr>
+      <th># Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="text-align: center;">
+      <td>1</td>
+      <td>US-01</td>
+      <td>Landing Page - Home</td>
+      <td style="text-align: justify;">Como usuario, deseo encontrar una página de inicio atractiva y bien diseñada al ingresar al sitio web de la empresa, para obtener una impresión positiva de la misma desde el primer momento.</td>
+      <td>2</td>
+    </tr>  
+    <tr style="text-align: center;">
+      <td>2</td>
+      <td>US-02</td>
+      <td>Seccion - Servicios</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion en el Landing Page que me diga que servicios ofrece este aplicativo.</td>
+      <td>2</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>3</td>
+      <td>US-03</td>
+      <td>Video - AboutTheProduct</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion en el Landing Page que tenga un video acerca del producto que estoy considerando usar.</td>
+      <td>3</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>4</td>
+      <td>US-04</td>
+      <td>Seccion Reseñas</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion donde halla reseñas de aquellos usuarios que ya hicieron uso de la aplicacion.</td>
+      <td>2</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>5</td>
+      <td>US-05</td>
+      <td>Seccion Registro</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion donde halla un apoyo visual y un formulario para registarse.</td>
+      <td>2</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>6</td>
+      <td>US-06</td>
+      <td>Seccion Contacto</td>
+      <td style="text-align: justify;">Como usuario, quiero observar una seccion donde este los contactos, como numero fijo o redes sociales, de la empresa. </td>
+      <td>2</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>7</td>
+      <td>US-07</td>
+      <td>Nuevo Grupo</td>
+      <td style="text-align: justify;">Como usuario, quiero crear un nuevo de dividion para podermantenerme al tanto de las actualizaciones en mis finanzas compartidas y evitar perder información importante.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>8</td>
+      <td>US-08</td>
+      <td>Lista de los grupos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder buscar un grupo en específico por el nombre de los que soy miembro para tener una búsqueda ágil.</td>
+      <td>3</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>9</td>
+      <td>US-09</td>
+      <td>Detalles del Grupo</td>
+      <td style="text-align: justify;">Como usuario, quiero poder observar los detalles de los grupo, cuanto me deben en total y por gasto para poder llevar una cuenta mas detalla de cada grupo y mis finanzas.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>10</td>
+      <td>US-10</td>
+      <td>Añadir o Eliminar Transacciones</td>
+      <td style="text-align: justify;">Como usuario, quiero poder editar o eliminar transacciones registradas incorrectamente para corregir errores y mantener un registro preciso de mis gastos compartidos.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>11</td>
+      <td>US-11</td>
+      <td>Reportes de Gastos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder ver informes detallados sobre mis gastos compartidos para comprender mejor mis patrones de gastos y tomar decisiones financieras más informadas.</td>
+      <td>2</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>12</td>
+      <td>US-12</td>
+      <td>Conversor de Moneda Integrado</td>
+      <td style="text-align: justify;">Como usuario, quiero convertir los montos de mis transacciones a diferentes monedas para facilitar la comprensión de los gastos por parte de los usuarios que usen otras monedas.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>13</td>
+      <td>US-13</td>
+      <td>Detalles de Transacción</td>
+      <td style="text-align: justify;">Como usuario, quiero visualizar detalles específicos de cada transacción, como el nombre del usuario que ingresó la transacción, la fecha y una descripción del gasto, para tener claridad y transparencia en el registro de gastos compartidos.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>14</td>
+      <td>US-14</td>
+      <td>Registro de Pago</td>
+      <td style="text-align: justify;"> Como usuario, quiero registrar los pagos que hago a otros miembros del grupo para mantener un registro preciso y actualizado de las deudas pagadas y pendientes.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>15</td>
+      <td>US-15</td>
+      <td>Historial de Gastos</td>
+      <td style="text-align: justify;">Como usuario, quiero visualizar el historial de gastos compartidos para revisar y analizar mis finanzas pasadas y tener un registro claro de todas las transacciones realizadas.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>16</td>
+      <td>US-16</td>
+      <td>Dividir Gastos</td>
+      <td style="text-align: justify;">Como usuario, quiero tener la opción de dividir un gasto en partes iguales entre los miembros del grupo para reflejar situaciones donde los costos no se distribuyen equitativamente.</td>
+      <td>3</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>17</td>
+      <td>US-17</td>
+      <td>Grafico de gastos mensuales </td>
+      <td style="text-align: justify;">Como usuario, quiero poder obervar en la aplicación PocketPartners mis finanzas desde un gráfico en la seccion "Home".</td>
+      <td>3</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>18</td>
+      <td>US-18</td>
+      <td>Nuevo Gasto por Grupo</td>
+      <td style="text-align: justify;">Como usuario, quiero poder agregar un nuevo gasto realizado y por especificiar el grupo.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>19</td>
+      <td>US-19</td>
+      <td>Descartar Contactos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder descartar contactos de una dividion de gasto para poder gestionar mis finanzas compartidas de manera mas sencilla.</td>
+      <td>2</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>20</td>
+      <td>US-20</td>
+      <td>Grafico de avanze de pagos</td>
+      <td style="text-align: justify;">Como usuario, quiero poder observar un grafico de pie para poder analizar cuantos pagos restantes faltan</td>
+      <td>3</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>21</td>
+      <td>US-21</td>
+      <td>Nuevo Contacto</td>
+      <td style="text-align: justify;">Como usuario quiero poder añadir un nuevo contacto para poder seleccionarlos cuando llegue a crear un nuevo Grupo.</td>
+      <td>2</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>22</td>
+      <td>US-22</td>
+      <td>Acceso a Contactos</td>
+      <td style="text-align: justify;">Como usuario quiero poder tener acceso a una lista de los contactos que tengo en esta aplicación.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>23</td>
+      <td>US-23</td>
+      <td>Inicio de sesión en la aplicación</td>
+      <td style="text-align: justify;">Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece PocketPartners.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>24</td>
+      <td>US-24</td>
+      <td>Cierre de sesión en la aplicación</td>
+      <td style="text-align: justify;">Como usuario, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>25</td>
+      <td>US-26</td>
+      <td>Modelado de las clases y endpoints</td>
+      <td style="text-align: justify;">Como desarrollador, quiero que las clases dentro del backend estén bien estructuradas, para poder alcanzar los endpoint necesarios.</td>
+      <td>5</td>
+    </tr>
+    <tr style="text-align: center;">
+      <td>26</td>
+      <td>US-26</td>
+      <td>Integracion del backend con el frontend</td>
+      <td style="text-align: justify;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+      <td>5</td>
+    </tr>
+  </tbody>  
+</table>
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
