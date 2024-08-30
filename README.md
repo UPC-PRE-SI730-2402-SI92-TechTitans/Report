@@ -259,6 +259,36 @@ URL Project Report (Github):
 ## 3.4. Product Backlog
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
+#### Logo
+<img src="images/FinanceGuardLogo.png" width="45%">
+
+Para el logo se optó por hacer un imagotipo, dado que proporciona un gran impacto en los usuarios. Por otro lado, el logo tiene un aspecto moderno y sutil.
+
+#### Eslogan
+**"Master your finances, secure your future"**
+
+Es un eslogan breve y memorable. Se eligió expresar el eslogan en inglés, ya que se desea llegar a una gran cantidad de personas.
+
+#### Tipografía
+La tipografía elegida es "Cabin", debido a que tiene una apariencia moderna. Además, permite una buena legibilidad del texto.
+
+#### Colores
+Los colores elegidos son:
+
+#041C32
+
+#E8C8C8
+
+#4D617D
+
+#B1375B
+
+Este conjunto de colores hacen una excelente combinación. Asimismo, permite que se destaque el texto, por lo tanto, el usuario podrá tener una buena lectura.
+
+#### Lenguaje
+FinanceGuard es una plataforma que incentiva el respeto. Por ello, se aplicará un lenguaje formal y respetuoso.
+
 ## 4.2. Information Architecture
 ## 4.3. Landing Page UI Design
 ## 4.4. Web Applications UX/UI Design
