@@ -263,6 +263,8 @@ URL Project Report (Github):
 
 ### To - Be User Finanzas Personales
 
+<p align="center"><img src="images/to-be user personal.PNG" alt="toBe User Empresas" width="100%"></p>
+
 ## 3.2. User Stories
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
