@@ -247,7 +247,7 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 
 **Visión:** Aspiramos a convertirnos en la plataforma de referencia en la gestión financiera personal y empresarial, reconocida por nuestra capacidad de revolucionar la manera en que las personas y organizaciones administran sus finanzas. Nuestro objetivo es construir un futuro donde la claridad financiera y la educación económica estén al alcance de todos, contribuyendo al desarrollo económico y al bienestar integral de nuestros usuarios.
 
-**Logotipo del servicio:**
+**Logo del producto:**
 
 <p align="left"><img src="images/FinanceGuardLogo.png" alt="Finance Guard Logo" width="60%" height="40%"></p>
 
@@ -265,7 +265,7 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Piero Alonso Martinez Villanueva - U202113821 <img src="images/fotoPiero.jpeg" alt="Foto Piero" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Piero Alonso Martinez Villanueva - U202113821 <br> <img src="images/fotoPiero.jpeg" alt="Foto Piero" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces, siendo puntual con los plazos establecidos en la elaboración de los proyectos. Me gusta aprender sobre nuevas tecnologías, además de ser paciente y perseverante en el desarrrollo de un proyecto.</td>
 		<td style="text-align: center" align="center">Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D.</td>
 	</TR>
