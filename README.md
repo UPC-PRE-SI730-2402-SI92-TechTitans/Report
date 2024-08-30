@@ -294,7 +294,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Seccion Home</b> <br>
-          <b>Dado que:</b> un usuario habitual de la aplicación PocketPartners desea poder observar de que va<br>
+          <b>Dado que:</b> un usuario habitual de la aplicación FinanceGuard desea poder observar de que va<br>
             <b>Cuando:</b> ingresa a la sección "Home" desde el Landing Page<br>
             <b>Entonces:</b> se muestra una imagen resumen y un Hero atractivo, ademas de una barra de navegación.
             <br>
@@ -310,7 +310,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Descubriendo los Servicios en el Landing Page <br>
-            <b>Dado que</b> un potencial usuario interesado en las funcionalidades del aplicativo PocketPartners. <br>
+            <b>Dado que</b> un potencial usuario interesado en las funcionalidades del aplicativo FinanceGuard. <br>
             <b>Cuando</b> ingresa al Landing Page de la aplicación. <br>
             <b>Entonces</b> desea encontrar una sección claramente identificada que informe sobre los servicios que ofrece la aplicación. <br>
             <b>Y</b>, encuentra una descripción concisa y atractiva de las características y beneficios principales que ofrece la aplicación. <br>
@@ -327,10 +327,10 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Visualizando el Video sobre el Producto en el Landing Page <br>
-            <b>Dado que</b> un usuario esta interesado en conocer más sobre el producto PocketPartners. <br>
+            <b>Dado que</b> un usuario esta interesado en conocer más sobre el producto FinanceGuard <br>
             <b>Cuando</b> accede al Landing Page de la aplicación. <br>
             <b>Entonces</b> encuentra una sección dedicada que contenga un video explicativo sobre el producto. <br>
-            <b>Y</b>, observa que este video proporciona información relevante y atractiva sobre las características clave, el funcionamiento y los beneficios de utilizar PocketPartners. <br>
+            <b>Y</b>, observa que este video proporciona información relevante y atractiva sobre las características clave, el funcionamiento y los beneficios de utilizar FinanceGuard. <br>
             <b>Y</b>, se da cuenta que el video esta bien presentado y sea fácil de reproducir, lo cual permitirá obtener una comprensión clara y rápida de lo que ofrece el producto.
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP01</td>
@@ -344,7 +344,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Leyendo Reseñas en la Sección de Reseñas del Landing Page <br>
-            <b>Dado que</b> un usuario interesado en la aplicación PocketPartners y quiere tener una idea de las experiencias de otros usuarios. <br>
+            <b>Dado que</b> un usuario interesado en la aplicación FinanceGuard y quiere tener una idea de las experiencias de otros usuarios. <br>
             <b>Cuando</b> visita la sección de "Reseñas" en el Landing Page. <br>
             <b>Entonces</b> encuentra testimonios y opiniones de usuarios que ya han utilizado la aplicación. <br>
             <b>Y</b>, observa que estas reseñas sean variadas, incluyendo opiniones positivas y constructivas, para tener una visión equilibrada del producto. <br>
@@ -360,7 +360,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
            <b>Escenario:</b> Registrándose en la Sección de Registro del Landing Page<br>
-            <b>Dado que</b> es un usuario nuevo interesado en utilizar la aplicación PocketPartners.<br>
+            <b>Dado que</b> es un usuario nuevo interesado en utilizar la aplicación FinanceGuard.<br>
             <b>Cuando</b> visita la sección de "Registro" en el Landing Page.<br>
             <b>Entonces</b> espera encontrar un formulario claro y sencillo que le permita crear una cuenta nueva.<br>
             <b>Y,</b> desea que la sección incluya elementos visuales que le guíen durante el proceso de registro, como iconos intuitivos o ejemplos de información a proporcionar. <br>
@@ -377,7 +377,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario:</b> Consultando los Contactos de la Sección "Footer" del Landing Page <br>
-            <b>Dado que</b> es un usuario interesado en obtener más información sobre la empresa detrás de la aplicación PocketPartners.<br>
+            <b>Dado que</b> es un usuario interesado en obtener más información sobre la empresa detrás de la aplicación FinanceGuard.<br>
             <b>Cuando</b> llega al final del Landing Page y observa la sección "Footer".<br>
             <b>Entonces</b> espera encontrar los contactos de la empresa, como un número telefónico de contacto o enlaces a sus redes sociales.<br>
             <b>Y</b>,  desea que esta sección sea fácilmente accesible y visible, preferiblemente ubicada en la parte inferior de la página para una navegación conveniente.<br>
@@ -393,7 +393,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Éxito al Crear un Nuevo Grupo</b> <br>
-          <b>Dado que:</b> es un usuario de PocketPartners que desea mantenerse al tanto de las actualizaciones en sus finanzas compartidas.
+          <b>Dado que:</b> es un usuario de FinanceGuard que desea mantenerse al tanto de las actualizaciones en sus finanzas compartidas.
             <br>
             <b>Cuando</b> accede a la opción de crear un nuevo grupo desde la aplicación.
             <br>
@@ -428,9 +428,9 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
           Como usuario, quiero poder observar los detalles de los grupo, cuanto me deben en total y por gasto para poder llevar una cuenta mas detalla de cada grupo y mis finanzas.
         </td>
         <td style="border: 1px solid black;" align="justify">
-          <b>Escenario 1: </b> Consultando los Detalles de un Grupo en PocketPartners
+          <b>Escenario 1: </b> Consultando los Detalles de un Grupo en FinanceGuard
           <br>
-            <b>Dado que</b> es un usuario de PocketPartners interesado en observar los detalles de un grupo en particular.
+            <b>Dado que</b> es un usuario de FinanceGuard interesado en observar los detalles de un grupo en particular.
             <b>Cuando</b> accede a la sección de detalles del grupo desde la aplicación.
             <br>
             <b>Entonces</b> se le presenta una lista con todos los gastos realizados por el grupo, junto con la información de quién realizó el gasto, la cantidad gastada y la fecha.
@@ -450,11 +450,11 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Observar opciones</b> <br>
-          <b>Dado que</b> el usuario se ha registrado en la aplicación PocketPartners y ha iniciado sesión en su cuenta, <br>
+          <b>Dado que</b> el usuario se ha registrado en la aplicación FinanceGuard y ha iniciado sesión en su cuenta, <br>
           <b>Cuando</b> acceda a la sección de "Historial de Transacciones" o "Registro de Gastos", <br>
           <b>Entonces</b> mirará una lista de todas las transacciones registradas, con opciones para editar o eliminar cada una. <br><br> 
           <b>Escenario 2: Editar detalles</b> <br>
-          <b>Dado que</b> el usuario está visualizando la lista de transacciones en la aplicación PocketPartners, <br>
+          <b>Dado que</b> el usuario está visualizando la lista de transacciones en la aplicación FinanceGuard, <br>
           <b>Cuando</b> seleccione una transacción específica que desea editar, <br>
           <b>Entonces</b> podrá acceder a un formulario de edición donde pueda modificar los detalles de la transacción, el monto, la descripción o la fecha. <br><br>
           <b>Escenario 3: Eliminar transacción</b> <br>
@@ -473,7 +473,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Ver informe general</b> <br>
-          <b>Dado que</b> el usuario ha iniciado sesión en su cuenta de PocketPartners, <br>
+          <b>Dado que</b> el usuario ha iniciado sesión en su cuenta de FinanceGuard, <br>
           <b>Cuando</b> acceda a la sección de "Reportes" en la aplicación, <br>
           <b>Entonces</b> podrá ver un resumen general de sus gastos compartidos, incluidos gráficos y tablas que muestran los totales por categoría de gasto, período de tiempo, etc. <br><br> 
           <b>Escenario 2: Filtrar informe por período</b> <br>
@@ -492,7 +492,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Acceso al Conversor</b> <br>
-          <b>Dado que</b> el usuario se haya registrado en la aplicación PocketPartners, <br>
+          <b>Dado que</b> el usuario se haya registrado en la aplicación FinanceGuard, <br>
           <b>Cuando</b> acceda a la sección de "+ detalles" o "Informe de Gastos", <br>
           <b>Entonces</b> podrá visualizar una opción para convertir las transacciones a diferentes monedas utilizando un conversor de moneda integrado. <br><br>
           <b>Escenario 2: Conversión</b> <br>
@@ -511,11 +511,11 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Ver detalles</b> <br>
-          <b>Dado que</b> el usuario se ha registrado en la aplicación PocketPartners, <br>
+          <b>Dado que</b> el usuario se ha registrado en la aplicación FinanceGuard, <br>
           <b>Cuando</b> acceda a la sección de "Historial de Transacciones" o "Registro de Gastos", <br>
           <b>Entonces</b> podrá ver una lista de todas las transacciones registradas. <br><br>
           <b>Escenario 2: Ver detalles de una transacción específica</b> <br>
-          <b>Dado que</b> el usuario está visualizando la lista de transacciones en la aplicación PocketPartners, <br>
+          <b>Dado que</b> el usuario está visualizando la lista de transacciones en la aplicación FinanceGuard, <br>
           <b>Cuando</b> seleccione una transacción específica, <br>
           <b>Entonces</b> podrá ver detalles adicionales de la transacción, incluyendo el nombre del usuario que la ingresó, la fecha y una descripción del gasto.
         </td>
@@ -530,7 +530,7 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Registrar Pago</b> <br>
-          <b>Dado que</b> el usuario registrado en la aplicación PocketPartners desea registrar un pago realizado a otro miembro del grupo, <br>
+          <b>Dado que</b> el usuario registrado en la aplicación FinanceGuard desea registrar un pago realizado a otro miembro del grupo, <br>
           <b>Cuando</b> acceda a la sección de "Registrar Pago" y seleccione el miembro del grupo al que realizó el pago, <br>
           <b>Entonces</b> podrá ingresar los detalles del pago, incluyendo el monto, la fecha y una descripción. <br><br>
           <b>Escenario 2: Confirmación</b> <br>
@@ -583,12 +583,12 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         <td style="text-align: center; border: 1px solid black;" align="center"><b>US-17</b></td>  
         <td style="text-align: center; border: 1px solid black;" align="center">Grafico de gastos mensuales </td>
         <td style="border: 1px solid black;" align="justify">
-          Como usuario, quiero poder obervar en la aplicación PocketPartners mis finanzas desde un gráfico en la seccion "Home".
+          Como usuario, quiero poder obervar en la aplicación FinanceGuard mis finanzas desde un gráfico en la seccion "Home".
         </td>
         <td style="border: 1px solid black;" align="justify">
           <b>Escenario 1: Line Chart</b> <br>
-          <b>Dado que</b> es un usuario de la aplicación PocketPartners que desea tener una visión gráfica de sus finanzas mensuales<br>
-          <b>Cuando</b>ingresa a la sección "Home" de la aplicación PocketPartners<br>
+          <b>Dado que</b> es un usuario de la aplicación FinanceGuard que desea tener una visión gráfica de sus finanzas mensuales<br>
+          <b>Cuando</b>ingresa a la sección "Home" de la aplicación FinanceGuard<br>
           <b>Entonces</b>observa un gráfico que muestra sus gastos mensuales de manera clara y comprensible<br><br>
         </td>
         <td style="text-align: center; border: 1px solid black;" align="center">EP02</td>
@@ -713,11 +713,11 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
           <td style="text-align: center; border: 1px solid black;" align="center">US-23</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Inicio de sesión en la aplicación</td>
           <td style="border: 1px solid black;" align="justify">
-            Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece PocketPartners.
+            Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece FinanceGuard.
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario 1: </b> <br>
-            <b>Dado que</b> es un usuario registrado de PocketPartners <br>
+            <b>Dado que</b> es un usuario registrado de FinanceGuard <br>
             <b>Cuando</b> ingresa sus datos y hace clic en el botón "Iniciar sesión"<br>
             <b>Entonces</b> la aplicación debería validar sus datos y otorgarle acceso a su cuenta<br>
             <b>Y</b> debería ser redirigido a la sección "Home" de su cuenta.
@@ -764,17 +764,17 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
         <td style="text-align: center; border: 1px solid black;" align="center">US-26</td>
           <td style="text-align: center; border: 1px solid black;" align="center">Integracion del backend con el frontend</td>
           <td style="border: 1px solid black;" align="justify">
-            Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.
+            Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de FinanceGuard para permitir una interacción completa y sin problemas en la aplicación.
           </td>
           <td style="border: 1px solid black;" align="justify">
             <b>Escenario: Integración del Backend con el Frontend</b> <br>
-            <b>Dado que</b> es un desarrollador encargado de integrar el backend con el frontend de la aplicación PocketPartners<br>
+            <b>Dado que</b> es un desarrollador encargado de integrar el backend con el frontend de la aplicación FinanceGuard<br>
             <b>Cuando</b> comienza el proceso de integración.  <br>
             <b>Entonces</b> implementa los controladores y servicios necesarios en el backend para procesar las solicitudes del frontend de manera adecuada. <br>
             <b>Entonces</b> Implemento los controladores y servicios necesarios en el backend para procesar las solicitudes del frontend de manera adecuada. <br>
             <b>Entonces</b> establece una API RESTful que permita la transferencia de datos entre el frontend y el backend de manera eficiente y segura. <br>
             <b>Entonces</b> en el frontend, consume los endpoints proporcionados por el backend <br>
-            <b>Y</b> verifica que la integración sea exitosa al realizar pruebas de extremo a extremo, lo que garantiza una interacción completa y sin problemas en la aplicación PocketPartners.
+            <b>Y</b> verifica que la integración sea exitosa al realizar pruebas de extremo a extremo, lo que garantiza una interacción completa y sin problemas en la aplicación FinanceGuard.
           </td>
           <td style="text-align: center; border: 1px solid black;" align="center">EP03</td>
         </tr>
