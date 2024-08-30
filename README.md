@@ -782,7 +782,13 @@ En este apartado veremos el detalle de User Stories que son breves descripciones
 </table>
 
 ## 3.3. Impact Mapping
+
+En este apartado veremos el detalle de Impact Mapping que es una técnica visual que conecta objetivos de negocio con las acciones necesarias para lograrlos, mostrando cómo cada funcionalidad del proyecto contribuye a esos objetivos.
+
 ## 3.4. Product Backlog
+
+En este apartado veremos el detalle de Product Backlog es una lista priorizada de todas las tareas, funcionalidades y mejoras que se deben realizar en un proyecto. Sirve como una fuente única de requisitos, que se actualiza continuamente para reflejar las necesidades y prioridades del negocio.
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ## 4.2. Information Architecture
