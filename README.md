@@ -291,6 +291,29 @@ FinanceGuard es una plataforma que incentiva el respeto. Por ello, se aplicará 
 
 ## 4.2. Information Architecture
 ## 4.3. Landing Page UI Design
+### 4.3.1. Landing Page Wireframes
+Para los wireframes del landing page de FinanceGuard, se hizo un diseño sencillo de entender para los usuarios y con una apariencia moderna.
+
+Por otro lado, a través de los wireframes se puede observar la estructura del landing page, el cual tendrá una cabecera con tres secciones, los cuales son inicio, nosotros y registro. Asimismo, en el contenido se mostrará ventajas y suscripciones, además de una descripción de FinanceGuard y también de TechTitans.
+
+#### Desktop Web Browser
+- Inicio
+<img src="images/Desktop_inicio1.png" width="100%">
+<img src="images/Desktop_inicio2.png" width="100%">
+
+- Nosotros
+<img src="images/Desktop_nosotros1.png" width="100%">
+<img src="images/Desktop_nosotros2.png" width="100%">
+
+#### Mobile Web Browser
+- Inicio
+<img src="images/Mobile_inicio1.png" width="50%">
+<img src="images/Mobile_inicio2.png" width="50%">
+
+- Nosotros
+<img src="images/Mobile_nosotros1.png" width="50%">
+<img src="images/Mobile_nosotros2.png" width="50%">
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
