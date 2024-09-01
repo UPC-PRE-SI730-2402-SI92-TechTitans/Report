@@ -779,6 +779,36 @@ Aldo, un estudiante universitario de 20 años que reside en Pueblo Libre, Lima, 
 Alonso, un estudiante de 20 años de ingeniería que reside en San Juan de Lurigancho, gestiona sus finanzas personales principalmente de manera mental, utilizando Excel solo cuando los gastos son significativos. Alonso enfrenta dificultades al organizar gastos compartidos, especialmente cuando se trata de recordar deudas pendientes entre amigos, lo que sugiere la necesidad de una herramienta digital para manejar estas situaciones. Para él, es esencial que una aplicación de gestión financiera sea fácil de usar y que ofrezca predicciones y consejos basados en sus gastos. Su disposición a pagar por una herramienta depende de la calidad y utilidad de la misma; estaría dispuesto a pagar más si la aplicación proporciona reportes detallados y ayuda a reducir costos. Aunque su experiencia con Excel ha sido positiva para organizar sus gastos, Alonso reconoce la necesidad de una solución más sofisticada. Prefiere realizar un seguimiento de sus deudas manualmente o con notas en su computadora o celular, pero considera que recibir notificaciones automáticas sería muy útil para cumplir con sus responsabilidades financieras. En términos de personalización, valora aspectos estéticos como colores y fondos, así como la posibilidad de gestionar diferentes monedas.
 
 ### 2.2.3. Análisis de entrevistas
+#### Segmento: Profesionales y Empresas
+El análisis de las entrevistas realizadas a los participantes del segmento "Profesionales y Empresas" revela varias características objetivas y subjetivas que son comunes y necesarias para la construcción de arquetipos.
+- **Uso de Herramientas Digitales para la Gestión Financiera:**
+50% de los entrevistados en este segmento utiliza aplicaciones bancarias para la gestión de sus finanzas personales. Y el otro 50% utiliza métodos tradicionales como Excel y cuadernos, lo que sugiere una mezcla de tecnologías y preferencias en este grupo.
+- **Necesidad de Centralización y Simplificación:**
+100% de los entrevistados mencionaron la falta de una visión consolidada de sus finanzas, lo que afecta la organización y precisión en la gestión de sus recursos. Valoran la posibilidad de centralizar sus operaciones financieras en una sola plataforma que sea intuitiva y fácil de usar.
+- **Preferencia por la Personalización:**
+100% de los entrevistados consideran esencial la personalización en una aplicación de gestión financiera. Esto incluye la capacidad de adaptar la herramienta a sus necesidades individuales, con opciones para ajustar interfaces y funciones según sus preferencias.
+- **Disposición a Pagar por una Solución Eficiente:**
+100% de los participantes están dispuestos a pagar por una herramienta que mejore significativamente la gestión de sus finanzas, siempre que esta ofrezca funcionalidades claras y personalizables.
+- **Relación con Notificaciones Automáticas:**
+50% valora las notificaciones automáticas para recordar pagos y vencimientos, mientras que el otro 50% prefiere un enfoque menos intrusivo, indicando una división en cuanto a la aceptación de este tipo de recordatorios.
+
+**Conclusión:** El segmento "Profesionales y Empresas" se caracteriza por la necesidad de centralización, simplicidad, y personalización en las herramientas de gestión financiera. A pesar de su disposición a pagar por una buena solución, las preferencias respecto a las notificaciones automáticas varían, lo que sugiere la importancia de ofrecer opciones flexibles en esta área.
+
+#### Segmento: Usuarios de Finanzas Personales
+El análisis de las entrevistas con los participantes de este segmento muestran patrones consistentes en la gestión financiera y las necesidades tecnológicas.
+- **Gestión Financiera Informal o Básica:**
+100% de los entrevistados en este segmento gestionan sus finanzas de manera básica, ya sea mediante métodos informales como la memoria o con herramientas limitadas como Excel y aplicaciones móviles.
+- **Dificultades en la Organización de Gastos Compartidos:**
+100% de los entrevistados mencionaron que enfrentan desafíos al organizar gastos compartidos, lo que indica una necesidad clara de herramientas que faciliten este proceso.
+- **Preferencia por la Personalización y Sencillez:**
+100% de los entrevistados destacaron la importancia de la personalización en una aplicación de finanzas, así como la necesidad de que sea fácil de usar. Esto incluye desde aspectos estéticos hasta la capacidad de ajustar funciones según sus necesidades individuales.
+- **Disposición a Pagar por Calidad y Utilidad:**
+100% de los participantes están dispuestos a pagar por una aplicación que cumpla con sus expectativas en términos de calidad y funcionalidad. Sin embargo, la disposición a pagar más está directamente relacionada con el valor percibido y los beneficios adicionales que la aplicación pueda ofrecer.
+- **Aceptación de Notificaciones Automáticas:**
+100% de los entrevistados consideran útiles las notificaciones automáticas para recordar pagos y vencimientos, lo que resalta la importancia de esta característica en aplicaciones dirigidas a este segmento.
+
+**Conclusión:** El segmento "Usuarios de Finanzas Personales" demanda simplicidad, personalización, y funcionalidad en la gestión financiera. Los usuarios buscan herramientas que no solo les permitan organizar sus finanzas, sino que también les enseñen y ofrezcan recomendaciones útiles. La disposición a pagar está condicionada a la percepción de valor que la aplicación les ofrezca, con un fuerte énfasis en la necesidad de notificaciones automáticas y una interfaz fácil de usar.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
