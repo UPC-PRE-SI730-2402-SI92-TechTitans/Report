@@ -526,7 +526,7 @@ FinanceGuard se dirige a dos audiencias meta clave: *Profesionales y Empresas* y
 ### 2.2.2. Registro de entrevistas
 **Profesionales y Empresas:**
 
-<table>
+<table style="border: 0.01px solid #555">
     <tr>
         <td colspan="2" style="text-align: center;">
             Entrevista 1
@@ -567,7 +567,7 @@ FinanceGuard se dirige a dos audiencias meta clave: *Profesionales y Empresas* y
     </tr>
 </table>
 Luis, un profesor universitario y emprendedor de 48 años que reside en Lima, gestiona sus finanzas personales y empresariales de manera rudimentaria mediante el uso de Excel y registros manuales en cuadernos. A pesar de su falta de formación financiera, Luis destaca la importancia de centralizar sus operaciones para mejorar su organización, ya que actualmente maneja diferentes métodos de pago sin una visión consolidada. Prefiere una aplicación intuitiva y fácil de usar, dado que no tiene experiencia previa con herramientas digitales financieras, y está dispuesto a pagar por una solución que optimice sus finanzas, siempre que incluya tutoriales y ofrezca un alto nivel de personalización. Su método actual para recordar pagos y deudas se basa en la memoria, lo cual reconoce como poco confiable, y valora la posibilidad de recibir notificaciones automáticas en su celular. Luis muestra una preferencia por servicios personalizados que se adapten completamente a sus necesidades, lo que sugiere la importancia de una interfaz flexible y ajustable. Sus respuestas reflejan un perfil de usuario que valora la simplicidad, la accesibilidad, y la personalización en las herramientas tecnológicas que utiliza. <br><br>
-<table>
+<table style="border: 0.01px solid #555">
     <tr>
         <td colspan="2" style="text-align: center;">
             Entrevista 2
@@ -608,7 +608,7 @@ Luis, un profesor universitario y emprendedor de 48 años que reside en Lima, ge
     </tr>
 </table>
 Jean Pierre, de 38 años y empleado en el Congreso, gestiona sus finanzas personales utilizando aplicaciones bancarias. Aunque encuentra útil estas herramientas, expresa que no siempre son fáciles de entender, lo que dificulta una gestión financiera eficiente. Al enfrentar gastos compartidos, se le complica llevar un control claro entre lo que gasta y lo que cobra. Jean Pierre valora la agilidad, dinamismo, y la inclusión de estadísticas y cuadros en una aplicación de gestión financiera, características que considera esenciales. Aunque está dispuesto a pagar por una herramienta que optimice sus finanzas, es reacio a recibir notificaciones automáticas de pagos y vencimientos, prefiriendo un enfoque menos intrusivo. Resalta la importancia de la personalización en una aplicación, argumentando que cada persona tiene necesidades financieras únicas que deben ser atendidas de manera individual.<br><br>
-<table>
+<table style="border: 0.01px solid #555">
     <tr>
         <td colspan="2" style="text-align: center;">
             Entrevista 3
@@ -652,7 +652,7 @@ Jean Pierre, de 38 años y empleado en el Congreso, gestiona sus finanzas person
 
 **Usuarios de Finanzas Personales**
 
-<table>
+<table style="border: 0.01px solid #555">
     <tr>
         <td colspan="2" style="text-align: center;">
             Entrevista 1
@@ -694,7 +694,7 @@ Jean Pierre, de 38 años y empleado en el Congreso, gestiona sus finanzas person
 </table>
 Alessandro, un joven de 21 años y estudiante de ingeniería de software en Lima, admite que actualmente no lleva un control adecuado de sus finanzas personales, manejando sus gastos de manera informal y sin organización. Frente a la necesidad de mejorar esta situación, Alessandro valora la idea de una aplicación que no solo le permita gestionar sus finanzas, sino que también le enseñe a hacerlo de manera efectiva, con recomendaciones personalizadas. Aunque nunca ha utilizado herramientas digitales de gestión financiera, muestra disposición a pagar por una solución que realmente aporte beneficios tangibles a su vida financiera. Alessandro sigue sus deudas y saldos utilizando un calendario, lo que indica una falta de centralización y automatización en sus procesos financieros. Considera que recibir notificaciones automáticas sería muy útil para no olvidar pagos o vencimientos, dada su ocupada vida como estudiante. Además, espera que una aplicación de finanzas ofrezca un alto nivel de personalización adaptado a sus patrones de gasto y objetivos personales, lo que refleja su deseo de tener una herramienta que se ajuste a sus necesidades específicas.<br><br>
 
-<table>
+<table style="border: 0.01px solid #555">
     <tr>
         <td colspan="2" style="text-align: center;">
             Entrevista 2
@@ -736,7 +736,7 @@ Alessandro, un joven de 21 años y estudiante de ingeniería de software en Lima
 </table>
 Aldo, un estudiante universitario de 20 años que reside en Pueblo Libre, Lima, gestiona sus finanzas personales utilizando una combinación de hojas de cálculo en Excel y una aplicación móvil. Aunque este método le permite registrar sus gastos diarios, reconoce que es un proceso manual, que consume tiempo y es propenso a errores, especialmente al intentar seguir un presupuesto. Aldo enfrenta dificultades al organizar gastos compartidos, ya que mantener un registro claro y evitar confusiones en los saldos es complicado y puede llevar a discusiones innecesarias. Para él, una aplicación de gestión financiera ideal debe incluir categorización automática de gastos, integración con bancos, herramientas para crear y seguir presupuestos, y notificaciones para recordatorios de pagos. A pesar de haber utilizado varias aplicaciones para dividir gastos y seguir sus finanzas personales, ninguna ha cubierto todas sus necesidades de manera integral, lo que le lleva a combinar varias herramientas. Prefiere recibir notificaciones automáticas sobre transacciones y vencimientos para sentirse más seguro en la gestión de sus finanzas. Aldo valora un alto nivel de personalización en una aplicación de finanzas, con un enfoque en mostrar el saldo actual de manera sencilla y accesible.<br><br>
 
-<table>
+<table style="border: 0.01px solid #555">
     <tr>
         <td colspan="2" style="text-align: center;">
             Entrevista 3
@@ -818,6 +818,148 @@ El análisis de las entrevistas con los participantes de este segmento muestran 
 <img src="images/UserPersona2.png" alt="User Persona Usuarios de Finanzas Personales" style="width: 100%;">
 
 ### 2.3.2. User Task Matrix
+#### Segmento: Profesionales y Empresas
+<table style="width:100%; border: 0.5px solid #48e;">
+  <thead>
+    <tr style="background-color: #48e;">
+      <th>User Task</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr >
+      <td>Registrar ingresos y gastos</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Monitorear el flujo de caja</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Gestionar deudas y préstamos</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Organizar y categorizar gastos</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Recordar fechas de pago</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Presupuestar a corto plazo</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Planificar inversiones</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Consolidar métodos de pago</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Consultar saldos y cuentas bancarias</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Dividir gastos compartidos</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr >
+      <td>Organizar las finanzas de manera digital</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Mantener registros financieros manuales</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Segmento: Usuarios de Finanzas Personales
+<table style="width:100%; border: 0.5px solid #48e;">
+  <thead>
+    <tr style="background-color: #48e;">
+      <th>User Task</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Registrar ingresos y gastos</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Monitorear el flujo de caja</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Gestionar deudas y préstamos</td>
+      <td>Baja</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Organizar y categorizar gastos</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Recordar fechas de pago</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Presupuestar a corto plazo</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Planificar inversiones</td>
+      <td>Baja</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Consultar saldos y cuentas bancarias</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Dividir gastos compartidos</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Organizar las finanzas de manera digital</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Mantener registros financieros manuales</td>
+      <td>Baja</td>
+      <td>Baja</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
