@@ -959,8 +959,19 @@ El análisis de las entrevistas con los participantes de este segmento muestran 
   </tbody>
 </table>
 
-
 ### 2.3.3. User Journey Mapping
+En esta sección, se presentan los User Journey Maps para los dos segmentos objetivo identificados: Mario Paredes, un profesional y empresario, y Julia Fernández, una usuaria de finanzas personales. Estos mapas de viaje de usuario (User Journey Maps) ilustran el recorrido completo de cada usuario desde el inicio hasta el final de su experiencia en la gestión financiera, sin la presencia de una solución tecnológica específica. El enfoque de esta versión "As-Is" es entender los desafíos, oportunidades y puntos de contacto actuales que enfrentan ambos perfiles en su día a día al manejar sus finanzas.
+
+#### Segmento: Profesionales y Empresas
+**Resumen del recorrido:** Mario, como empresario, necesita llevar un control riguroso de sus finanzas. Su viaje comienza al recibir ingresos y continúa con la organización de estos, la categorización de gastos, la planificación del flujo de caja y la toma de decisiones financieras críticas. Este proceso es esencial para mantener la salud financiera de su empresa y asegurar el cumplimiento de sus obligaciones.
+
+<img src="images/JourneyMappingSeg1.jpg" alt="Journey Mapping Profesionales y Empresas" style="width: 100%;">
+
+#### Segmento: Usuarios de Finanzas Personales
+**Resumen del recorrido:** Julia, una usuaria enfocada en mantener el control de sus finanzas personales, sigue un recorrido que incluye la planificación de su presupuesto, la gestión de sus gastos cotidianos y la preparación para imprevistos. Su objetivo es mantener la estabilidad financiera y ahorrar para metas futuras.
+
+<img src="images/JourneyMappingSeg2.jpg" alt="Journey Mapping Usuarios de Finanzas Personales" style="width: 100%;">
+
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
