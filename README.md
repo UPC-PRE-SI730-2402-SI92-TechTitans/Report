@@ -973,6 +973,13 @@ En esta sección, se presentan los User Journey Maps para los dos segmentos obje
 <img src="images/JourneyMappingSeg2.jpg" alt="Journey Mapping Usuarios de Finanzas Personales" style="width: 100%;">
 
 ### 2.3.4. Empathy Mapping
+
+#### Segmento: Profesionales y Empresas
+<img src="images/EmpathyMappingSeg1.png" alt="Empathy Mapping Profesionales y Empresas" style="width: 100%;">
+
+#### Segmento: Usuarios de Finanzas Personales
+<img src="images/EmpathyMappingSeg2.png" alt="Empathy Mapping Usuarios de Finanzas Personales" style="width: 100%;">
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
