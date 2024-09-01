@@ -811,6 +811,12 @@ El análisis de las entrevistas con los participantes de este segmento muestran 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+#### Segmento: Profesionales y Empresas
+<img src="images/UserPersona1.png" alt="User Persona Profesionales y Empresas" style="width: 100%;">
+
+#### Segmento: Usuarios de Finanzas Personales
+<img src="images/UserPersona2.png" alt="User Persona Usuarios de Finanzas Personales" style="width: 100%;">
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
