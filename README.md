@@ -524,6 +524,260 @@ FinanceGuard se dirige a dos audiencias meta clave: *Profesionales y Empresas* y
 4. **¿Qué nivel de personalización esperarías de una aplicación de finanzas?**
 
 ### 2.2.2. Registro de entrevistas
+**Profesionales y Empresas:**
+
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 1
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent1-SegProfesionalesEmpresas.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Luis Iparraguirre Quiñones</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>48</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Breña</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/4e6V321">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[1:11]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[6:13]</td>
+    </tr>
+        <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/08/2024</td>
+    </tr>
+</table>
+Luis, un profesor universitario y emprendedor de 48 años que reside en Lima, gestiona sus finanzas personales y empresariales de manera rudimentaria mediante el uso de Excel y registros manuales en cuadernos. A pesar de su falta de formación financiera, Luis destaca la importancia de centralizar sus operaciones para mejorar su organización, ya que actualmente maneja diferentes métodos de pago sin una visión consolidada. Prefiere una aplicación intuitiva y fácil de usar, dado que no tiene experiencia previa con herramientas digitales financieras, y está dispuesto a pagar por una solución que optimice sus finanzas, siempre que incluya tutoriales y ofrezca un alto nivel de personalización. Su método actual para recordar pagos y deudas se basa en la memoria, lo cual reconoce como poco confiable, y valora la posibilidad de recibir notificaciones automáticas en su celular. Luis muestra una preferencia por servicios personalizados que se adapten completamente a sus necesidades, lo que sugiere la importancia de una interfaz flexible y ajustable. Sus respuestas reflejan un perfil de usuario que valora la simplicidad, la accesibilidad, y la personalización en las herramientas tecnológicas que utiliza. <br><br>
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 2
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent2-SegProfesionalesEmpresas.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Jean Pierre Francis Iparraguirre Quiñones</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Lince</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/4cIXlD7">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:25]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[2:34]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/8/2024</td>
+    </tr>
+</table>
+Jean Pierre, de 38 años y empleado en el Congreso, gestiona sus finanzas personales utilizando aplicaciones bancarias. Aunque encuentra útil estas herramientas, expresa que no siempre son fáciles de entender, lo que dificulta una gestión financiera eficiente. Al enfrentar gastos compartidos, se le complica llevar un control claro entre lo que gasta y lo que cobra. Jean Pierre valora la agilidad, dinamismo, y la inclusión de estadísticas y cuadros en una aplicación de gestión financiera, características que considera esenciales. Aunque está dispuesto a pagar por una herramienta que optimice sus finanzas, es reacio a recibir notificaciones automáticas de pagos y vencimientos, prefiriendo un enfoque menos intrusivo. Resalta la importancia de la personalización en una aplicación, argumentando que cada persona tiene necesidades financieras únicas que deben ser atendidas de manera individual.<br><br>
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 3
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent3-SegProfesionalesEmpresas.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>xxx</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>xxx</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>xxx</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[xxx]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[xxx]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>xxx</td>
+    </tr>
+</table>
+<br><br><br>
+
+**Usuarios de Finanzas Personales**
+
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 1
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent1-SegFinanzasPersonales.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Alessandro Ramiro Condori Lozano</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>San Juan de Lurigancho</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="http://bit.ly/4g7UTJi">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:34]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[3:20]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/08/2024</td>
+    </tr>
+</table>
+Alessandro, un joven de 21 años y estudiante de ingeniería de software en Lima, admite que actualmente no lleva un control adecuado de sus finanzas personales, manejando sus gastos de manera informal y sin organización. Frente a la necesidad de mejorar esta situación, Alessandro valora la idea de una aplicación que no solo le permita gestionar sus finanzas, sino que también le enseñe a hacerlo de manera efectiva, con recomendaciones personalizadas. Aunque nunca ha utilizado herramientas digitales de gestión financiera, muestra disposición a pagar por una solución que realmente aporte beneficios tangibles a su vida financiera. Alessandro sigue sus deudas y saldos utilizando un calendario, lo que indica una falta de centralización y automatización en sus procesos financieros. Considera que recibir notificaciones automáticas sería muy útil para no olvidar pagos o vencimientos, dada su ocupada vida como estudiante. Además, espera que una aplicación de finanzas ofrezca un alto nivel de personalización adaptado a sus patrones de gasto y objetivos personales, lo que refleja su deseo de tener una herramienta que se ajuste a sus necesidades específicas.<br><br>
+
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 2
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent2-SegFinanzasPersonales.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Aldo Alexander Vasquez Sotomayor</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Pueblo libre</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/4dVsRiq">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:38]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[3:59]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/8/2024</td>
+    </tr>
+</table>
+Aldo, un estudiante universitario de 20 años que reside en Pueblo Libre, Lima, gestiona sus finanzas personales utilizando una combinación de hojas de cálculo en Excel y una aplicación móvil. Aunque este método le permite registrar sus gastos diarios, reconoce que es un proceso manual, que consume tiempo y es propenso a errores, especialmente al intentar seguir un presupuesto. Aldo enfrenta dificultades al organizar gastos compartidos, ya que mantener un registro claro y evitar confusiones en los saldos es complicado y puede llevar a discusiones innecesarias. Para él, una aplicación de gestión financiera ideal debe incluir categorización automática de gastos, integración con bancos, herramientas para crear y seguir presupuestos, y notificaciones para recordatorios de pagos. A pesar de haber utilizado varias aplicaciones para dividir gastos y seguir sus finanzas personales, ninguna ha cubierto todas sus necesidades de manera integral, lo que le lleva a combinar varias herramientas. Prefiere recibir notificaciones automáticas sobre transacciones y vencimientos para sentirse más seguro en la gestión de sus finanzas. Aldo valora un alto nivel de personalización en una aplicación de finanzas, con un enfoque en mostrar el saldo actual de manera sencilla y accesible.<br><br>
+
+<table>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 3
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent3-SegFinanzasPersonales.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Alonso Fernando Robles Asuñaupa</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>San Juan de Lurigancho</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/3XbgJCW">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:35]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[4:14]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>30/8/2024</td>
+    </tr>
+</table>
+Alonso, un estudiante de 20 años de ingeniería que reside en San Juan de Lurigancho, gestiona sus finanzas personales principalmente de manera mental, utilizando Excel solo cuando los gastos son significativos. Alonso enfrenta dificultades al organizar gastos compartidos, especialmente cuando se trata de recordar deudas pendientes entre amigos, lo que sugiere la necesidad de una herramienta digital para manejar estas situaciones. Para él, es esencial que una aplicación de gestión financiera sea fácil de usar y que ofrezca predicciones y consejos basados en sus gastos. Su disposición a pagar por una herramienta depende de la calidad y utilidad de la misma; estaría dispuesto a pagar más si la aplicación proporciona reportes detallados y ayuda a reducir costos. Aunque su experiencia con Excel ha sido positiva para organizar sus gastos, Alonso reconoce la necesidad de una solución más sofisticada. Prefiere realizar un seguimiento de sus deudas manualmente o con notas en su computadora o celular, pero considera que recibir notificaciones automáticas sería muy útil para cumplir con sus responsabilidades financieras. En términos de personalización, valora aspectos estéticos como colores y fondos, así como la posibilidad de gestionar diferentes monedas.
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
