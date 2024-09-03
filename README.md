@@ -988,6 +988,28 @@ En esta sección, se presentan los User Journey Maps para los dos segmentos obje
 <img src="images/As-isScenarioMappingSeg2.jpg" alt="As-is Scenario Mapping Usuarios de Finanzas Personales" style="width: 100%;">
 
 ## 2.4. Ubiquitous Language
+### Glosario de Términos
+- **Cash Flow (Flujo de Caja):**
+Cantidad de dinero que entra y sale de una empresa o cuenta personal en un período determinado, esencial para mantener la liquidez.
+- **Budgeting (Presupuestación):**
+Proceso de planificación y asignación de recursos financieros a diferentes categorías de gasto para controlar el uso del dinero.
+- **Expense Tracking (Seguimiento de Gastos):**
+Registro y monitoreo constante de los gastos realizados para identificar áreas de ahorro.
+- **Debt Management (Gestión de Deudas):**
+Estrategia para controlar y pagar deudas, organizando pagos y consolidando deudas.
+- **Financial Planning (Planificación Financiera):**
+Establecimiento de metas financieras y desarrollo de un plan de acción para alcanzarlas.
+- **Savings (Ahorros):**
+Parte de los ingresos que se guarda para el futuro, ya sea en efectivo o en una cuenta bancaria.
+- **Investment (Inversión):**
+Asignación de dinero a un activo o proyecto con la expectativa de obtener un beneficio futuro.
+- **Emergency Fund (Fondo de Emergencia):**
+Reserva de dinero destinada a cubrir gastos inesperados o emergencias.
+- **Net Worth (Patrimonio Neto):**
+Valor total de los activos de una persona o empresa menos sus pasivos.
+- **Recurring Payment (Pago Recurrente):**
+Transacción automática y periódica para cumplir con obligaciones financieras regulares.
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
