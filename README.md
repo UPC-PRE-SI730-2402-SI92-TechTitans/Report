@@ -151,7 +151,7 @@ Agosto 2024
 
 # **Project Report Online**
 
-URL Project Report (Github): 
+URL Project Report (Github): https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report
 
 ### [Capítulo I: Introducción]()
 - [1.1. Startup Profile]()
@@ -303,7 +303,7 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<TH><h2>Conocimientos</h2></TH>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Karen Ramos Carpio - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="40%"> </p></td>
+		<td style="text-align: center" align="center"><p align="center"> Karen Ramos Carpio - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="50%"> </p></td>
 		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los 		objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia.</td>
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
 	</TR>
