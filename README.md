@@ -313,7 +313,7 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<td style="text-align: center" align="center">Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D.</td>
 	</TR>
   <TR>
-		<td style="text-align: center" align="center"><p align="center"> Gianfranco Luna Morales  - U201924343  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Gianfranco Luna Morales  - U201924343  <img src="images/Gianfranco" alt="Gianfranco profile" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">Me gusta observar el comportamiento de las personas para así crear un ambiente cómodo y activo; soy práctico y racional para los percances que puedan surgir. </td>
 		<td style="text-align: center" align="center">Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
 	</TR>
