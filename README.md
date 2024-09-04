@@ -125,10 +125,9 @@ Agosto 2024
 	  <li>Luna Morales, Gianfranco</li>
 	  <li>Ramos Aguirre, Aldair Joaquin</li>
 	  <li>Santillan Alvarado, Melina Liz</li>
-
         </ul>
       </td>
-	 <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la 		planificación, desarrollo y envío del proyecto a producción.</p>
+      <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la 		planificación, desarrollo y envío del proyecto a producción.</p></td>
       <br>
      </tr>
       <tr style="border-bottom: 1px solid black;">
