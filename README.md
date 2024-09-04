@@ -63,10 +63,15 @@ Agosto 2024
   <tbody>
   <tr>
       <td><strong>TB1</strong></td>
-      <td></td>
+      <td>Jueves 04 de Setiembre</td>
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
+	  <li>Martinez Villanueva, Piero Alonso</li>
+  	  <li>Iparraguirre Rueda, Cristian Luis</li>
+ 	  <li>Luna Morales, Gianfranco</li>
+	  <li>Ramos Aguirre, Aldair Joaquin</li>
+	  <li>Santillan Alvarado, Melina Liz</li> 
         </ul>
       </td>
       <td>
@@ -107,6 +112,41 @@ Agosto 2024
       <th style="border-right: 1px solid black;">Acciones Realizadas</th>
       <th>Conclusiones</th>
     </tr>
+  </thead>
+    <tbody>
+    <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
+      <td style="border-right: 1px solid black;">
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Ramos Carpio, Karen:</li>
+          <li>Martinez Villanueva, Piero Alonso:</li>
+          <li>Iparraguirre Rueda, Cristian Luis</li>
+	  <li>Luna Morales, Gianfranco</li>
+	  <li>Ramos Aguirre, Aldair Joaquin</li>
+	  <li>Santillan Alvarado, Melina Liz</li>
+
+        </ul>
+      </td>
+	 <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la 		planificación, desarrollo y envío del proyecto a producción.</p>
+      <br>
+     </tr>
+      <tr style="border-bottom: 1px solid black;">
+      <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
+      <td style="border-right: 1px solid black;">
+        <ul>
+          <p><strong>TB1</strong></p>
+          <li>Ramos Carpio, Karen:</li>
+          <li>Martinez Villanueva, Piero Alonso:</li>
+          <li>Iparraguirre Rueda, Cristian Luis</li>
+	  <li>Luna Morales, Gianfranco</li>
+	  <li>Ramos Aguirre, Aldair Joaquin</li>
+	  <li>Santillan Alvarado, Melina Liz</li>
+        </ul>
+      </td>
+	 <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la 		planificación, desarrollo y envío del proyecto a producción.</p>
+      <br>
+     </tr>
   </tbody>
 </table>
 
