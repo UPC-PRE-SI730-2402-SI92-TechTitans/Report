@@ -30,6 +30,10 @@ Producto: FinanceGuard
 | :----------------------------: | :--------: |
 |      Ramos Carpio, Karen       | U20201E493 |
 |      Martinez Villanueva, Piero Alonso       | U202113821 |
+|      Iparraguirre Rueda, Cristian Luis       |  |
+|      Luna Morales, Gianfranco        |  |
+|      Ramos Aguirre, Aldair Joaquin       |  |
+|      Santillan Alvarado, Melina Liz       | U202216058 |
 
 Agosto 2024
 
