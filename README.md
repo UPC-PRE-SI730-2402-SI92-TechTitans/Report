@@ -318,9 +318,9 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<td style="text-align: center" align="center">Si bien poseo conocimientos básicos en la programación en el lenguaje C + +, aportaré en lo que pueda para realizar con éxito la idea planteada.</td>
 	</TR>
   <TR>
-		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">xxx</td>
-		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center"><p align="center"> Melina Liz Santillan Alvarado - U202216058  <img src="images/fotoMelina.jpg" alt="" width="45%"> </p></td> 
+		<td style="text-align: center" align="center">Me considero una persona responsable e innovadora, además realizo un buen trabajo en equipo. Por otro lado, voy a ayudar en todo lo que pueda en el proyecto para que este sea un éxito.</td>
+		<td style="text-align: center" align="center">Tengo conocimientos en C++, HTML y CSS. Además, tengo un buen manejo del inglés. Soy una persona que le gusta enriquecer sus aprendizajes.</td>
 	</TR>
   <TR>
 		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
