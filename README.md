@@ -122,7 +122,7 @@ Agosto 2024
           <li>Ramos Carpio, Karen: Se trabajo en todo el capitulo 3, detallando el To-Be Scenario Mapping de cada unpo de nuestros segmentos objetivo, se trabajo los User Stories de cada uno de nuestros processo detallando tambien el landing page, 	 impact mapping y prodcut backlog con el apoyo de mi equipo absolviendo cualquierduda de concepto de nuestro startup.</li>
           <li>Martinez Villanueva, Piero Alonso:</li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Luna Morales, Gianfranco</li>
+	  <li>Luna Morales, Gianfranco: Se comunicó los puntos faltantes del trabajo, dado que para realizar un reporte se requiere de puntos anteriores del trabajo, se enfocaron en ellos para brindar su respectivo análisi.</li>
 	  <li>Ramos Aguirre, Aldair Joaquin</li>
 	  <li>Santillan Alvarado, Melina Liz</li>
         </ul>
@@ -138,7 +138,7 @@ Agosto 2024
           <li>Ramos Carpio, Karen: trabaje en el capitulo 3, dicho capitulo depende de algunos capitulos anteriores, trabajamos conjuntamente para ir alineando a los objetivos inicilaes y no cambiarlos sino mas bien reforzarlos con el avance del proyecto, asi mismo alinear los proceso y la escencia del proyecto.</li>
           <li>Martinez Villanueva, Piero Alonso:</li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Luna Morales, Gianfranco</li>
+	  <li>Luna Morales, Gianfranco: Se realizaron los screen shots y revisiones de los capítulos para cumplir con el capítulo 5. Se requirió la participación de todos para mostrar la funcionalidad del landing y los mock-ups</li>
 	  <li>Ramos Aguirre, Aldair Joaquin</li>
 	  <li>Santillan Alvarado, Melina Liz</li>
         </ul>
