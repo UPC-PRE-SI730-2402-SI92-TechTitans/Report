@@ -301,11 +301,30 @@ Para la organización usamos el Thematic Organization, usando este sistema agrup
 ## 4.2.2 Labeling Systems
 Para las etiquetas usamos un lenguaje formal y fácil de entender.
 
+Landing Page:
+
 | Etiqueta  | Descripción |
 | ------------- | ------------- |
 | Inicio | En esta sección se puede observar varios aspectos de FinanceGuard como ventajas y planes de suscripción, esta es la primera ventana que observa el usuario al ingresar a nuestra aplicación web. |
 | Nosotros  | En esta sección se observan la misión y visión además de brindar información de quienes somos.  |
 | Registro  | En esta sección el usuario podrá ingresar sus datos y crear una cuenta de acorde a sus necesidades. |
+
+Web Application: 
+
+| Etiqueta  | Descripción |
+| ------------- | ------------- |
+| Inicio  | En esta sección se muestra la portada principal de la aplicación.    |
+| Grupos  | En esta sección se muestran los grupos financieros al que el usuario pertenece. |
+| Registro de gastos  | En esta sección se podrá ver una lista de todas las transacciones registradas.  |
+| Nuevo gasto  | En esta sección se registrará un nuevo gasto realizado y de un grupo en especifico.   |
+| Registrar pago  | En esta sección se selecciona el miembro del grupo que realizó el pago, para luego ingresar los detalles del pago, el monto, la fecha y una descripción.  |
+| Historial de gastos | En esta sección se muestra historial de gastos compartidos para analizar mis finanzas y tener un registro de todas las transacciones realizadas.  |
+| Informe de gastos  |En esta sección se podrá visualizar una opción para convertir las transacciones a diferentes monedas utilizando un conversor de moneda integrado. |
+| Reportes | En esta sección se podrá ver informes sobre mis gastos compartidos para comprender mejor mis patrones de gastos y tomar decisiones financieras más informadas.  |
+| Contactos  | En esta sección se podrá tener acceso a una lista de los contactos que tengo en esta aplicación.  |
+| División de gastos  | En esta sección se podrá ingresar montos personalizados para cada miembro del grupo.  |
+| Análisis de gastos | En esta sección se le presenta un gráfico de pie que muestra el avance de los pagos realizados en comparación con los pagos totales.  |
+
 
 ## 4.2.3 SEO Tags and Meta Tags
 
