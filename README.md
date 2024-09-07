@@ -525,6 +525,11 @@ Para el mock-up de la aplicación web de FinanceGuard se utilizo un lenguaje fá
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+Diagrama de clases que representa las entidades más relevantes del sistema, detallando sus atributos, métodos y las relaciones entre ellas.
+
+  <img src="images/Class diagram.jpeg" width="50%">
+  
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
