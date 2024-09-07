@@ -506,9 +506,23 @@ Para el mock-up de la aplicación web de FinanceGuard se utilizo un lenguaje fá
 <img src="images/mobile.png" width="100%">
 
 ## 4.6. Domain-Driven Software Architecture
+  Se desarrollará el Domain-Driven Software usando el modelo c4, se verán los 3 diagramas a continuación.
+  
 ### 4.6.1. Software Architecture Context Diagram
+  Para el diagrama de contexto de FinanceGuard se observan los dos tipos de usuarios que emplearan esta aplicación web, también podemos observar servicios externos como Email System para él envió de recordatorios.
+  
+  <img src="images/SystemContext.jpg" width="50%">
+  
 ### 4.6.2. Software Architecture Container Diagrams
+  Para el desarrollo del diagrama de contenedores de FinanceGuard se observa el landing page y a la web application con sus respectivas llamadas al API.
+
+ <img src="images/Container.jpg" width="50%">
+  
 ### 4.6.3. Software Architecture Components Diagrams
+  Se observa el api application y 2 Bounded Contexts dentro de este.
+
+ <img src="images/Components.jpg" width="50%">
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
