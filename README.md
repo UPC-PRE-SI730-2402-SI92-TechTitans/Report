@@ -328,11 +328,21 @@ Web Application:
 
 ## 4.2.3 SEO Tags and Meta Tags
 
-  Landing Page:
+  ##Landing Page:
+  
   •	Title: ¿Qué es FinanceGuard?
   •	Description: Plataforma diseñada para gestionar tanto las finanzas personales como empresariales
   •	Keywords: finanzas, ahorro, planificación
   •	Author: FinanceGuard
+
+
+  ##Web application :
+  
+  •	Title: FinanceGuard
+  •	Description: Plataforma diseñada para gestionar tanto las finanzas personales como empresariales
+  •	Keywords: Finanzas grupales, Registro de gastos, Reportes financieros
+  •	Author: FinanceGuard
+
 
 
 ## 4.3. Landing Page UI Design
