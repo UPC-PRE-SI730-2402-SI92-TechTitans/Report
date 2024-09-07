@@ -283,6 +283,7 @@ URL Project Report (Github):
 **Requirements Management**
 
 1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
+2. Vertabelo: Herramienta técnica para diseñar y modelar bases de datos. Ruta de referencia https://vertabelo.com
 
 **Product UX/UI Design**
 
@@ -307,7 +308,8 @@ URL Project Report (Github):
 
 ### 5.1.2. Source Code Management
 
-El presente proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones.
+Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos, mediante un merge, se unen a la develop Branch. Y la develop branch al Main.
+
 **Liks del repositorio de GitHub**:
 
 - Link de la organización: https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans
@@ -359,11 +361,35 @@ Estrucutra de las ramas:
 
 ### 5.1.4. Software Deployment Configuration
 
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+Crear una carpeta llamada "docs" para alojar el Landing Page. Asegurarse de que los archivos sigan las nomenclaturas "index.html", "style.css", "funcionalities.js" y una carpeta llamada "img" que contenga las imágenes. Cargar los archivos al repositorio mediante un commit. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main". Especificar la carpeta "docs" como la fuente de la página. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
 
+Un Sprint se trata de un plazo fijo y corto de tiempo en el que el equipo se centra en desarrollar el objetio final del proyecto, también llamado "Product Goal" . Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se centra en cumplir el objetivo de desarrollar nuestra Landing Page.
+
+| Sprint #  | Sprint 1  |
+| ------------ | ------------ |
+| **Sprint Planning Background**  |
+|  Date  | 2024-06-09  |
+| Time  |  11:04 PM |
+| Location  | Google Meeting |
+| Prepared  by  | Gianfranco Luna |
+| Attendees  | Gianfranco Luna, Karen Ramos, Piero Martinez, Cristian Iparraguirre, Aldair Ramos, Melina Santillan |
+| **Sprint Goal And User Stories**   |
+| Sprint n Goal | Elaborar una Landing page que resulte atrayente, útil y apropiada para nuestro proyecto |
+| Spring n Velocity | 19  puntos |
+| Sum of Story Points |   19 puntos|
+
+
 #### 5.2.1.2. Sprint Backlog 1
+
+Para nuestro primer Sprint Bakclog, el equipo se centró principalmente en la elaboración de nuestra landing page. Siendo este el foco principal, nos dedicamos
+a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementarlas, basandonos en nuestras user sotires. Es así, que las dividimos en
+tareas mas maneajables y organizables y las asignamos a cada uno de los miembros. Hicimos uso de Trello para la elaboración de esta actividad.
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
