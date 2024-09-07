@@ -616,38 +616,39 @@ Jean Pierre, de 38 años y empleado en el Congreso, gestiona sus finanzas person
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
-            <img src="images/Prev-Ent3-SegProfesionalesEmpresas.jpg" alt="Imagen del video" style="width: 80%;">
+            <img src="images/Prev-Ent3-SegProfesionalesEmpresas.png" alt="Imagen del video" style="width: 80%;">
         </td>
     </tr>
     <tr>
         <td><strong>Nombre y Apellido</strong></td>
-        <td>xxx</td>
+        <td>Renzo Robert Martinez Villanueva</td>
     </tr>
     <tr>
         <td><strong>Edad</strong></td>
-        <td>xxx</td>
+        <td>25</td>
     </tr>
     <tr>
         <td><strong>Distrito</strong></td>
-        <td>xxx</td>
+        <td>Lima</td>
     </tr>
     <tr>
         <td><strong>URL del Video</strong></td>
-        <td><a href="">Video</a></td>
+        <td><a href="https://youtu.be/o-bUBIzAb7A">Video</a></td>
     </tr>
     <tr>
         <td><strong>Timing de Inicio</strong></td>
-        <td>[xxx]</td>
+        <td>[0:00]</td>
     </tr>
     <tr>
         <td><strong>Duración</strong></td>
-        <td>[xxx]</td>
+        <td>[4:52]</td>
     </tr>
     <tr>
         <td><strong>Fecha</strong></td>
-        <td>xxx</td>
+        <td>05/09/24</td>
     </tr>
 </table>
+Renzo Martinez, de 25 años y supervisor general en Rango Sport S.A.C., enfrenta dificultades para organizar sus finanzas personales y empresariales utilizando hojas de cálculo y aplicaciones básicas. Vive en Lima y encuentra complicado llevar un control claro de los gastos compartidos y conciliar saldos. Para él, una aplicación ideal debe ser fácil de usar, permitir seguimiento en tiempo real y ofrecer reportes detallados. Está dispuesto a pagar por una herramienta que optimice la gestión financiera, aunque ha encontrado que las herramientas digitales actuales carecen de la personalización que necesita. Valora la opción de recibir notificaciones automáticas para no olvidar pagos y vencimientos, y espera poder adaptar la aplicación a sus necesidades específicas.
 <br><br><br>
 
 **Usuarios de Finanzas Personales**
