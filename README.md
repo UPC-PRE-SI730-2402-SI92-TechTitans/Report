@@ -323,9 +323,9 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<td style="text-align: center" align="center">Tengo conocimientos en C++, HTML y CSS. Además, tengo un buen manejo del inglés. Soy una persona que le gusta enriquecer sus aprendizajes.</td>
 	</TR>
   <TR>
-		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">xxx</td>
-		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center"><p align="center"> Aldair Joaquin Ramos Aguirre - U20201F051  <img src="images/Fotoaldo.jpg" alt="" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Me gusta trabajar en equipo y aprender de los demás, no soy muy bueno organizándome, pero para este trabajo hare mi mayor esfuerzo.   </td>
+		<td style="text-align: center" align="center">Cuento con experiencia en C++, Python, Java, HTML y siempre estoy dispuesto a aprender nuevas tecnologías. </td>
 	</TR>
   <TR>
 		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
