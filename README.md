@@ -26,6 +26,16 @@ Startup: TechTitans
 
 Producto: FinanceGuard
 
+|          Integrantes           |   Código   |
+| :----------------------------: | :--------: |
+|      Ramos Carpio, Karen       | U20201E493 |
+|      Martinez Villanueva, Piero Alonso       | U202113821 |
+|      Iparraguirre Rueda, Cristian Luis       |  |
+|      Luna Morales, Gianfranco                | U201924343  |
+|      Ramos Aguirre, Aldair Joaquin           | U20201F051 |
+|      Santillan Alvarado, Melina Liz          | U202216058 |
+
+Agosto 2024
 
 Agosto 2024
 
