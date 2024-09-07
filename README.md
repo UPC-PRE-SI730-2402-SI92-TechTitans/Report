@@ -426,7 +426,19 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
+1. Sección Inicial: Se presenta nuestro proyecto.
 ![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio3.png?raw=true)
+
+2. Presentamos al equipo como startup
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_nosotros3.png?raw=true)
+
+3. Sección donde exponemos nuestra misión y visión 
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_nosotros4.png?raw=true)
+
+4. Sección de los productos ofrecidos
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio4.png?raw=true)
+
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
