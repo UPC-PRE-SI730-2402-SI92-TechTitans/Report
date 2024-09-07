@@ -928,7 +928,7 @@ En este apartado veremos el detalle de Product Backlog es una lista priorizada d
       <td>17</td>
       <td>US-17</td>
       <td>Grafico de gastos mensuales </td>
-      <td style="text-align: justify;">Como usuario, quiero poder obervar en la aplicación PocketPartners mis finanzas desde un gráfico en la seccion "Home".</td>
+      <td style="text-align: justify;">Como usuario, quiero poder obervar en la aplicación FinanceGuard mis finanzas desde un gráfico en la seccion "Home".</td>
       <td>3</td>
     </tr>
     <tr style="text-align: center;">
@@ -970,7 +970,7 @@ En este apartado veremos el detalle de Product Backlog es una lista priorizada d
       <td>23</td>
       <td>US-23</td>
       <td>Inicio de sesión en la aplicación</td>
-      <td style="text-align: justify;">Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece PocketPartners.</td>
+      <td style="text-align: justify;">Como usuario, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece FinanceGuard</td>
       <td>5</td>
     </tr>
     <tr style="text-align: center;">
@@ -991,7 +991,7 @@ En este apartado veremos el detalle de Product Backlog es una lista priorizada d
       <td>26</td>
       <td>US-26</td>
       <td>Integracion del backend con el frontend</td>
-      <td style="text-align: justify;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de PocketPartners para permitir una interacción completa y sin problemas en la aplicación.</td>
+      <td style="text-align: justify;">Como desarrollador, busco establecer una comunicación eficiente entre el backend y el frontend de FinanceGuard para permitir una interacción completa y sin problemas en la aplicación.</td>
       <td>5</td>
     </tr>
   </tbody>  
