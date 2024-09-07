@@ -26,14 +26,6 @@ Startup: TechTitans
 
 Producto: FinanceGuard
 
-|          Integrantes           |   Código   |
-| :----------------------------: | :--------: |
-|      Ramos Carpio, Karen       | U20201E493 |
-|      Martinez Villanueva, Piero Alonso       | U202113821 |
-|      Iparraguirre Rueda, Cristian Luis       |  |
-|      Luna Morales, Gianfranco        |  |
-|      Ramos Aguirre, Aldair Joaquin       |  |
-|      Santillan Alvarado, Melina Liz       | U202216058 |
 
 Agosto 2024
 
@@ -315,9 +307,9 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<td style="text-align: center" align="center">Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D.</td>
 	</TR>
   <TR>
-		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">xxx</td>
-		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center"><p align="center"> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto.</td>
+		<td style="text-align: center" align="center">Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
 	</TR>
   <TR>
 		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
@@ -431,17 +423,630 @@ FinanceGuard se dirige a dos audiencias meta clave: *Profesionales y Empresas* y
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
+
+### 2.1.1. Análisis Competitivo
+
+<table border>
+    <thead>
+        <tr >
+            <th colspan=6 style="text-align: center">
+				<h2>
+					Competitive Analisis Landscape
+				</h2>
+			</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2 rowspan=2 style="text-align: center" align="center">¿Por qué llevar a cabo este análisis?</td>
+            <td colspan=4 style="text-align: center" align="center">¿Quiénes son nuestros principales competidores?</td>
+        </tr>
+		<tr>
+            <td colspan=4 style="text-align: center" align="center">Gracias al análisis de la competencia, se logra comprender el entorno competitivo en el que operará nuestro producto. Esto proporciona una visión detallada de quienes son nuestros competidores directos e indirectos, logrando así, trazar 
+ una estretegia sólida para alcanzar la máxima exposición de nuestro producto, llegando así a más posibles consumidores.</td>
+        </tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
+			<td rowspan=2 style="text-align: center" align="center">Overview</td>
+      <td style="text-align: center" align="center">FinanceGuard <p align="center"><img src="images/FGLogo.png" alt="Logo FinanceGuard" width="25%">
+</p></td>
+			<td style="text-align: center" align="center">Mint <p align="center"><img src="images/splittrLogo.png" alt="Logo Mint" width="40%"></p></td>
+			<td style="text-align: center" align="center">Personal Capital <p align="center"><img src="images/tricountLogo.png" alt="Logo Personal Capital" width="40%"></p></td>
+			<td style="text-align: center" align="center">GoodBudget <p align="center"><img src="images/splitwiseLogo.png" alt="Logo GoodBudget" width="40%"></p></td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Plataforma que busca facilitar el proceso de división de costos en diversas situaciones, con varias herramientas que son de utilidad en dicho momento</td>
+			<td style="text-align: center" align="center">Plataforma que busca dividir los gastos grupales en viajes o comidas.</td>
+			<td style="text-align: center" align="center">Plataforma colaborativa que busca dividir todo tipo de gastos grupales.</td>
+			<td style="text-align: center" align="center">Plataforma que busca, de forma colaborativa, llevar un recuento de todos los gastos grupales que se hacen.</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Ventaja Competitiva ¿Qué valor ofrecen a los clientes</td>
+			<td style="text-align: center" align="center"><ul><li>Organización por grupos y etiquetas</li> <li>Notificaciones en tiempo real</li> <li>Beneficios adicionales por plan premium</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Simplicidad de la plataforma</li> <li>Exportar a pdf o cvs</li> <li>No requiere registro</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>División desigual de gastos</li> <li>Guardado de fotos</li> <li>Notificaciones en tiempo real</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Facilidad de uso</li> <li>Sincronización en la nube</li> <li>Métodos de pago integrados</li> <li>Funciones pro adicionales</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=2 style="text-align: center" align="center">Perfil del Marketing</td>
+			<td style="text-align: center" align="center">Mercado Objetivo</td>
+			<td style="text-align: center" align="center"><ul><li>Viajeros que busquen dividir sus gastos</li> <li>Roomates que quieran dividir los gastos del hogar</li> <li>Grupos de personas que desean dividir los gastos de una cena</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Viajes</li> <li>Casas compartidas</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Parejas que desean dividir gastos</li> <li>Viajeros que quieren gestionar sus compras</li> <li>Comapñeros de piso</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Viajeros</li> <li>Compañeros de piso</li> <li>Parejas</li> <li>Grupos de amigos</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Estrategias de Marketing</td>
+			<td style="text-align: center" align="center"><ul><li>Uso de publicidad en redes sociales</li> <li>Recomendación de voz a voz</li> <li>Prueba gratis de 30 días del plan premium para lograr retención</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Promoción de la app en su cuenta de Twitter</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Presentación de referencias en su landing page</li> <li>Cuentas activas de Facebook y Twitter</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Presentación en una landing page vistosa</li> <li>Fácil acceso a los contactos para invitar más personas</li> <li>Página de redes sociales</li></ul> </td>
+		</tr>
+		<tr>
+			<td rowspan=3 style="text-align: center" align="center">Perfil del Producto</td>
+			<td style="text-align: center" align="center">Productos & Servicios</td>
+			<td style="text-align: center" align="center">Sitio web para el registro y uso de nuestro aplicativo</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+			<td style="text-align: center" align="center">Aplicativo móvil para el uso de la solución</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Precios & Costos</td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 9.90 soles</li> <li>Suscripción de un año - 29.90 soles</li> <li>Suscripción empresarial - 169.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Pase de un mes - 2.90 soles</li> <li>Suscripción de un año - 11.90 soles</li> <li>Pase de por vida - 39.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 12.90 soles</li> <li>Suscripción de un año - 35.90 soles</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Suscripción de un mes - 19.90 soles</li> <li>Suscripción de un año - 149.90 soles</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Canales de distribución (web/móvil)</td>
+			<td style="text-align: center" align="center">Plataforma web</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+			<td style="text-align: center" align="center">Plataforma móvil</td>
+		</tr>
+		<tr>
+			<td rowspan=4 style="text-align: center" align="center">Análisis SWOT</td>
+			<td style="text-align: center" align="center">Fortalezas</td>
+			<td style="text-align: center" align="center"><ul><li>Canales de atención disponibles</li> <li>Cálculo automático de saldos</li> <li>Uso de etiquetas para categorizar y filtrar las transacciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Funciona offline</li> <li>Se sincroniza de forma automática con nuestros amigos</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Uso de imágenes como evidencia</li> <li>Uso de claves de color para mejor visualización</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Integración con cuentas de banco para realizar los pagos dentro de la misma aplicación</li> <li>División en partes iguales o desiguales</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Debilidades</td>
+			<td style="text-align: center" align="center"><ul><li>Requiere de conección a internet</li> <li>No soporta muchos idiomas</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>El diseño es demasiado simple</li> <li>Carece de diferenciadores con la competencia</li> <li>Cobra por features que se encuentran gratis en otras aplicaciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>La interfaz no es fácil de usar</li> <li>Cobra por features que se encuentran gratis en otras aplicaciones</li></ul> </td>
+			<td style="text-align: center" align="center"><ul><li>Te da una cantidad de gastos limitados en el plan gratuito</li> <li>Los planes premium son demasiado costosos</li></ul> </td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Oportunidades</td>
+			<td style="text-align: center" align="center"><ul><li>Es posible agregar más funcionalidades</li> <li>Ya se está empezando a crear un mercado gracias a las otras apps</li></ul> </td>
+			<td style="text-align: center" align="center">Se puede agregar un poco más de profundidad al diseño</td>
+			<td style="text-align: center" align="center">Se puede mejorar la interfaz para que sea más intuitiva</td>
+			<td style="text-align: center" align="center">Es la aplicación con más features</td>
+		</tr>
+		<tr>
+			<td style="text-align: center" align="center">Amenazas</td>
+			<td style="text-align: center" align="center">Es comlpicado competir con aplicaciones ya establecidas en el mercado</td>
+			<td style="text-align: center" align="center">Sigue quedándose atrás en la cantidad de features que tiene comparado con la competencia</td>
+			<td style="text-align: center" align="center">Los consumidores están acostumbrados a aplicaciones intuitivas, por lo que aprender a utilizar una app va a ser complicaco para algunos usuarios</td>
+			<td style="text-align: center" align="center">Los precios altos ocasionan que los usuarios no deseen pagar la suscripción</td>
+		</tr>
+    </tbody>
+</table>
+
 ## 2.2. Entrevistas
+**Objetivo:** El objetivo de las entrevistas es recopilar información detallada sobre las necesidades, expectativas y problemas que enfrentan los usuarios potenciales de "Tech Titans", nuestra aplicación para la gestión y división de gastos grupales. Estas entrevistas ayudarán a comprender mejor los casos de uso y a validar las suposiciones realizadas durante la fase de análisis inicial.
+
 ### 2.2.1. Diseño de entrevistas
+**Preguntas generales:**
+1. **¿Cuál es su nombre completo?**
+2. **¿Qué edad tienes?**
+3. **¿A qué te dedicas?**
+4. **¿En qué ciudad resides?**
+
+**Preguntas Principales:**
+1. **¿Cómo gestionas actualmente tus finanzas personales y empresariales?**
+2. **¿Qué dificultades enfrentas al intentar organizar tus gastos compartidos o grupales?**
+3. **¿Qué características consideras esenciales en una aplicación de gestión financiera?**
+4. **¿Qué tan dispuesto estarías a pagar por una herramienta que optimice la gestión de tus finanzas?**
+5. **¿Has utilizado alguna herramienta digital para la gestión financiera antes? ¿Cómo fue tu experiencia?**
+
+**Preguntas Complementarias:**
+1. **¿Cómo realizas actualmente el seguimiento de tus deudas y saldos con otras personas?**
+2. **¿Utilizas alguna herramienta específica para la conciliación de cuentas empresariales?**
+3. **¿Cómo te sentirías acerca de recibir notificaciones automáticas para recordarte pagos y vencimientos?**
+4. **¿Qué nivel de personalización esperarías de una aplicación de finanzas?**
+
 ### 2.2.2. Registro de entrevistas
+**Profesionales y Empresas:**
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 1
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent1-SegProfesionalesEmpresas.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Luis Iparraguirre Quiñones</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>48</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Breña</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/4e6V321">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[1:11]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[6:13]</td>
+    </tr>
+        <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/08/2024</td>
+    </tr>
+</table>
+Luis, un profesor universitario y emprendedor de 48 años que reside en Lima, gestiona sus finanzas personales y empresariales de manera rudimentaria mediante el uso de Excel y registros manuales en cuadernos. A pesar de su falta de formación financiera, Luis destaca la importancia de centralizar sus operaciones para mejorar su organización, ya que actualmente maneja diferentes métodos de pago sin una visión consolidada. Prefiere una aplicación intuitiva y fácil de usar, dado que no tiene experiencia previa con herramientas digitales financieras, y está dispuesto a pagar por una solución que optimice sus finanzas, siempre que incluya tutoriales y ofrezca un alto nivel de personalización. Su método actual para recordar pagos y deudas se basa en la memoria, lo cual reconoce como poco confiable, y valora la posibilidad de recibir notificaciones automáticas en su celular. Luis muestra una preferencia por servicios personalizados que se adapten completamente a sus necesidades, lo que sugiere la importancia de una interfaz flexible y ajustable. Sus respuestas reflejan un perfil de usuario que valora la simplicidad, la accesibilidad, y la personalización en las herramientas tecnológicas que utiliza. <br><br>
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 2
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent2-SegProfesionalesEmpresas.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Jean Pierre Francis Iparraguirre Quiñones</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>38</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Lince</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/4cIXlD7">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:25]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[2:34]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/8/2024</td>
+    </tr>
+</table>
+Jean Pierre, de 38 años y empleado en el Congreso, gestiona sus finanzas personales utilizando aplicaciones bancarias. Aunque encuentra útil estas herramientas, expresa que no siempre son fáciles de entender, lo que dificulta una gestión financiera eficiente. Al enfrentar gastos compartidos, se le complica llevar un control claro entre lo que gasta y lo que cobra. Jean Pierre valora la agilidad, dinamismo, y la inclusión de estadísticas y cuadros en una aplicación de gestión financiera, características que considera esenciales. Aunque está dispuesto a pagar por una herramienta que optimice sus finanzas, es reacio a recibir notificaciones automáticas de pagos y vencimientos, prefiriendo un enfoque menos intrusivo. Resalta la importancia de la personalización en una aplicación, argumentando que cada persona tiene necesidades financieras únicas que deben ser atendidas de manera individual.<br><br>
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 3
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent3-SegProfesionalesEmpresas.png" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Renzo Robert Martinez Villanueva</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Lima</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://youtu.be/o-bUBIzAb7A">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:00]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[4:52]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>05/09/24</td>
+    </tr>
+</table>
+Renzo Martinez, de 25 años y supervisor general en Rango Sport S.A.C., enfrenta dificultades para organizar sus finanzas personales y empresariales utilizando hojas de cálculo y aplicaciones básicas. Vive en Lima y encuentra complicado llevar un control claro de los gastos compartidos y conciliar saldos. Para él, una aplicación ideal debe ser fácil de usar, permitir seguimiento en tiempo real y ofrecer reportes detallados. Está dispuesto a pagar por una herramienta que optimice la gestión financiera, aunque ha encontrado que las herramientas digitales actuales carecen de la personalización que necesita. Valora la opción de recibir notificaciones automáticas para no olvidar pagos y vencimientos, y espera poder adaptar la aplicación a sus necesidades específicas.
+<br><br><br>
+
+**Usuarios de Finanzas Personales**
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 1
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent1-SegFinanzasPersonales.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Alessandro Ramiro Condori Lozano</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>21</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>San Juan de Lurigancho</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="http://bit.ly/4g7UTJi">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:34]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[3:20]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/08/2024</td>
+    </tr>
+</table>
+Alessandro, un joven de 21 años y estudiante de ingeniería de software en Lima, admite que actualmente no lleva un control adecuado de sus finanzas personales, manejando sus gastos de manera informal y sin organización. Frente a la necesidad de mejorar esta situación, Alessandro valora la idea de una aplicación que no solo le permita gestionar sus finanzas, sino que también le enseñe a hacerlo de manera efectiva, con recomendaciones personalizadas. Aunque nunca ha utilizado herramientas digitales de gestión financiera, muestra disposición a pagar por una solución que realmente aporte beneficios tangibles a su vida financiera. Alessandro sigue sus deudas y saldos utilizando un calendario, lo que indica una falta de centralización y automatización en sus procesos financieros. Considera que recibir notificaciones automáticas sería muy útil para no olvidar pagos o vencimientos, dada su ocupada vida como estudiante. Además, espera que una aplicación de finanzas ofrezca un alto nivel de personalización adaptado a sus patrones de gasto y objetivos personales, lo que refleja su deseo de tener una herramienta que se ajuste a sus necesidades específicas.<br><br>
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 2
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent2-SegFinanzasPersonales.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Aldo Alexander Vasquez Sotomayor</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Pueblo libre</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/4dVsRiq">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:38]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[3:59]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>29/8/2024</td>
+    </tr>
+</table>
+Aldo, un estudiante universitario de 20 años que reside en Pueblo Libre, Lima, gestiona sus finanzas personales utilizando una combinación de hojas de cálculo en Excel y una aplicación móvil. Aunque este método le permite registrar sus gastos diarios, reconoce que es un proceso manual, que consume tiempo y es propenso a errores, especialmente al intentar seguir un presupuesto. Aldo enfrenta dificultades al organizar gastos compartidos, ya que mantener un registro claro y evitar confusiones en los saldos es complicado y puede llevar a discusiones innecesarias. Para él, una aplicación de gestión financiera ideal debe incluir categorización automática de gastos, integración con bancos, herramientas para crear y seguir presupuestos, y notificaciones para recordatorios de pagos. A pesar de haber utilizado varias aplicaciones para dividir gastos y seguir sus finanzas personales, ninguna ha cubierto todas sus necesidades de manera integral, lo que le lleva a combinar varias herramientas. Prefiere recibir notificaciones automáticas sobre transacciones y vencimientos para sentirse más seguro en la gestión de sus finanzas. Aldo valora un alto nivel de personalización en una aplicación de finanzas, con un enfoque en mostrar el saldo actual de manera sencilla y accesible.<br><br>
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 3
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/Prev-Ent3-SegFinanzasPersonales.jpg" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Alonso Fernando Robles Asuñaupa</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>San Juan de Lurigancho</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://bit.ly/3XbgJCW">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:35]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[4:14]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>30/8/2024</td>
+    </tr>
+</table>
+Alonso, un estudiante de 20 años de ingeniería que reside en San Juan de Lurigancho, gestiona sus finanzas personales principalmente de manera mental, utilizando Excel solo cuando los gastos son significativos. Alonso enfrenta dificultades al organizar gastos compartidos, especialmente cuando se trata de recordar deudas pendientes entre amigos, lo que sugiere la necesidad de una herramienta digital para manejar estas situaciones. Para él, es esencial que una aplicación de gestión financiera sea fácil de usar y que ofrezca predicciones y consejos basados en sus gastos. Su disposición a pagar por una herramienta depende de la calidad y utilidad de la misma; estaría dispuesto a pagar más si la aplicación proporciona reportes detallados y ayuda a reducir costos. Aunque su experiencia con Excel ha sido positiva para organizar sus gastos, Alonso reconoce la necesidad de una solución más sofisticada. Prefiere realizar un seguimiento de sus deudas manualmente o con notas en su computadora o celular, pero considera que recibir notificaciones automáticas sería muy útil para cumplir con sus responsabilidades financieras. En términos de personalización, valora aspectos estéticos como colores y fondos, así como la posibilidad de gestionar diferentes monedas.
+
 ### 2.2.3. Análisis de entrevistas
+#### Segmento: Profesionales y Empresas
+El análisis de las entrevistas realizadas a los participantes del segmento "Profesionales y Empresas" revela varias características objetivas y subjetivas que son comunes y necesarias para la construcción de arquetipos.
+- **Uso de Herramientas Digitales para la Gestión Financiera:**
+50% de los entrevistados en este segmento utiliza aplicaciones bancarias para la gestión de sus finanzas personales. Y el otro 50% utiliza métodos tradicionales como Excel y cuadernos, lo que sugiere una mezcla de tecnologías y preferencias en este grupo.
+- **Necesidad de Centralización y Simplificación:**
+100% de los entrevistados mencionaron la falta de una visión consolidada de sus finanzas, lo que afecta la organización y precisión en la gestión de sus recursos. Valoran la posibilidad de centralizar sus operaciones financieras en una sola plataforma que sea intuitiva y fácil de usar.
+- **Preferencia por la Personalización:**
+100% de los entrevistados consideran esencial la personalización en una aplicación de gestión financiera. Esto incluye la capacidad de adaptar la herramienta a sus necesidades individuales, con opciones para ajustar interfaces y funciones según sus preferencias.
+- **Disposición a Pagar por una Solución Eficiente:**
+100% de los participantes están dispuestos a pagar por una herramienta que mejore significativamente la gestión de sus finanzas, siempre que esta ofrezca funcionalidades claras y personalizables.
+- **Relación con Notificaciones Automáticas:**
+50% valora las notificaciones automáticas para recordar pagos y vencimientos, mientras que el otro 50% prefiere un enfoque menos intrusivo, indicando una división en cuanto a la aceptación de este tipo de recordatorios.
+
+**Conclusión:** El segmento "Profesionales y Empresas" se caracteriza por la necesidad de centralización, simplicidad, y personalización en las herramientas de gestión financiera. A pesar de su disposición a pagar por una buena solución, las preferencias respecto a las notificaciones automáticas varían, lo que sugiere la importancia de ofrecer opciones flexibles en esta área.
+
+#### Segmento: Usuarios de Finanzas Personales
+El análisis de las entrevistas con los participantes de este segmento muestran patrones consistentes en la gestión financiera y las necesidades tecnológicas.
+- **Gestión Financiera Informal o Básica:**
+100% de los entrevistados en este segmento gestionan sus finanzas de manera básica, ya sea mediante métodos informales como la memoria o con herramientas limitadas como Excel y aplicaciones móviles.
+- **Dificultades en la Organización de Gastos Compartidos:**
+100% de los entrevistados mencionaron que enfrentan desafíos al organizar gastos compartidos, lo que indica una necesidad clara de herramientas que faciliten este proceso.
+- **Preferencia por la Personalización y Sencillez:**
+100% de los entrevistados destacaron la importancia de la personalización en una aplicación de finanzas, así como la necesidad de que sea fácil de usar. Esto incluye desde aspectos estéticos hasta la capacidad de ajustar funciones según sus necesidades individuales.
+- **Disposición a Pagar por Calidad y Utilidad:**
+100% de los participantes están dispuestos a pagar por una aplicación que cumpla con sus expectativas en términos de calidad y funcionalidad. Sin embargo, la disposición a pagar más está directamente relacionada con el valor percibido y los beneficios adicionales que la aplicación pueda ofrecer.
+- **Aceptación de Notificaciones Automáticas:**
+100% de los entrevistados consideran útiles las notificaciones automáticas para recordar pagos y vencimientos, lo que resalta la importancia de esta característica en aplicaciones dirigidas a este segmento.
+
+**Conclusión:** El segmento "Usuarios de Finanzas Personales" demanda simplicidad, personalización, y funcionalidad en la gestión financiera. Los usuarios buscan herramientas que no solo les permitan organizar sus finanzas, sino que también les enseñen y ofrezcan recomendaciones útiles. La disposición a pagar está condicionada a la percepción de valor que la aplicación les ofrezca, con un fuerte énfasis en la necesidad de notificaciones automáticas y una interfaz fácil de usar.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+#### Segmento: Profesionales y Empresas
+<img src="images/UserPersona1.png" alt="User Persona Profesionales y Empresas" style="width: 100%;">
+
+#### Segmento: Usuarios de Finanzas Personales
+<img src="images/UserPersona2.png" alt="User Persona Usuarios de Finanzas Personales" style="width: 100%;">
+
 ### 2.3.2. User Task Matrix
+#### Segmento: Profesionales y Empresas
+<table style="width:100%; border: 0.5px solid #48e;">
+  <thead>
+    <tr style="background-color: #48e;">
+      <th>User Task</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr >
+      <td>Registrar ingresos y gastos</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Monitorear el flujo de caja</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Gestionar deudas y préstamos</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Organizar y categorizar gastos</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Recordar fechas de pago</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Presupuestar a corto plazo</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Planificar inversiones</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Consolidar métodos de pago</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr >
+      <td>Consultar saldos y cuentas bancarias</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Dividir gastos compartidos</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr >
+      <td>Organizar las finanzas de manera digital</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Mantener registros financieros manuales</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Segmento: Usuarios de Finanzas Personales
+<table style="width:100%; border: 0.5px solid #48e;">
+  <thead>
+    <tr style="background-color: #48e;">
+      <th>User Task</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Registrar ingresos y gastos</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Monitorear el flujo de caja</td>
+      <td>Baja</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Gestionar deudas y préstamos</td>
+      <td>Baja</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Organizar y categorizar gastos</td>
+      <td>Baja</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Recordar fechas de pago</td>
+      <td>Alta</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Presupuestar a corto plazo</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Planificar inversiones</td>
+      <td>Baja</td>
+      <td>Baja</td>
+    </tr>
+    <tr>
+      <td>Consultar saldos y cuentas bancarias</td>
+      <td>Media</td>
+      <td>Media</td>
+    </tr>
+    <tr>
+      <td>Dividir gastos compartidos</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Organizar las finanzas de manera digital</td>
+      <td>Media</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Mantener registros financieros manuales</td>
+      <td>Baja</td>
+      <td>Baja</td>
+    </tr>
+  </tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping
+En esta sección, se presentan los User Journey Maps para los dos segmentos objetivo identificados: Mario Paredes, un profesional y empresario, y Julia Fernández, una usuaria de finanzas personales. Estos mapas de viaje de usuario (User Journey Maps) ilustran el recorrido completo de cada usuario desde el inicio hasta el final de su experiencia en la gestión financiera, sin la presencia de una solución tecnológica específica. El enfoque de esta versión "As-Is" es entender los desafíos, oportunidades y puntos de contacto actuales que enfrentan ambos perfiles en su día a día al manejar sus finanzas.
+
+#### Segmento: Profesionales y Empresas
+**Resumen del recorrido:** Mario, como empresario, necesita llevar un control riguroso de sus finanzas. Su viaje comienza al recibir ingresos y continúa con la organización de estos, la categorización de gastos, la planificación del flujo de caja y la toma de decisiones financieras críticas. Este proceso es esencial para mantener la salud financiera de su empresa y asegurar el cumplimiento de sus obligaciones.
+
+<img src="images/JourneyMappingSeg1.jpg" alt="Journey Mapping Profesionales y Empresas" style="width: 100%;">
+
+#### Segmento: Usuarios de Finanzas Personales
+**Resumen del recorrido:** Julia, una usuaria enfocada en mantener el control de sus finanzas personales, sigue un recorrido que incluye la planificación de su presupuesto, la gestión de sus gastos cotidianos y la preparación para imprevistos. Su objetivo es mantener la estabilidad financiera y ahorrar para metas futuras.
+
+<img src="images/JourneyMappingSeg2.jpg" alt="Journey Mapping Usuarios de Finanzas Personales" style="width: 100%;">
+
 ### 2.3.4. Empathy Mapping
+
+#### Segmento: Profesionales y Empresas
+<img src="images/EmpathyMappingSeg1.png" alt="Empathy Mapping Profesionales y Empresas" style="width: 100%;">
+
+#### Segmento: Usuarios de Finanzas Personales
+<img src="images/EmpathyMappingSeg2.png" alt="Empathy Mapping Usuarios de Finanzas Personales" style="width: 100%;">
+
 ### 2.3.5. As-is Scenario Mapping
+#### Segmento: Profesionales y Empresas
+<img src="images/As-isScenarioMappingSeg1.jpg" alt="As-is Scenario Mapping Profesionales y Empresas" style="width: 100%;">
+
+#### Segmento: Usuarios de Finanzas Personales
+<img src="images/As-isScenarioMappingSeg2.jpg" alt="As-is Scenario Mapping Usuarios de Finanzas Personales" style="width: 100%;">
+
 ## 2.4. Ubiquitous Language
+### Glosario de Términos
+- **Cash Flow (Flujo de Caja):**
+Cantidad de dinero que entra y sale de una empresa o cuenta personal en un período determinado, esencial para mantener la liquidez.
+- **Budgeting (Presupuestación):**
+Proceso de planificación y asignación de recursos financieros a diferentes categorías de gasto para controlar el uso del dinero.
+- **Expense Tracking (Seguimiento de Gastos):**
+Registro y monitoreo constante de los gastos realizados para identificar áreas de ahorro.
+- **Debt Management (Gestión de Deudas):**
+Estrategia para controlar y pagar deudas, organizando pagos y consolidando deudas.
+- **Financial Planning (Planificación Financiera):**
+Establecimiento de metas financieras y desarrollo de un plan de acción para alcanzarlas.
+- **Savings (Ahorros):**
+Parte de los ingresos que se guarda para el futuro, ya sea en efectivo o en una cuenta bancaria.
+- **Investment (Inversión):**
+Asignación de dinero a un activo o proyecto con la expectativa de obtener un beneficio futuro.
+- **Emergency Fund (Fondo de Emergencia):**
+Reserva de dinero destinada a cubrir gastos inesperados o emergencias.
+- **Net Worth (Patrimonio Neto):**
+Valor total de los activos de una persona o empresa menos sus pasivos.
+- **Recurring Payment (Pago Recurrente):**
+Transacción automática y periódica para cumplir con obligaciones financieras regulares.
+
 # Capítulo III: Requirements Specification
 
 En este capítulo se detallan los requisitos esenciales de FinanceGuard, que son fundamentales para el desarrollo y éxito del mismo. La especificación de requisitos constituye un paso crucial en el ciclo de vida del software, ya que proporciona una descripción clara y precisa de las funcionalidades que el sistema debe ofrecer, así como las restricciones que deben considerarse durante su desarrollo.
