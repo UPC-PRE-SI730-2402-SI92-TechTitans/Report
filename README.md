@@ -447,6 +447,7 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Collab.jpg?raw=true).
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
