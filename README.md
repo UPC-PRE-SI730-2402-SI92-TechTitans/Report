@@ -391,6 +391,24 @@ a determinas metas mas pequeñas y alguans funcionalidades que queriamos impleme
 tareas mas maneajables y organizables y las asignamos a cada uno de los miembros. Hicimos uso de Trello para la elaboración de esta actividad.
 
 
+| Sprint #  | Sprint 1  |------------|------------|------------|------------|------------|------------
+| ------------ | ------------ |------------|------------|------------|------------|------------|------------
+| User Story |------------|------------|------------|------------|------------|------------|------------
+|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
+| VISIT-001:  |  Acceso a la sección de Inicio |  UT01|Sección Inicio | Añadir la sección de Inicio |2 | ------|Done
+| VISIT-001:  |  Navegación por la página de Inicio |UT01 |Navegación |Creación de una pagina web dinamica y navegable|1 | -----| Done
+| VISIT-002:  | Acceso a la sección de Servicios|UT02 |Seccion Servicios|Permitir a los usuarios acceder a la sección Servicios |2 |---- |Done
+| VISIT-002:  | Acceso a la sección de Reseñas|UT04 |Seccion Reseñas |Permitir a los usuarios acceder a la sección Reseñas|2 | Gianfranco Luna | In Progress
+| VISIT-003 | Acceso a la sección de Registro |UT05 |Seccion Registro| Permitir a los usuarios acceder a la sección Registro  | 1|----- | Done 
+| VISIT-004 |Acceso a la sección de Contacto|UT06| Seccion Contacto |Creación de una sección de Contacto |1 |------- |Done
+| VISIT-004|Crear Nuevo Grupo |UT07 |Visualizar Nuevo Grupo|Permitira al usuario crear un nuevo grupo para visualizar sus finanzas | 2|-------  |Done
+| VISIT-005|Añadir o Eliminar Transacciones |UT10 |Seccion Añadir o Eliminar Transacciones|Añadir una sección de Añadir o Eliminar Transacciones| 2| ------| In Progress
+| VISIT-006|Acceso a un Reporte de Gastos |UT11|Ver reporte de gastos |Añadir una sección para visualizar un reporte de Gastos| 1| ------ | In Progress
+| VISIT-007|Conversor de Moneda Integrado |UT12| Conversor de Moneda Integrado |Añadir una sección de conversor de moneda integrado| 2| ------ | In Progress
+| VISIT-008|Acceso a un Historial de Gastos |UT15|Historial de Gastos|Brindar información mediante un Historial de Gastos| 1| ------ | In Progress
+| VISIT-009|Grafico de gastos mensuales |UT17|Sección de Grafico de gastos mensuales|Brindar información mediante un Grafico de gastos mensuales| 1| ------ | In Progress
+| VISIT-009|Grafico de avanze de pagos|UT20|Sección de Grafico de avanze de pagos|Brindar información mediante un Grafico de avanze de pagos| 1| ------ | In Progress
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
