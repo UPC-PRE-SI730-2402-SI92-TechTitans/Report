@@ -446,6 +446,31 @@ Para el mock-up de la aplicación web de FinanceGuard se utilizo un lenguaje fá
 <img src="images/web19.png" width="100%">
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+#### User Flow Registro de Gastos
+
+<p align="center"> <img src="images/diagramaGastos.png"> </p>
+
+**Descripción:** El usuario ingresa a la pantalla principal donde puede registrar un nuevo gasto llenando los detalles requeridos, como la categoría, el monto y la fecha. Tras confirmar el registro, tiene la opción de ser redirigido a una pantalla donde puede consultar el historial de todos los gastos registrados o ver específicamente los gastos recién añadidos.
+
+#### User Flow Informes de Gastos
+
+<p align="center"> <img src="images/diagramaInformes.png"> </p>
+
+**Descripción:** En esta secuencia, el usuario puede solicitar la generación de un informe financiero, donde define parámetros como el rango de fechas y las categorías a incluir. Una vez solicitado, el informe se genera en una nueva pantalla con todos los datos relevantes. Además, el usuario tiene la opción de ir a una pantalla de historial de informes previamente creados, donde puede ver y descargar los informes anteriores.
+
+#### User Flow Creación de Grupos y Registro de Gasto de un Participante del Grupo
+
+<p align="center"> <img src="images/diagramaGrupo.png"> </p>
+
+**Descripción:** Este flujo permite al usuario crear un grupo para gestionar los gastos en equipo. El proceso comienza con la creación del grupo y la asignación de los participantes. Una vez creado, el usuario puede acceder a una pantalla de detalles del grupo para ver la información financiera del mismo. También puede ir a una pantalla donde se registre un nuevo gasto hecho por alguno de los miembros del grupo.
+
+#### User Flow Registro de Contactos
+
+<p align="center"> <img src="images/diagramaContacto.png"> </p>
+
+**Descripción:** El usuario puede registrar nuevos contactos en la aplicación añadiendo los datos necesarios. Tras completar este proceso, el usuario es redirigido a una pantalla donde puede consultar y gestionar la lista de contactos previamente registrados.
+
 ## 4.5. Web Applications Prototyping
 #### Desktop Web Browser
 <img src="images/desktop.png" width="100%">
