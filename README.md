@@ -447,6 +447,12 @@ Para el mock-up de la aplicación web de FinanceGuard se utilizo un lenguaje fá
 
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
+#### Desktop Web Browser
+<img src="images/desktop.png" width="100%">
+
+#### Mobile Web Browser
+<img src="images/mobile.png" width="100%">
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 ### 4.6.2. Software Architecture Container Diagrams
