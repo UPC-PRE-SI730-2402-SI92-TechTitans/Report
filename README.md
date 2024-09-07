@@ -403,6 +403,48 @@ Para los wireframes de la aplicación web de FinanceGuard se utilizo una estruct
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+Para el mock-up de la aplicación web de FinanceGuard se utilizo un lenguaje fácil de entender. Además, el tamaño de la letra elegido permite que los usuarios puedan tener una mejor visualización de la aplicación web. Los colores de los botones permiten que el usuario pueda encontrarlos rápidamente. Por otro lado, las secciones se encuentran en la izquierda, debido a que el usuario podrá hallarlos fácilmente.
+- Iniciar sesión
+<img src="images/web22.png" width="100%">
+
+- Inicio
+<img src="images/web20.png" width="100%">
+
+- Grupos
+<img src="images/web32.png" width="100%">
+<img src="images/web34.png" width="100%">
+<img src="images/web33.png" width="100%">
+
+- Registro de gastos
+<img src="images/web30.png" width="100%">
+<img src="images/web18.png" width="100%">
+<img src="images/web31.png" width="100%">
+
+- Nuevo gasto
+<img src="images/web27.png" width="100%">
+
+- Registrar pago
+<img src="images/web23.png" width="100%">
+
+- Historial de gastos
+<img src="images/web24.png" width="100%">
+
+- Informe de gastos
+<img src="images/web26.png" width="100%">
+
+- Reportes
+<img src="images/web21.png" width="100%">
+
+- Contactos
+<img src="images/web25.png" width="100%">
+<img src="images/web28.png" width="100%">
+
+- División de gastos
+<img src="images/web29.png" width="100%">
+
+- Análisis de pagos
+<img src="images/web19.png" width="100%">
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
