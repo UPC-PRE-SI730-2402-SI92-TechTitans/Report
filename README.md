@@ -402,6 +402,11 @@ Para los wireframes de la aplicación web de FinanceGuard se utilizo una estruct
 <img src="images/web10.png" width="100%">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+<img src="images/wireflow1.png" width="100%">
+<img src="images/wireflow2.png" width="100%">
+<img src="images/wireflow3.png" width="100%">
+<img src="images/wireflow4.png" width="100%">
+
 ### 4.4.3. Web Applications Mock-ups
 Para el mock-up de la aplicación web de FinanceGuard se utilizo un lenguaje fácil de entender. Además, el tamaño de la letra elegido permite que los usuarios puedan tener una mejor visualización de la aplicación web. Los colores de los botones permiten que el usuario pueda encontrarlos rápidamente. Por otro lado, las secciones se encuentran en la izquierda, debido a que el usuario podrá hallarlos fácilmente.
 - Iniciar sesión
