@@ -305,9 +305,9 @@ Landing Page:
 
 | Etiqueta  | Descripción |
 | ------------- | ------------- |
-| Inicio | En esta sección se puede observar varios aspectos de FinanceGuard como ventajas y planes de suscripción, esta es la primera ventana que observa el usuario al ingresar a nuestra aplicación web. |
-| Nosotros  | En esta sección se observan la misión y visión además de brindar información de quienes somos.  |
-| Registro  | En esta sección el usuario podrá ingresar sus datos y crear una cuenta de acorde a sus necesidades. |
+| Inicio | Se puede observar varios aspectos de FinanceGuard como ventajas y planes de suscripción, esta es la primera ventana que observa el usuario al ingresar a nuestra aplicación web. |
+| Nosotros  | Se observan la misión y visión además de brindar información de quienes somos.  |
+| Registro  | El usuario podrá ingresar sus datos y crear una cuenta de acorde a sus necesidades. |
 
 Web Application: 
 
