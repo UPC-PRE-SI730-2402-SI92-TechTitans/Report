@@ -304,6 +304,14 @@ Para las etiquetas usamos un lenguaje formal y fácil de entender.
 | Nosotros  | En esta sección se observan la misión y visión además de brindar información de quienes somos.  |
 | Registro  | En esta sección el usuario podrá ingresar sus datos y crear una cuenta de acorde a sus necesidades. |
 
+## 4.2.3 SEO Tags and Meta Tags
+
+  Landing Page:
+  •	Title: ¿Qué es FinanceGuard?
+  •	Description: Plataforma diseñada para gestionar tanto las finanzas personales como empresariales
+  •	Keywords: finanzas, ahorro, planificación
+  •	Author: FinanceGuard
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframes
