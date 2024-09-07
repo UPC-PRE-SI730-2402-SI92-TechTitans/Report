@@ -124,7 +124,7 @@ Agosto 2024
           <li>Iparraguirre Rueda, Cristian Luis</li>
 	  <li>Luna Morales, Gianfranco: Se comunicó los puntos faltantes del trabajo, dado que para realizar un reporte se requiere de puntos anteriores del trabajo, se enfocaron en ellos para brindar su respectivo análisi.</li>
 	  <li>Ramos Aguirre, Aldair Joaquin</li>
-	  <li>Santillan Alvarado, Melina Liz</li>
+	  <li>Santillan Alvarado, Melina Liz: Contribuyo en el desarrollo del capítulo 4, en el cual se realizó el diseño del landing page y del web application.</li>
         </ul>
       </td>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la 		planificación, desarrollo y culminacion de la primera parte, trabajando en equipo y siendo participe activo de cada una de nuestras secciones asiganas</p></td>
@@ -140,7 +140,7 @@ Agosto 2024
           <li>Iparraguirre Rueda, Cristian Luis</li>
 	  <li>Luna Morales, Gianfranco: Se realizaron los screen shots y revisiones de los capítulos para cumplir con el capítulo 5. Se requirió la participación de todos para mostrar la funcionalidad del landing y los mock-ups</li>
 	  <li>Ramos Aguirre, Aldair Joaquin</li>
-	  <li>Santillan Alvarado, Melina Liz</li>
+	  <li>Santillan Alvarado, Melina Liz: Contribuí en el capítulo 4 y para su desarrollo tuve que revisar los otros capítulos que fueron realizados por mis compañeros.</li>
         </ul>
       </td>
 	 <td><strong>TB1:</strong><p align="justify">Se logró terminar como equipo la primera entrega, asi mismo conocimos nuestras fallas y nuestros valores agregados, llegando a nuestros objetivos y cumpliendo con nuestras tareas asignadas.</p>
