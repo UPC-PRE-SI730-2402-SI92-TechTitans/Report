@@ -564,10 +564,12 @@ A continuación, tenemos los atributos de clase detallados:
 
 
 
-
-
 ## 4.8. Database Design
+  Para el diagrama de base de datos se utilizó Vertabelo en este diagrama se pueden observar sus a detalle sus relaciones.
+  
 ### 4.8.1. Database Diagram
+<img src="images/Database Diagram.png" width="50%">
+
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
