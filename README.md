@@ -411,6 +411,17 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
+| Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
+| ------------  | ------------  | ------------ | ------------ |------------|------------|
+|   |main|0af2de5|feat(doc): add Lean UX Canvas|feat(doc): add Lean UX Canvas|28/08/24|
+|   |main|5de5583|feat(doc): add Lean UX|feat(doc): add Lean UX|28/08/24|
+|   |main|4e3abf6|feat(doc): add 5 W's & 2 H's|feat(doc): add 5 W's & 2 H's|28/08/24|
+|   |main|989083c|feat(doc): update startup description|feat(doc): update startup description|28/08/24|
+|   |main|999382a|feat(doc): add member description|feat(doc): add member description|28/08/24|
+|   |main|6f3b5dd|feat: add first design|feat: add first design|21/08/24|
+|   |main|097cdb2|feat: add presentation|feat: add presentation|21/08/24|
+
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
