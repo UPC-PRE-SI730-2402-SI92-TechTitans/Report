@@ -37,8 +37,6 @@ Producto: FinanceGuard
 
 Agosto 2024
 
-Agosto 2024
-
 </div>
 
 <br>
