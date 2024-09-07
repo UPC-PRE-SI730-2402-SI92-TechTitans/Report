@@ -441,6 +441,7 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+  Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
