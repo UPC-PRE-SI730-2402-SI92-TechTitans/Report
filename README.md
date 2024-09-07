@@ -424,6 +424,37 @@ tareas mas maneajables y organizables y las asignamos a cada uno de los miembros
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+ Feature: VISIT-001: Acceso a la sección de Inicio
+ Como visitante
+ Quiero ser redirigido automáticamente a la sección de Inicio al ingresar al sitio web
+ Para obtener una visión general rápida de la aplicación
+
+ Scenario: Acceso a la sección de Inicio
+   Given que un visitante accede a la página de inicio
+   When ingresa al sitio web
+   Then debe ser redirigido automáticamente a la sección de Inicio
+
+Feature: VISIT-001: Navegación por la página de Inicio
+ Como visitante
+ Quiero poder desplazarme hacia abajo en la página de Inicio y acceder fácilmente a otras secciones importantes de la aplicación
+ Para obtener más información sobre los servicios ofrecidos y la sección de contacto
+
+ Scenario: Navegación por la página de Inicio
+   Given que un visitante está en la sección de Inicio
+   When desplaza hacia abajo la página
+   Then debe poder ver enlaces o botones que le permitan acceder a otras secciones importantes de la aplicación, como los servicios ofrecidos y la sección de contacto
+
+Feature: VISIT-002: Acceso a la sección de Servicios
+ Como visitante
+ Quiero encontrar un enlace claro que me dirija a la sección de Servicios
+ Para obtener información detallada sobre los servicios ofrecidos por la aplicación
+
+ Scenario: Acceso a la sección de Servicios
+   Given que un visitante interesado en los servicios accede al sitio web
+   When ingresa al sitio
+   Then debe encontrar un enlace claro que lo dirija a la sección de Servicios
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 1. Sección Inicial: Se presenta nuestro proyecto.
