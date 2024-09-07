@@ -32,7 +32,7 @@ Producto: FinanceGuard
 |      Martinez Villanueva, Piero Alonso       | U202113821 |
 |      Iparraguirre Rueda, Cristian Luis       |  |
 |      Luna Morales, Gianfranco                | U201924343  |
-|      Ramos Aguirre, Aldair Joaquin           |  |
+|      Ramos Aguirre, Aldair Joaquin           | U20201F051 |
 |      Santillan Alvarado, Melina Liz          | U202216058 |
 
 Agosto 2024
@@ -123,7 +123,7 @@ Agosto 2024
           <li>Martinez Villanueva, Piero Alonso: Implementó el capitulo 1, dicho capitulo contenía la definición de la StartUp, definición de la solución, antecedentes y problemática y todo el proceso Lean UX. Además trabajó aspectos generales del reporte y también User Flow Diagrams.</li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
 	  <li>Luna Morales, Gianfranco: Se comunicó los puntos faltantes del trabajo, dado que para realizar un reporte se requiere de puntos anteriores del trabajo, se enfocaron en ellos para brindar su respectivo análisi.</li>
-	  <li>Ramos Aguirre, Aldair Joaquin</li>
+	  <li>Ramos Aguirre, Aldair Joaquin: Contribuyó con el desarrollo del capítulo 4 para el avance de esta primera entrega, revisando lo anteriormente desarrollado por mis compañeros.</li>
 	  <li>Santillan Alvarado, Melina Liz: Contribuyo en el desarrollo del capítulo 4, en el cual se realizó el diseño del landing page y del web application. Asimismo, colaboro en la elaboración de "Nosotros" del landing page.</li>
         </ul>
       </td>
@@ -139,7 +139,7 @@ Agosto 2024
           <li>Martinez Villanueva, Piero Alonso: Trabajó en colaboración con el equipo los perfiles de integrantes del equipo, además de apoyar de forma colaborativa con los demas integrantes en la realización de los User Flow Diagrams del Capitulo 4.</li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
 	  <li>Luna Morales, Gianfranco: Se realizaron los screen shots y revisiones de los capítulos para cumplir con el capítulo 5. Se requirió la participación de todos para mostrar la funcionalidad del landing y los mock-ups</li>
-	  <li>Ramos Aguirre, Aldair Joaquin</li>
+	  <li>Ramos Aguirre, Aldair Joaquin: Contribuyó con el desarrollo del capítulo 4 para el avance de esta primera entrega, revisando lo anteriormente desarrollado por mis compañeros.</li>
 	  <li>Santillan Alvarado, Melina Liz: Contribuí en el capítulo 4 y para su desarrollo tuve que revisar los otros capítulos que fueron realizados por mis compañeros. Además, colabore con el desarrollo de "Nosotros" del landing page.</li>
         </ul>
       </td>
