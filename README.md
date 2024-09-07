@@ -359,6 +359,48 @@ Para el mock-up del landing page de FinanceGuard, se utilizo colores que combina
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+Para los wireframes de la aplicación web de FinanceGuard se utilizo una estructura que será fácil de entender para el usuario. Además, cada sección de la aplicación web tiene una variedad de herramientas que ayudara mucho al usuario a poder gestionar sus finanzas.
+- Iniciar sesión
+<img src="images/web16.png" width="100%">
+
+- Inicio
+<img src="images/web7.png" width="100%">
+
+- Grupos
+<img src="images/web13.png" width="100%">
+<img src="images/web14.png" width="100%">
+<img src="images/web17.png" width="100%">
+
+- Registro de gastos
+<img src="images/web15.png" width="100%">
+<img src="images/web2.png" width="100%">
+<img src="images/web1.png" width="100%">
+
+- Nuevo gasto
+<img src="images/web8.png" width="100%">
+
+- Registrar pago
+<img src="images/web5.png" width="100%">
+
+- Historial de gastos
+<img src="images/web6.png" width="100%">
+
+- Informe de gastos
+<img src="images/web4.png" width="100%">
+
+- Reportes
+<img src="images/web3.png" width="100%">
+
+- Contactos
+<img src="images/web9.png" width="100%">
+<img src="images/web12.png" width="100%">
+
+- División de gastos
+<img src="images/web11.png" width="100%">
+
+- Análisis de pagos
+<img src="images/web10.png" width="100%">
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
