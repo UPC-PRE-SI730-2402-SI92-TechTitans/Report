@@ -120,7 +120,7 @@ Agosto 2024
         <ul>
           <p><strong>TB1</strong></p>
           <li>Ramos Carpio, Karen: Se trabajo en todo el capitulo 3, detallando el To-Be Scenario Mapping de cada unpo de nuestros segmentos objetivo, se trabajo los User Stories de cada uno de nuestros processo detallando tambien el landing page, 	 impact mapping y prodcut backlog con el apoyo de mi equipo absolviendo cualquierduda de concepto de nuestro startup.</li>
-          <li>Martinez Villanueva, Piero Alonso:</li>
+          <li>Martinez Villanueva, Piero Alonso: Implementó el capitulo 1, dicho capitulo contenía la definición de la StartUp, definición de la solución, antecedentes y problemática y todo el proceso Lean UX. Además trabajó aspectos generales del reporte y también User Flow Diagrams.</li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
 	  <li>Luna Morales, Gianfranco</li>
 	  <li>Ramos Aguirre, Aldair Joaquin</li>
@@ -136,7 +136,7 @@ Agosto 2024
         <ul>
           <p><strong>TB1</strong></p>
           <li>Ramos Carpio, Karen: trabaje en el capitulo 3, dicho capitulo depende de algunos capitulos anteriores, trabajamos conjuntamente para ir alineando a los objetivos inicilaes y no cambiarlos sino mas bien reforzarlos con el avance del proyecto, asi mismo alinear los proceso y la escencia del proyecto.</li>
-          <li>Martinez Villanueva, Piero Alonso:</li>
+          <li>Martinez Villanueva, Piero Alonso: Trabajó en colaboración con el equipo los perfiles de integrantes del equipo, además de apoyar de forma colaborativa con los demas integrantes en la realización de los User Flow Diagrams del Capitulo 4 </li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
 	  <li>Luna Morales, Gianfranco</li>
 	  <li>Ramos Aguirre, Aldair Joaquin</li>
