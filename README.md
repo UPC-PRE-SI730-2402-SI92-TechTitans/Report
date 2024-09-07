@@ -289,6 +289,9 @@ Este conjunto de colores hacen una excelente combinación. Asimismo, permite que
 #### Lenguaje
 FinanceGuard es una plataforma que incentiva el respeto. Por ello, se aplicará un lenguaje formal y respetuoso.
 
+### 4.1.2. Web Style Guidelines
+Para la aplicación web se utilizara el color #E8C8C8 como fondo de los botones, debido a que resalta las palabras que estan escritan en los botones. Por otro lado, para los títulos se usa el color #B1375B, ya que gracias a este color el usuario podrá tener una mejor lectura.
+
 ## 4.2. Information Architecture
 En este punto se presentará la organización del landing page con la finalidad de presentar un producto de fácil comprensión para el usuario.
 
