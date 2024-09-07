@@ -337,6 +337,26 @@ Por otro lado, a través de los wireframes se puede observar la estructura del l
 <img src="images/Mobile_nosotros1.png" width="50%">
 <img src="images/Mobile_nosotros2.png" width="50%">
 
+### 4.3.2. Landing Page Mock-up
+Para el mock-up del landing page de FinanceGuard, se utilizo colores que combinan muy bien juntos, el cual permite que el usuario pueda tener una mejor visualización del contenido. Por otro lado, se puso información importante en el landing page para que el usuario conozca todas las carecterísticas de FinanceGuard.
+#### Desktop Web Browser
+- Inicio
+<img src="images/Desktop_inicio3.png" width="100%">
+<img src="images/Desktop_inicio4.png" width="100%">
+
+- Nosotros
+<img src="images/Desktop_nosotros3.png" width="100%">
+<img src="images/Desktop_nosotros4.png" width="100%">
+
+#### Mobile Web Browser
+- Inicio
+<img src="images/Mobile_inicio3.png" width="50%">
+<img src="images/Mobile_inicio4.png" width="50%">
+
+- Nosotros
+<img src="images/Mobile_nosotros3.png" width="50%">
+<img src="images/Mobile_nosotros4.png" width="50%">
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
