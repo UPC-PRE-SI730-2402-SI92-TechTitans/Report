@@ -295,6 +295,16 @@ En este punto se presentará la organización del landing page con la finalidad 
 ## 4.2.1 Organization Systems
 Para la organización usamos el Thematic Organization, usando este sistema agrupamos el contenido en base a temas relevantes para los usuarios. 
 
+## 4.2.2 Labeling Systems
+Para las etiquetas usamos un lenguaje formal y fácil de entender.
+
+| Etiqueta  | Descripción |
+| ------------- | ------------- |
+| Inicio | En esta sección se puede observar varios aspectos de FinanceGuard como ventajas y planes de suscripción, esta es la primera ventana que observa el usuario al ingresar a nuestra aplicación web. |
+| Nosotros  | En esta sección se observan la misión y visión además de brindar información de quienes somos.  |
+| Registro  | En esta sección el usuario podrá ingresar sus datos y crear una cuenta de acorde a sus necesidades. |
+
+
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframes
 Para los wireframes del landing page de FinanceGuard, se hizo un diseño sencillo de entender para los usuarios y con una apariencia moderna.
