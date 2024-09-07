@@ -531,6 +531,41 @@ Diagrama de clases que representa las entidades más relevantes del sistema, det
   <img src="images/Class diagram.jpeg" width="50%">
   
 ### 4.7.2. Class Dictionary
+
+A continuación, tenemos los atributos de clase detallados:
+
+| Entidad |Atributo |Descripción  | Tipo|
+| ------------- | ------------- | ------------- | ------------- |
+| User  |user_id | Identificador del usuario  | Long |
+|   | name  | Nombre del usuario. | string  |
+|   | email | Dirección de correo del usuario.  | string |
+|   | password | Contraseña de la cuenta del usuario.  | string  |
+|   | phone_number  | Número de teléfono del usuario.  | string  |
+|   | subscriptions_id | Identificador de la suscripción  | long  |
+| Group  | name | Nombre del grupo  | string  |
+|   | members| Miembros del grupo  | string  |
+|   | name | Nombre del grupo  | string  |
+| Category  | name | Nombre de la categoría  | string  |
+| Subscriptions  | Expiration_date | Fecha de fin de la suscripción | date  |
+| Payment_card | card_number | Número de tarjeta   | string  |
+|   | expiration_date | Fecha de expiración de la tarjeta  | date  |
+|   | Holder_name | Nombre del propietario  | string  |
+|   | Postal_code | Número postal del usuario  | string  |
+| User card  | User_id | Identificador del usuario  | long  |
+|   | Card_id | Identificador de la tarjeta  | long  |
+| Payment| amount | Cantidad de pago | double  |
+|   | User_id | Identificador del usuario  | long  |
+|  GroupOperation | payment | Lista de pagos en un grupo  | list<payment> |
+|   | expenses | Lista de gastos en un grupo   | list<Expenses> |
+| Expenses  | amount | Costo de un gasto  | double  |
+|   | User_id | identificador del usuario que realizo dicho gasto   | long |
+| Groupmember  | userid | Identificador de un miembro de un grupo   | long |
+|   | groupid | Identificador de un grupo   | long  |
+
+
+
+
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 # Capítulo V: Product Implementation, Validation & Deployment
