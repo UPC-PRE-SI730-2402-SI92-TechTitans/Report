@@ -512,96 +512,56 @@ Crear una carpeta llamada "docs" para alojar el Landing Page. Asegurarse de que 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 1</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-09-05</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Melina Santillan, Karen Ramos</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear la estructura básica de la plataforma, incluyendo la página de inicio y el sistema de registro de usuarios.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>20</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>18</strong></td></tr>
+</tbody>
+</table>
 
-Un Sprint se trata de un plazo fijo y corto de tiempo en el que el equipo se centra en desarrollar el objetio final del proyecto, también llamado "Product Goal" . Nuestro primer sprint, aun sin los Review Summary ni Retrospective Summary, se centra en cumplir el objetivo de desarrollar nuestra Landing Page.
+### 5.2.1.2. Sprint Backlog 1
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8"><strong>SPRINT 1</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>User Story</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6"><strong>Work/Tasks</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Description</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Estimation (Hours)</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Assigned to</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Status</strong></td></tr>
 
-| Sprint #  | Sprint 1  |
-| ------------ | ------------ |
-| **Sprint Planning Background**  |
-|  Date  | 2024-06-09  |
-| Time  |  11:04 PM |
-| Location  | Google Meeting |
-| Prepared  by  | Gianfranco Luna |
-| Attendees  | Gianfranco Luna, Karen Ramos, Piero Martinez, Cristian Iparraguirre, Aldair Ramos, Melina Santillan |
-| **Sprint Goal And User Stories**   |
-| Sprint n Goal | Elaborar una Landing page que resulte atrayente, útil y apropiada para nuestro proyecto |
-| Spring n Velocity | 19  puntos |
-| Sum of Story Points |   19 puntos|
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-01</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Landing Page - Home</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diseño de Landing Page</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear una página de inicio atractiva y bien diseñada.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
 
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-05</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sección Registro</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementación de formulario de registro</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la sección de registro con formulario y apoyo visual.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Melina Santillan</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
 
-#### 5.2.1.2. Sprint Backlog 1
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-07</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Nuevo Grupo</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Creación de funcionalidad para nuevo grupo</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir al usuario crear un nuevo grupo para administrar finanzas compartidas.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td></tr>
 
-Para nuestro primer Sprint Bakclog, el equipo se centró principalmente en la elaboración de nuestra landing page. Siendo este el foco principal, nos dedicamos
-a determinas metas mas pequeñas y alguans funcionalidades que queriamos implementarlas, basandonos en nuestras user sotires. Es así, que las dividimos en
-tareas mas maneajables y organizables y las asignamos a cada uno de los miembros. Hicimos uso de Trello para la elaboración de esta actividad.
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Reportes de Gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Generación de reportes de gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar una sección para visualizar reportes detallados de gastos.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
 
-
-| Sprint #  | Sprint 1  |------------|------------|------------|------------|------------|------------
-| ------------ | ------------ |------------|------------|------------|------------|------------|------------
-| User Story |------------|------------|------------|------------|------------|------------|------------
-|  Id  | Title  |TaskId |Title|Description|Estimation(Hours)|Assigned To|Status(To do/ In Process/Done)
-| VISIT-001:  |  Acceso a la sección de Inicio |  UT01|Sección Inicio | Añadir la sección de Inicio |2 | ------|Done
-| VISIT-001:  |  Navegación por la página de Inicio |UT01 |Navegación |Creación de una pagina web dinamica y navegable|1 | -----| Done
-| VISIT-002:  | Acceso a la sección de Servicios|UT02 |Seccion Servicios|Permitir a los usuarios acceder a la sección Servicios |2 |---- |Done
-| VISIT-002:  | Acceso a la sección de Reseñas|UT04 |Seccion Reseñas |Permitir a los usuarios acceder a la sección Reseñas|2 | Gianfranco Luna | In Progress
-| VISIT-003 | Acceso a la sección de Registro |UT05 |Seccion Registro| Permitir a los usuarios acceder a la sección Registro  | 1|----- | Done 
-| VISIT-004 |Acceso a la sección de Contacto|UT06| Seccion Contacto |Creación de una sección de Contacto |1 |------- |Done
-| VISIT-004|Crear Nuevo Grupo |UT07 |Visualizar Nuevo Grupo|Permitira al usuario crear un nuevo grupo para visualizar sus finanzas | 2|-------  |Done
-| VISIT-005|Añadir o Eliminar Transacciones |UT10 |Seccion Añadir o Eliminar Transacciones|Añadir una sección de Añadir o Eliminar Transacciones| 2| ------| In Progress
-| VISIT-006|Acceso a un Reporte de Gastos |UT11|Ver reporte de gastos |Añadir una sección para visualizar un reporte de Gastos| 1| ------ | In Progress
-| VISIT-007|Conversor de Moneda Integrado |UT12| Conversor de Moneda Integrado |Añadir una sección de conversor de moneda integrado| 2| ------ | In Progress
-| VISIT-008|Acceso a un Historial de Gastos |UT15|Historial de Gastos|Brindar información mediante un Historial de Gastos| 1| ------ | In Progress
-| VISIT-009|Grafico de gastos mensuales |UT17|Sección de Grafico de gastos mensuales|Brindar información mediante un Grafico de gastos mensuales| 1| ------ | In Progress
-| VISIT-009|Grafico de avanze de pagos|UT20|Sección de Grafico de avanze de pagos|Brindar información mediante un Grafico de avanze de pagos| 1| ------ | In Progress
+</tbody>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-
-| Repository  | Branch  | Commit Id |Commit Message|Commit Message Body|Commited on (Date)|
-| ------------  | ------------  | ------------ | ------------ |------------|------------|
-|   |main|0af2de5|feat(doc): add Lean UX Canvas|feat(doc): add Lean UX Canvas|28/08/24|
-|   |main|5de5583|feat(doc): add Lean UX|feat(doc): add Lean UX|28/08/24|
-|   |main|4e3abf6|feat(doc): add 5 W's & 2 H's|feat(doc): add 5 W's & 2 H's|28/08/24|
-|   |main|989083c|feat(doc): update startup description|feat(doc): update startup description|28/08/24|
-|   |main|999382a|feat(doc): add member description|feat(doc): add member description|28/08/24|
-|   |main|6f3b5dd|feat: add first design|feat: add first design|21/08/24|
-|   |main|097cdb2|feat: add presentation|feat: add presentation|21/08/24|
-
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited On (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| FinanceGuard-LandingPage | main | a1b2c3d | feat: implement initial landing page structure | Landing Page Structure Creation | 2024-07-30 |
+| FinanceGuard-Frontend | feature/contacts | f435dce | feat(contacts): update package.json | Update contact package.json | 2024-08-17 |
+| FinanceGuard-Frontend | feature/groups | c691604 | feat(router): adding a router and endpoints | Update contact package.json | 2024-08-25 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+##### Unit Tests
+* **Clases probadas:**
+  - LandingPage: Valida la carga de componentes principales.
 
- Feature: VISIT-001: Acceso a la sección de Inicio
- Como visitante
- Quiero ser redirigido automáticamente a la sección de Inicio al ingresar al sitio web
- Para obtener una visión general rápida de la aplicación
-
- Scenario: Acceso a la sección de Inicio
-   Given que un visitante accede a la página de inicio
-   When ingresa al sitio web
-   Then debe ser redirigido automáticamente a la sección de Inicio
-
-Feature: VISIT-001: Navegación por la página de Inicio
- Como visitante
- Quiero poder desplazarme hacia abajo en la página de Inicio y acceder fácilmente a otras secciones importantes de la aplicación
- Para obtener más información sobre los servicios ofrecidos y la sección de contacto
-
- Scenario: Navegación por la página de Inicio
-   Given que un visitante está en la sección de Inicio
-   When desplaza hacia abajo la página
-   Then debe poder ver enlaces o botones que le permitan acceder a otras secciones importantes de la aplicación, como los servicios ofrecidos y la sección de contacto
-
-Feature: VISIT-002: Acceso a la sección de Servicios
- Como visitante
- Quiero encontrar un enlace claro que me dirija a la sección de Servicios
- Para obtener información detallada sobre los servicios ofrecidos por la aplicación
-
- Scenario: Acceso a la sección de Servicios
-   Given que un visitante interesado en los servicios accede al sitio web
-   When ingresa al sitio
-   Then debe encontrar un enlace claro que lo dirija a la sección de Servicios
-
+##### Integration Tests
+* Se validó la comunicación entre el landing page y el frontend.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
-
 1. Sección Inicial: Se presenta nuestro proyecto.
 ![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio3.png?raw=true)
 
@@ -614,13 +574,10 @@ Feature: VISIT-002: Acceso a la sección de Servicios
 4. Sección de los productos ofrecidos
 ![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio4.png?raw=true)
 
-
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-  Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
+Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
 ![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio3.png?raw=true)
 
 ![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_nosotros3.png?raw=true)
@@ -629,10 +586,164 @@ Feature: VISIT-002: Acceso a la sección de Servicios
 
 ![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio4.png?raw=true)
 
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Collab.jpg?raw=true)
 
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Collab.jpg?raw=true).
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 2</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-08-01</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Melina Santillan, Karen Ramos</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar y mejorar las funcionalidades de gestión de grupos y contactos, incluyendo nuevas opciones de visualización y registro de pagos.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>22</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>21</strong></td></tr>
+</tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8"><strong>SPRINT 2</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>User Story</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6"><strong>Work/Tasks</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Description</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Estimation (Hours)</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Assigned to</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Status</strong></td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-08</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Lista de los grupos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Creación de la vista de lista de grupos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar la funcionalidad de búsqueda de grupos por nombre.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-13</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Detalles de Transacción</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementación de detalles de transacción</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar una vista detallada de cada transacción con información relevante.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Melina Santillan</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-14</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Registro de Pago</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollo de registro de pagos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar la funcionalidad de registro de pagos dentro del grupo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-20</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Grafico de avance de pagos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Creación de gráfico de pagos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Generar un gráfico para visualizar el progreso de los pagos realizados.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
+
+</tbody>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+| Repository                 | Branch               | Commit ID | Commit Message                                | Commit Message Body                        | Commited On (Date) |
+|----------------------------|----------------------|-----------|-----------------------------------------------|--------------------------------------------|---------------------|
+| FinanceGuard-Frontend        | feature/groups   | a2b3c4d   | feat(groups): create group list view          | Implemented group search functionality     | 2024-08-03         |
+| FinanceGuard-Frontend  | feature/transaction  | d4e5f6g   | feat(transactions): add transaction details   | Developed detailed transaction view        | 2024-08-05         |
+| FinanceGuard-Frontend      | feature/payments     | g7h8i9j   | feat(payments): implement payment logging     | Added functionality to log payments        | 2024-08-08         |
+| FinanceGuard-Frontend     | feature/functions     | j0k1l2m   | feat(charts): add payment progress chart      | Created visual chart for payment progress  | 2024-08-10         |
+| FinanceGuard-Frontend            | feature/functions                 | k3l4m5n   | refactor(UI): improve UI for group and payment sections | Enhanced UI for clarity in transaction views | 2024-08-12         |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalidades. Además, se realizaron pruebas de integración (Integration Tests) para la sincronización entre el frontend y el backend del sistema de búsqueda.
+##### Unit Tests
+* **Clases probadas:**
+  - Frontend: Valida la carga de componentes principales.
+
+##### Integration Tests
+* Se validó la comunicación entre el frontend y el fakeAPI en el flujo de inicio de sesión.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+1. Seccion de vista previa de los grupos cargados
+<img src="images/groupsOverview.png" alt="Vista previa de grupos" width="100%">
+
+2. Vista de los contactos del usuario
+<img src="images/contactsOverview.png" alt="Vista previa de contactos" width="100%">
+
+3. Gastos y pagos pendientes del grupo 
+<img src="images/groupExpenses.png" alt="Vista de gastos y pagos pendientes" width="100%">
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+<img src="images/deploymentEvidenceSprint2.png" alt="Evidencia del depliegue del sprint 2" width="100%">
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+<img src="images/collabInsightSprint2.png" alt="Evidencia del trabajo colaborativo del sprint 2" width="100%">
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-09-15</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Melina Santillan, Karen Ramos</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Desarrollar las funcionalidades avanzadas de análisis financiero y manejo de los grupos y contactos.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>25</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>24</strong></td></tr>
+</tbody>
+</table>
+
+#### 5.2.3.2. Sprint Backlog 3
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8"><strong>SPRINT 3</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>User Story</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6"><strong>Work/Tasks</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Description</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Estimation (Hours)</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Assigned to</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Status</strong></td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Reportes de Gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Generación de reportes de gastos detallados</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar vista para mostrar análisis de gastos mensuales.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-16</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Dividir Gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Funcionalidad de división de gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir que los usuarios dividan los gastos entre miembros de grupo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Melina Santillan</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-17</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Gráfico de Gastos Mensuales</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementación de gráfico mensual de gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear una visualización gráfica de los gastos mensuales de los usuarios.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-19</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Descartar Contactos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Funcionalidad para descartar contactos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir la gestión y eliminación de contactos del grupo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
+
+</tbody>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+| Repository                 | Branch                    | Commit ID | Commit Message                              | Commit Message Body                            | Commited On (Date) |
+|----------------------------|---------------------------|-----------|---------------------------------------------|------------------------------------------------|---------------------|
+| FinanceGuard-Frontend       | feature/functions   | b2c3d4e   | feat(reports): create detailed expense report view | Created report view for monthly expense analysis | 2024-09-26         |
+| FinanceGuard-Frontend  | feature/functions     | d3e4f5g   | feat(split): add expense split feature      | Implemented feature to split expenses among users | 2024-09-10         |
+| FinanceGuard-Frontend        | feature/groups    | e4f5g6h   | feat(charts): add monthly expenses chart    | Developed graphical representation of monthly expenses | 2024-10-13         |
+| FinanceGuard-Frontend      | feature/contacts   | f5g6h7i   | feat(contacts): add contact removal option  | Enabled removal of contacts from group management | 2024-10-15         |
+| FinanceGuard-Frontend | feature/groups     | g6h7i8j   | feat(groups): integrate evidence of expenses and pending payment | Added expenses reports | 2024-09-22         |
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalidades. Además, se realizaron pruebas de integración (Integration Tests) para la sincronización entre el frontend y el fakeAPI del sistema de búsqueda.
+##### Unit Tests
+* **Clases probadas:**
+  - ReportsView: Validar que la vista de reportes muestra los datos correctos de gastos mensuales.
+  - ExpenseSplit: Comprobar que los gastos se dividan correctamente entre los miembros del grupo.
+
+##### Integration Tests
+* Integración del gráfico de gastos mensuales**: Se realizaron pruebas de integración para asegurar que el gráfico de gastos mensuales muestre datos precisos y esté sincronizado con la base de datos.
+
+##### Repositorio y Commits relacionados con Testing:
+| Repository                 | Branch               | Commit ID | Commit Message                          | Commit Message Body                                   | Commited On (Date) |
+|----------------------------|----------------------|-----------|-----------------------------------------|-------------------------------------------------------|---------------------|
+| FinanceGuard-Frontend       | feature/tests        | h7i8j9k   | test: add unit tests for ReportsView    | Unit tests for ReportsView and expense data validation | 2024-08-18         |
+| FinanceGuard-Frontend  | feature/tests        | i8j9k0l   | test: add tests for ExpenseSplit        | Unit tests for expense division functionality         | 2024-08-19         |
+| FinanceGuard-Frontend        | feature/tests        | j9k0l1m   | test: add integration tests for Charts  | Integration tests for monthly expenses chart          | 2024-08-20         |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+1. Vista del informe creada para el análisis de gastos mensuales.
+<img src="images/groupExpensesDetailView.png" alt="Vista del análisis de gastos y pagos pendientes" width="100%">
+
+1. Vista de la eliminación de contactos en la gestión de grupos.
+<img src="images/groupManagementView.png" alt="Vista de la gestión de grupos" width="100%">
+
+1. Vista de la modificación de la cantidad y pago pendiente de cada participante en el grupo.
+<img src="images/expensesModification.png" alt="Modificación de los gastos de cada participante" width="100%">
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+<img src="images/deploymentEvidenceSprint3.png" alt="Evidencia del depliegue del sprint 3" width="100%">
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+<img src="images/collabInsightSprint2.png" alt="Evidencia del trabajo colaborativo del sprint 3" width="100%">
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
