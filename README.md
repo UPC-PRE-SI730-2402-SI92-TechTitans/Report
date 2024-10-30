@@ -29,10 +29,7 @@ Producto: FinanceGuard
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
 |      Ramos Carpio, Karen       | U20201E493 |
-|      Martinez Villanueva, Piero Alonso       | U202113821 |
-|      Iparraguirre Rueda, Cristian Luis       |  |
-|      Luna Morales, Gianfranco                | U201924343  |
-|      Ramos Aguirre, Aldair Joaquin           | U20201F051 |
+|      Iparraguirre Rueda, Cristian Luis       | U202113111 |
 |      Santillan Alvarado, Melina Liz          | U202216058 |
 
 Agosto 2024
@@ -67,10 +64,7 @@ Agosto 2024
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
-	  <li>Martinez Villanueva, Piero Alonso</li>
   	  <li>Iparraguirre Rueda, Cristian Luis</li>
- 	  <li>Luna Morales, Gianfranco</li>
-	  <li>Ramos Aguirre, Aldair Joaquin</li>
 	  <li>Santillan Alvarado, Melina Liz</li> 
         </ul>
       </td>
@@ -122,9 +116,9 @@ Agosto 2024
           <li>Ramos Carpio, Karen: Se trabajo en todo el capitulo 3, detallando el To-Be Scenario Mapping de cada unpo de nuestros segmentos objetivo, se trabajo los User Stories de cada uno de nuestros processo detallando tambien el landing page, 	 impact mapping y prodcut backlog con el apoyo de mi equipo absolviendo cualquierduda de concepto de nuestro startup.</li>
           <li>Martinez Villanueva, Piero Alonso: Implementó el capitulo 1, dicho capitulo contenía la definición de la StartUp, definición de la solución, antecedentes y problemática y todo el proceso Lean UX. Además trabajó aspectos generales del reporte y también User Flow Diagrams.</li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Luna Morales, Gianfranco</li>
-	  <li>Ramos Aguirre, Aldair Joaquin</li>
-	  <li>Santillan Alvarado, Melina Liz</li>
+	  <li>Luna Morales, Gianfranco: Se comunicó los puntos faltantes del trabajo, dado que para realizar un reporte se requiere de puntos anteriores del trabajo, se enfocaron en ellos para brindar su respectivo análisi.</li>
+	  <li>Ramos Aguirre, Aldair Joaquin: Contribuyó con el desarrollo del capítulo 4 para el avance de esta primera entrega, revisando lo anteriormente desarrollado por mis compañeros.</li>
+	  <li>Santillan Alvarado, Melina Liz: Contribuyo en el desarrollo del capítulo 4, en el cual se realizó el diseño del landing page y del web application. Asimismo, colaboro en la elaboración de "Nosotros" del landing page.</li>
         </ul>
       </td>
       <td><strong>TB1:</strong><p align="justify">Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento escrito para comprender los pasos seguidos en la 		planificación, desarrollo y culminacion de la primera parte, trabajando en equipo y siendo participe activo de cada una de nuestras secciones asiganas</p></td>
@@ -135,12 +129,10 @@ Agosto 2024
       <td style="border-right: 1px solid black;">
         <ul>
           <p><strong>TB1</strong></p>
-          <li>Ramos Carpio, Karen: trabaje en el capitulo 3, dicho capitulo depende de algunos capitulos anteriores, trabajamos conjuntamente para ir alineando a los objetivos inicilaes y no cambiarlos sino mas bien reforzarlos con el avance del proyecto, asi mismo alinear los proceso y la escencia del proyecto.</li>
-          <li>Martinez Villanueva, Piero Alonso: Trabajó en colaboración con el equipo los perfiles de integrantes del equipo, además de apoyar de forma colaborativa con los demas integrantes en la realización de los User Flow Diagrams del Capitulo 4 </li>
           <li>Iparraguirre Rueda, Cristian Luis</li>
-	  <li>Luna Morales, Gianfranco</li>
-	  <li>Ramos Aguirre, Aldair Joaquin</li>
-	  <li>Santillan Alvarado, Melina Liz</li>
+	  <li>Luna Morales, Gianfranco: Se realizaron los screen shots y revisiones de los capítulos para cumplir con el capítulo 5. Se requirió la participación de todos para mostrar la funcionalidad del landing y los mock-ups</li>
+	  <li>Ramos Aguirre, Aldair Joaquin: Contribuyó con el desarrollo del capítulo 4 para el avance de esta primera entrega, revisando lo anteriormente desarrollado por mis compañeros.</li>
+	  <li>Santillan Alvarado, Melina Liz: Contribuí en el capítulo 4 y para su desarrollo tuve que revisar los otros capítulos que fueron realizados por mis compañeros. Además, colabore con el desarrollo de "Nosotros" del landing page.</li>
         </ul>
       </td>
 	 <td><strong>TB1:</strong><p align="justify">Se logró terminar como equipo la primera entrega, asi mismo conocimos nuestras fallas y nuestros valores agregados, llegando a nuestros objetivos y cumpliendo con nuestras tareas asignadas.</p>
@@ -309,30 +301,15 @@ FinanceGuard empodera a sus usuarios, tanto individuales como corporativos, a to
 		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los 		objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia.</td>
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. 			Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se completen en el plazo establecido</td>
 	</TR>
-  	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Piero Alonso Martinez Villanueva - U202113821 <br> <img src="images/fotoPiero.jpeg" alt="Foto Piero" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Poseo experiencia en trabajo en equipo, aportando ideas innovadoras y soluciones eficaces, siendo puntual con los plazos establecidos en la elaboración de los proyectos. Me gusta aprender sobre nuevas tecnologías, además de ser paciente y perseverante en el desarrrollo de un proyecto.</td>
-		<td style="text-align: center" align="center">Tengo experiencia en lenguajes de programación como C++, C#, Java, JavaScript y HTML y en programas de diseño como Illustrator, Photoshop, CorelDraw y Maya3D.</td>
-	</TR>
   <TR>
 		<td style="text-align: center" align="center"><p align="center"> Cristian Luis Iparraguirre Rueda - U202113111  <img src="images/fotoCristian.jpeg" alt="Foto Cristian" width="40%"> </p></td> 
 		<td style="text-align: center" align="center">Soy una persona con habilidades de aprendizaje rápido, lo que me permite optimizar tanto mi trabajo individual como en equipo para alcanzar los objetivos establecidos. Tengo experiencia trabajando en equipo, contribuyendo con ideas creativas y soluciones prácticas. Me apasiona aprender sobre nuevas tecnologías y mantengo una actitud perseverante en el desarrollo de cualquier proyecto.</td>
 		<td style="text-align: center" align="center">Tengo conocimientos sólidos en C++, Java, Python, SQL y NoSQL, así como en el desarrollo web con HTML, CSS y JavaScript. Mi enfoque está en la resolución de problemas a través de la programación y en el manejo de bases de datos. Disfruto aprendiendo y explorando nuevas tecnologías, lo que me permite optimizar mis proyectos para que se completen de manera innovadora y efectiva.</td>
 	</TR>
   <TR>
-		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">xxx</td>
-		<td style="text-align: center" align="center">xxx</td>
-	</TR>
-  <TR>
-		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">xxx</td>
-		<td style="text-align: center" align="center">xxx</td>
-	</TR>
-  <TR>
-		<td style="text-align: center" align="center"><p align="center"> xxxxxxx - U  <img src="images/foto.JPG" alt="" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">xxx</td>
-		<td style="text-align: center" align="center">xxx</td>
+		<td style="text-align: center" align="center"><p align="center"> Melina Liz Santillan Alvarado - U202216058  <img src="images/fotoMelina.jpg" alt="" width="45%"> </p></td> 
+		<td style="text-align: center" align="center">Me considero una persona responsable e innovadora, además realizo un buen trabajo en equipo. Por otro lado, voy a ayudar en todo lo que pueda en el proyecto para que este sea un éxito.</td>
+		<td style="text-align: center" align="center">Tengo conocimientos en C++, HTML y CSS. Además, tengo un buen manejo del inglés. Soy una persona que le gusta enriquecer sus aprendizajes.</td>
 	</TR>
 </TABLE>
 
