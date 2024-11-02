@@ -2494,7 +2494,7 @@ Marjori, una profesional de 30 años de diseñadora grafica que reside en Lima, 
 ##### SECCIÓN : SI92
 ##### PROFESORES : Todos
 ##### AUDITOR : TechTitans
-##### CLIENTE(S) : Grupo 4
+##### CLIENTE(S) : TechTitans
 SITE o APP A EVALUAR: FinanceGuard
 ## TAREAS A EVALUAR:
 5. Crear contactos  
