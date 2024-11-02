@@ -2417,6 +2417,76 @@ Para la elaboración de este sprint no fueron contemplados el desarrollo de un W
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <img src="images/collabInsightSprint2.png" alt="Evidencia del trabajo colaborativo del sprint 3" width="100%">
 
+## 5.3. Validation Interviews
+Estas preguntas nos permitirán descubrir si las características que planteamos son efectivamente valoradas por los usuarios y si existe disposición para pagar por ellas. También te ayudarán a ajustar el enfoque de tu aplicación según las expectativas y el comportamiento real de los usuarios.
+
+### 5.3.1. Diseño de Entrevistas
+**Preguntas generales:**
+1. **¿Cuál es su nombre completo?**
+2. **¿Qué edad tienes?**
+3. **¿A qué te dedicas?**
+4. **¿En qué ciudad resides?**
+**Preguntas de validacion:**
+5. **¿La información presentada en la landing page te permite entender rápidamente el propósito de FinanceGuard? ¿Qué mejorarías?
+6. **¿Hay alguna sección o funcionalidad que te gustaría ver en la landing page para conocer más sobre la aplicación?
+7. **¿Te resultaría atractivo registrarte en esta aplicación desde esta landing page? ¿Por qué sí o por qué no?
+8. **¿Qué impresión te genera FinanceGuard en comparación con otras herramientas de finanzas compartidas?
+9. **¿Te resulta fácil y claro navegar por la interfaz de FinanceGuard para añadir, dividir y gestionar gastos?
+10. **¿Qué tan intuitivo encuentras el proceso de agregar un gasto compartido? ¿Hay algo que cambiarías en este flujo?
+11. **¿Consideras que las opciones de personalización (categorías, etiquetas, etc.) son adecuadas para tu uso, o agregarías alguna función específica?
+12. **¿Cómo evaluarías la experiencia de visualización de saldos y deudas? ¿Hay alguna información adicional que te gustaría ver?
+13. **¿Qué tan importante es para ti recibir notificaciones o recordatorios sobre deudas y pagos pendientes? ¿Te gustaría que fueran automáticas o personalizables?
+14. **¿Qué aspecto de FinanceGuard consideras el más útil, y qué te haría usarla en tu día a día?
+15. **¿Si FinanceGuard tuviera funciones premium, cuáles crees que te serían de mayor valor para considerar una suscripción?
+
+### 5.3.2. Registro de Entrevistas
+
+#### Segmento: Profesionales y Empresas
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 1
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/entrevistasfianles-marjori.png" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Marjori Chaparro Iturbe</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>30</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Lima</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="[https://bit.ly/3XbgJCW](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EUpVsmeDZvtKs5Y7a-viRC8BnhgxTInxgfyTBet2I9Qz1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Fxin7f)">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:05]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[5:00]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>01/11/2024</td>
+    </tr>
+</table>
+Marjori, una profesional de 30 años de diseñadora grafica que reside en Lima, segun lo mostrado en cunto al landing page y el frontend, opina que el landingpage si le permite entender rápidamente el propósito, no cambiará nada, menciona que mira todo explicado y facil de hallar, por otro lado le reuslta practico registrarse en esta aplicacion ya que se ve mucho más interactivo. Además las categorías actuales están bien, pero sería útil agregar etiquetas para tipos de eventos, como cenas o viajes, para agrupar mejor los gastos, tambien menciona que quizás un plan que permita generar reportes mensuales, exportar datos y acceso a soporte prioritario. También vería útil la integración con banca para sincronizar gastos.
+
+### 5.3.3. Evaluaciones según heurísticas
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
