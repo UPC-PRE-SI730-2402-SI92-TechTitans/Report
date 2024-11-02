@@ -2487,6 +2487,36 @@ Marjori, una profesional de 30 años de diseñadora grafica que reside en Lima, 
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+#### UX Heuristics & Principles Evaluation
+#### Usability – Inclusive Design – Information Architecture
+##### CARRERA : Ingeniería de Software
+##### CURSO : Aplicaciones Web
+##### SECCIÓN : SI92
+##### PROFESORES : Todos
+##### AUDITOR : TechTitans
+##### CLIENTE(S) : Grupo 4
+SITE o APP A EVALUAR: FinanceGuard
+## TAREAS A EVALUAR:
+5. Crear contactos  
+
+## TABLA RESUMEN:
+#1 
+Problema: No hay una validación para comprobar que el correo ingresado tenga un dominio.
+Escala de serveridad: 3
+Heurística/Principio violada(o): Usability: Prevención de errores
+
+## DESCRIPCIÓN DE PROBLEMAS:
+PROBLEMA #1: No hay una validación para comprobar que el correo ingresado tenga un dominio.
+
+Severidad: 3
+Heurística violada: Usability - Prevención de errores  
+
+Problema:
+Al ingresar un correo para el contacto nuevo, no existe una validación que verfique que el correo ingresado tenga un dominio (como @gmail, @outlook)
+
+Recomendación:
+Agregar una validación que compruebe que el correo tiene un dominio, de este modo el usuario podrá ingresar correctamtente el correo.
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
