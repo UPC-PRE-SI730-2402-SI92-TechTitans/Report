@@ -2520,8 +2520,14 @@ Agregar una validación que compruebe que el correo tiene un dominio, de este mo
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113111_upc_edu_pe/Ee6PYZCScBNImzH64AggPJoBG4mApH-lY0tSKR83HO3khg?e=Pr5tPj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link al video</a>
 
----
+### Video About-the-Product
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113111_upc_edu_pe/EZpigitF5cNLlrciPqsLzRUB1DgJ6W-C15lhMsbQxrQt2g?e=NRXg3H&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link al video</a>
+
+### Video Exposicion
+<a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113111_upc_edu_pe/Ee6PYZCScBNImzH64AggPJoBG4mApH-lY0tSKR83HO3khg?e=Pr5tPj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link al video</a>
+
 # Bibliografía
 
 ---
