@@ -1972,11 +1972,14 @@ Por otro lado, a través de los wireframes se puede observar la estructura del l
 #### Desktop Web Browser
 - Inicio
 <img src="images/Desktop_inicio1.png" width="100%">
-<img src="images/Desktop_inicio2.png" width="100%">
-
-- Nosotros
-<img src="images/Desktop_nosotros1.png" width="100%">
-<img src="images/Desktop_nosotros2.png" width="100%">
+-Servicios
+<img src="images/Desktop_servicios2.png" width="100%">
+- Planes
+<img src="images/Desktop_planes1.png" width="100%">
+- Reseñas
+<img src="images/Desktop_reseñas1.png" width="100%">
+- Contacto
+<img src="images/Desktop_contacto2.png" width="100%">
 
 #### Mobile Web Browser
 - Inicio
@@ -1991,12 +1994,15 @@ Por otro lado, a través de los wireframes se puede observar la estructura del l
 Para el mock-up del landing page de FinanceGuard, se utilizo colores que combinan muy bien juntos, el cual permite que el usuario pueda tener una mejor visualización del contenido. Por otro lado, se puso información importante en el landing page para que el usuario conozca todas las carecterísticas de FinanceGuard.
 #### Desktop Web Browser
 - Inicio
-<img src="images/Desktop_inicio3.png" width="100%">
-<img src="images/Desktop_inicio4.png" width="100%">
-
-- Nosotros
-<img src="images/Desktop_nosotros3.png" width="100%">
-<img src="images/Desktop_nosotros4.png" width="100%">
+<img src="images/Desktop_inicio2.png" width="100%">
+-Servicios
+<img src="images/Desktop_servicios3.png" width="100%">
+- Planes
+<img src="images/Desktop_planes2.png" width="100%">
+- Reseñas
+<img src="images/Desktop_reseñas2.png" width="100%">
+- Contacto
+<img src="images/Desktop_contacto3.png" width="100%">
 
 #### Mobile Web Browser
 - Inicio
