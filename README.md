@@ -533,11 +533,11 @@ FinanceGuard se dirige a dos audiencias meta clave: *Profesionales y Empresas* y
 		<tr>
 			<td rowspan=3 style="text-align: center" align="center">Perfil</td>
 			<td rowspan=2 style="text-align: center" align="center">Overview</td>
-      <td style="text-align: center" align="center">FinanceGuard <p align="center"><img src="images/FGLogo.png" alt="Logo FinanceGuard" width="25%">
+      <td style="text-align: center" align="center">FinanceGuard <p align="center"><img src="images/FinanceGuardLogo.png" alt="Logo FinanceGuard" width="50%">
 </p></td>
-			<td style="text-align: center" align="center">Mint <p align="center"><img src="images/splittrLogo.png" alt="Logo Mint" width="40%"></p></td>
-			<td style="text-align: center" align="center">Personal Capital <p align="center"><img src="images/tricountLogo.png" alt="Logo Personal Capital" width="40%"></p></td>
-			<td style="text-align: center" align="center">GoodBudget <p align="center"><img src="images/splitwiseLogo.png" alt="Logo GoodBudget" width="40%"></p></td>
+			<td style="text-align: center" align="center">Mint <p align="center"><img src="images/mintlogo.png" alt="Logo Mint" width="40%"></p></td>
+			<td style="text-align: center" align="center">Personal Capital <p align="center"><img src="images/personalcapitallogo.png" alt="Logo Personal Capital" width="40%"></p></td>
+			<td style="text-align: center" align="center">GoodBudget <p align="center"><img src="images/GoodBudgetlogo.png" alt="Logo GoodBudget" width="40%"></p></td>
 		</tr>
 		<tr>
 			<td style="text-align: center" align="center">Plataforma que busca facilitar el proceso de división de costos en diversas situaciones, con varias herramientas que son de utilidad en dicho momento</td>
