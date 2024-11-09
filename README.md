@@ -2383,9 +2383,9 @@ Para la elaboración de este sprint no fueron contemplados el desarrollo de un W
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/deploylanding.png.png?raw=true)
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/deploylanding.png?raw=true)
 
-Enlace para acceder a la landing page: <a href="https://financeguardlp.netlify.app"</a>
+Enlace para acceder a la landing page: <a href="https://financeguardlp.netlify.app"></a>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
