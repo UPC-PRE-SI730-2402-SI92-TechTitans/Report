@@ -2345,9 +2345,11 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
 #### 5.2.1.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited On (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| FinanceGuard-LandingPage | main | a1b2c3d | feat: implement initial landing page structure | Landing Page Structure Creation | 2024-07-30 |
-| FinanceGuard-Frontend | feature/contacts | f435dce | feat(contacts): update package.json | Update contact package.json | 2024-08-17 |
-| FinanceGuard-Frontend | feature/groups | c691604 | feat(router): adding a router and endpoints | Update contact package.json | 2024-08-25 |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Landingpage| develop | 5528cbb | feat: implement initial landing page structure | Landing Page Structure Creation | 2024-07-30 |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Landingpage | feature/services | 04d9d5c | feat: add services section | Services Section | 2024-08-17 |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Landingpage | feature/plans | 9882c67 | feat: add section plans | Plans Section | 2024-08-25 |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Landingpage| feature/reviews | 3cfb958 | feat: add section reviews | Reviews Section| 2024-08-30 |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Landingpage | feature/contact | 653e192 | feat: add section contact and footer | Contact Section | 2024-09-17 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 ##### Unit Tests
@@ -2358,33 +2360,36 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
 * Se validó la comunicación entre el landing page y el frontend.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+En el sprint 1 se alcanzo el desarrollo y la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up. A continuación se muestran algunas evidencias:
+
 1. Sección Inicial: Se presenta nuestro proyecto.
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio3.png?raw=true)
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/Desktop_inicio2.png?raw=true)
 
-2. Presentamos al equipo como startup
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_nosotros3.png?raw=true)
+2. Presentamos el detalle de nuestros servicios
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/Desktop_servicios3.png?raw=true)
 
-3. Sección donde exponemos nuestra misión y visión 
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_nosotros4.png?raw=true)
+3. Sección donde exponemos nuestro planes
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/Desktop_planes2.png?raw=true)
 
-4. Sección de los productos ofrecidos
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio4.png?raw=true)
+4. Sección de reseñas de nuestros clientes
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/Desktop_reseñas2.png?raw=true)
+
+5. Sección de contacto
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/Desktop_contacto3.png?raw=true)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio3.png?raw=true)
 
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_nosotros3.png?raw=true)
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/main/images/deploylanding.png.png?raw=true)
 
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_nosotros4.png?raw=true)
-
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Desktop_inicio4.png?raw=true)
+Enlace para acceder a la landing page: <a href="https://financeguardlp.netlify.app"</a>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Collab.jpg?raw=true)
 
+![image](https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Report/blob/feature/chapter5/images/Collab.jpg?raw=true)
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
