@@ -2340,8 +2340,6 @@ En el primer sprint backlog, el equipo tuvo la intención de comenzar y completa
 </tbody>
 </table>
 
-
-
 #### 5.2.1.3. Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited On (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
@@ -2410,6 +2408,13 @@ Enlace para acceder a la landing page: <a href="https://financeguardlp.netlify.a
 </table>
 
 #### 5.2.2.2. Sprint Backlog 2
+
+En el segundo sprint backlog, el equipo se centro en el front end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades. el objetivo principal del sprint era arreglar los bugs de la landing page y construir en su totalidad la web application con su respectivo fake API, logrando que sea atractiva y funcional.
+
+<img src="images/trellosprint2.png" alt="Trello sprint 2" style="width: 80%;">
+
+<a href="https://trello.com/invite/b/672fdec2850d5d3e81ef8c23/ATTI1259892172c515fc8e83b3ce897df3956A35F993/financeguard-sprint-2">Link de Trello</a>
+
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8"><strong>SPRINT 2</strong></td></tr>
@@ -2430,11 +2435,11 @@ Enlace para acceder a la landing page: <a href="https://financeguardlp.netlify.a
 #### 5.2.2.3. Development Evidence for Sprint Review
 | Repository                 | Branch               | Commit ID | Commit Message                                | Commit Message Body                        | Commited On (Date) |
 |----------------------------|----------------------|-----------|-----------------------------------------------|--------------------------------------------|---------------------|
-| FinanceGuard-Frontend        | feature/groups   | a2b3c4d   | feat(groups): create group list view          | Implemented group search functionality     | 2024-08-03         |
-| FinanceGuard-Frontend  | feature/transaction  | d4e5f6g   | feat(transactions): add transaction details   | Developed detailed transaction view        | 2024-08-05         |
-| FinanceGuard-Frontend      | feature/payments     | g7h8i9j   | feat(payments): implement payment logging     | Added functionality to log payments        | 2024-08-08         |
-| FinanceGuard-Frontend     | feature/functions     | j0k1l2m   | feat(charts): add payment progress chart      | Created visual chart for payment progress  | 2024-08-10         |
-| FinanceGuard-Frontend            | feature/functions                 | k3l4m5n   | refactor(UI): improve UI for group and payment sections | Enhanced UI for clarity in transaction views | 2024-08-12         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/groups   | a2b3c4d   | feat(groups): create group list view          | Implemented group search functionality     | 2024-08-03         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/transaction  | d4e5f6g   | feat(transactions): add transaction details   | Developed detailed transaction view        | 2024-08-05
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/payments     | g7h8i9j   | feat(payments): implement payment logging     | Added functionality to log payments        | 2024-08-08         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/functions     | j0k1l2m   | feat(charts): add payment progress chart      | Created visual chart for payment progress  | 2024-08-10         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/functions                 | k3l4m5n   | refactor(UI): improve UI for group and payment sections | Enhanced UI for clarity in transaction views | 2024-08-12         |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalidades. Además, se realizaron pruebas de integración (Integration Tests) para la sincronización entre el frontend y el backend del sistema de búsqueda.
@@ -2483,6 +2488,13 @@ Para la elaboración de este sprint no fueron contemplados el desarrollo de un W
 </table>
 
 #### 5.2.3.2. Sprint Backlog 3
+
+En el tercer sprint backlog, el equipo completó parcialmente el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio que se pueda dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros segun sus diferentes habilidades.
+
+<img src="images/trellosprint3.png" alt="Trello sprint 3" style="width: 80%;">
+
+<a href="https://trello.com/invite/b/672fdec2850d5d3e81ef8c23/ATTI1259892172c515fc8e83b3ce897df3956A35F993/financeguard-sprint-2">Link de Trello</a>
+
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8"><strong>SPRINT 3</strong></td></tr>
@@ -2503,11 +2515,11 @@ Para la elaboración de este sprint no fueron contemplados el desarrollo de un W
 #### 5.2.3.3. Development Evidence for Sprint Review
 | Repository                 | Branch                    | Commit ID | Commit Message                              | Commit Message Body                            | Commited On (Date) |
 |----------------------------|---------------------------|-----------|---------------------------------------------|------------------------------------------------|---------------------|
-| FinanceGuard-Frontend       | feature/functions   | b2c3d4e   | feat(reports): create detailed expense report view | Created report view for monthly expense analysis | 2024-09-26         |
-| FinanceGuard-Frontend  | feature/functions     | d3e4f5g   | feat(split): add expense split feature      | Implemented feature to split expenses among users | 2024-09-10         |
-| FinanceGuard-Frontend        | feature/groups    | e4f5g6h   | feat(charts): add monthly expenses chart    | Developed graphical representation of monthly expenses | 2024-10-13         |
-| FinanceGuard-Frontend      | feature/contacts   | f5g6h7i   | feat(contacts): add contact removal option  | Enabled removal of contacts from group management | 2024-10-15         |
-| FinanceGuard-Frontend | feature/groups     | g6h7i8j   | feat(groups): integrate evidence of expenses and pending payment | Added expenses reports | 2024-09-22         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/functions   | b2c3d4e   | feat(reports): create detailed expense report view | Created report view for monthly expense analysis | 2024-09-26         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend  | feature/functions     | d3e4f5g   | feat(split): add expense split feature      | Implemented feature to split expenses among users | 2024-09-10         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend  | feature/groups    | e4f5g6h   | feat(charts): add monthly expenses chart    | Developed graphical representation of monthly expenses | 2024-10-13         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend  | feature/contacts   | f5g6h7i   | feat(contacts): add contact removal option  | Enabled removal of contacts from group management | 2024-10-15         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend  | feature/groups     | g6h7i8j   | feat(groups): integrate evidence of expenses and pending payment | Added expenses reports | 2024-09-22         |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalidades. Además, se realizaron pruebas de integración (Integration Tests) para la sincronización entre el frontend y el fakeAPI del sistema de búsqueda.
@@ -2522,9 +2534,9 @@ En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalid
 ##### Repositorio y Commits relacionados con Testing:
 | Repository                 | Branch               | Commit ID | Commit Message                          | Commit Message Body                                   | Commited On (Date) |
 |----------------------------|----------------------|-----------|-----------------------------------------|-------------------------------------------------------|---------------------|
-| FinanceGuard-Frontend       | feature/tests        | h7i8j9k   | test: add unit tests for ReportsView    | Unit tests for ReportsView and expense data validation | 2024-08-18         |
-| FinanceGuard-Frontend  | feature/tests        | i8j9k0l   | test: add tests for ExpenseSplit        | Unit tests for expense division functionality         | 2024-08-19         |
-| FinanceGuard-Frontend        | feature/tests        | j9k0l1m   | test: add integration tests for Charts  | Integration tests for monthly expenses chart          | 2024-08-20         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/tests        | h7i8j9k   | test: add unit tests for ReportsView    | Unit tests for ReportsView and expense data validation | 2024-08-18         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/tests        | i8j9k0l   | test: add tests for ExpenseSplit        | Unit tests for expense division functionality         | 2024-08-19         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/tests        | j9k0l1m   | test: add integration tests for Charts  | Integration tests for monthly expenses chart          | 2024-08-20         |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 1. Vista del informe creada para el análisis de gastos mensuales.
