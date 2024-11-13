@@ -125,7 +125,7 @@ Noviembre 2024
   </tr>
   <tr>
       <td><strong>Final</strong></td>
-      <td>Lunes 25 de Noviembre</td>
+      <td>Lunes 18 de Noviembre</td>
       <td>
         <ul>
           <li>Ramos Carpio, Karen</li>
@@ -2557,27 +2557,65 @@ Para la elaboración de este sprint no fueron contemplados el desarrollo de un W
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 <img src="images/collabInsightSprint2.png" alt="Evidencia del trabajo colaborativo del sprint 3" width="100%">
 
+### 5.2.4 Sprint 4.
+#### 5.2.4.1. Sprint Planning 4
+#### 5.2.4.2. Sprint Backlog 4
+#### 5.2.4.3. Development Evidence for Sprint Review
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+##### Unit Tests
+* **Clases probadas:**
+
+
+##### Integration Tests
+
+##### Repositorio y Commits relacionados con Testing:
+| Repository                 | Branch               | Commit ID | Commit Message                          | Commit Message Body                                   | Commited On (Date) |
+|----------------------------|----------------------|-----------|-----------------------------------------|-------------------------------------------------------|---------------------|
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/tests        | h7i8j9k   | test: add unit tests for ReportsView    | Unit tests for ReportsView and expense data validation | 2024-08-18         |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+1. Vista del informe creada para el análisis de gastos mensuales.
+<img src="images/groupExpensesDetailView.png" alt="Vista del análisis de gastos y pagos pendientes" width="100%">
+
+1. Vista de la eliminación de contactos en la gestión de grupos.
+<img src="images/groupManagementView.png" alt="Vista de la gestión de grupos" width="100%">
+
+1. Vista de la modificación de la cantidad y pago pendiente de cada participante en el grupo.
+<img src="images/expensesModification.png" alt="Modificación de los gastos de cada participante" width="100%">
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<img src="images/deploymentEvidenceSprint3.png" alt="Evidencia del depliegue del sprint 3" width="100%">
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+<img src="images/collabInsightSprint2.png" alt="Evidencia del trabajo colaborativo del sprint 3" width="100%">
+
 ## 5.3. Validation Interviews
 Estas preguntas nos permitirán descubrir si las características que planteamos son efectivamente valoradas por los usuarios y si existe disposición para pagar por ellas. También te ayudarán a ajustar el enfoque de tu aplicación según las expectativas y el comportamiento real de los usuarios.
 
 ### 5.3.1. Diseño de Entrevistas
 **Preguntas generales:**
+
 1. **¿Cuál es su nombre completo?**
 2. **¿Qué edad tienes?**
 3. **¿A qué te dedicas?**
 4. **¿En qué ciudad resides?**
+   
 **Preguntas de validacion:**
-5. **¿La información presentada en la landing page te permite entender rápidamente el propósito de FinanceGuard? ¿Qué mejorarías?
-6. **¿Hay alguna sección o funcionalidad que te gustaría ver en la landing page para conocer más sobre la aplicación?
-7. **¿Te resultaría atractivo registrarte en esta aplicación desde esta landing page? ¿Por qué sí o por qué no?
-8. **¿Qué impresión te genera FinanceGuard en comparación con otras herramientas de finanzas compartidas?
-9. **¿Te resulta fácil y claro navegar por la interfaz de FinanceGuard para añadir, dividir y gestionar gastos?
-10. **¿Qué tan intuitivo encuentras el proceso de agregar un gasto compartido? ¿Hay algo que cambiarías en este flujo?
-11. **¿Consideras que las opciones de personalización (categorías, etiquetas, etc.) son adecuadas para tu uso, o agregarías alguna función específica?
-12. **¿Cómo evaluarías la experiencia de visualización de saldos y deudas? ¿Hay alguna información adicional que te gustaría ver?
-13. **¿Qué tan importante es para ti recibir notificaciones o recordatorios sobre deudas y pagos pendientes? ¿Te gustaría que fueran automáticas o personalizables?
-14. **¿Qué aspecto de FinanceGuard consideras el más útil, y qué te haría usarla en tu día a día?
-15. **¿Si FinanceGuard tuviera funciones premium, cuáles crees que te serían de mayor valor para considerar una suscripción?
+
+5. **¿La información presentada en la landing page te permite entender rápidamente el propósito de FinanceGuard? ¿Qué mejorarías?**
+6. **¿Hay alguna sección o funcionalidad que te gustaría ver en la landing page para conocer más sobre la aplicación?** 
+7. **¿Te resultaría atractivo registrarte en esta aplicación desde esta landing page? ¿Por qué sí o por qué no?**
+8. **¿Qué impresión te genera FinanceGuard en comparación con otras herramientas de finanzas compartidas?**
+9. **¿Te resulta fácil y claro navegar por la interfaz de FinanceGuard para añadir, dividir y gestionar gastos?**
+10. **¿Qué tan intuitivo encuentras el proceso de agregar un gasto compartido? ¿Hay algo que cambiarías en este flujo?**
+11. **¿Consideras que las opciones de personalización (categorías, etiquetas, etc.) son adecuadas para tu uso, o agregarías alguna función específica?**
+12. **¿Cómo evaluarías la experiencia de visualización de saldos y deudas? ¿Hay alguna información adicional que te gustaría ver?**
+13. **¿Qué tan importante es para ti recibir notificaciones o recordatorios sobre deudas y pagos pendientes? ¿Te gustaría que fueran automáticas o personalizables?**
+14. **¿Qué aspecto de FinanceGuard consideras el más útil, y qué te haría usarla en tu día a día?**
+15. **¿Si FinanceGuard tuviera funciones premium, cuáles crees que te serían de mayor valor para considerar una suscripción?**
 
 ### 5.3.2. Registro de Entrevistas
 
