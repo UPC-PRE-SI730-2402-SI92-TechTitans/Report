@@ -2709,6 +2709,92 @@ le gustaria que si esque existiese alguna actulizacion de la aplicacion a otra v
 menciona que si se registraria en nuestra landing page. Ademas le resulta practico e intuitivo, para ella es importante las notificaciones y estar al
 dia en sus pagos, finalmente le gustaria que asociemos las notificaciones por correo y por whatsapp.
 
+#### Usuarios de Finanzas Personales
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 3
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/entrevistasfianles-jhon.png" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Jhon</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>20</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Lima</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:05]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[5:40]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>16/11/2024</td>
+    </tr>
+</table>
+
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 4
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/entrevistasfianles-gean.png" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Gianfranco</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>25</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Lima</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:05]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[6:23]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>16/11/2024</td>
+    </tr>
+</table>
+
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 #### UX Heuristics & Principles Evaluation
