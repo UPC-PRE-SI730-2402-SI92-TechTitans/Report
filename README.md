@@ -2646,7 +2646,7 @@ Estas preguntas nos permitirán descubrir si las características que planteamos
     </tr>
     <tr>
         <td><strong>URL del Video</strong></td>
-        <td><a href="[https://bit.ly/3XbgJCW](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EUpVsmeDZvtKs5Y7a-viRC8BnhgxTInxgfyTBet2I9Qz1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Fxin7f)">Video</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EUpVsmeDZvtKs5Y7a-viRC8BnhgxTInxgfyTBet2I9Qz1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dSZsv3">Video</a></td>
     </tr>
     <tr>
         <td><strong>Timing de Inicio</strong></td>
@@ -2662,6 +2662,52 @@ Estas preguntas nos permitirán descubrir si las características que planteamos
     </tr>
 </table>
 Marjori, una profesional de 30 años de diseñadora grafica que reside en Lima, segun lo mostrado en cunto al landing page y el frontend, opina que el landingpage si le permite entender rápidamente el propósito, no cambiará nada, menciona que mira todo explicado y facil de hallar, por otro lado le reuslta practico registrarse en esta aplicacion ya que se ve mucho más interactivo. Además las categorías actuales están bien, pero sería útil agregar etiquetas para tipos de eventos, como cenas o viajes, para agrupar mejor los gastos, tambien menciona que quizás un plan que permita generar reportes mensuales, exportar datos y acceso a soporte prioritario. También vería útil la integración con banca para sincronizar gastos.
+
+<table style="border: 0.01px solid #555">
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            Entrevista 2
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="text-align: center;">
+            <img src="images/entrevistasfianles-elizabeth.png" alt="Imagen del video" style="width: 80%;">
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Nombre y Apellido</strong></td>
+        <td>Elizabeth Quispe Saico</td>
+    </tr>
+    <tr>
+        <td><strong>Edad</strong></td>
+        <td>32</td>
+    </tr>
+    <tr>
+        <td><strong>Distrito</strong></td>
+        <td>Lima</td>
+    </tr>
+    <tr>
+        <td><strong>URL del Video</strong></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EbmApNEf5zFIgzNTnATYXmQBiJrOd328J228N_6Kc1A6Fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Z8aboc">Video</a></td>
+    </tr>
+    <tr>
+        <td><strong>Timing de Inicio</strong></td>
+        <td>[0:05]</td>
+    </tr>
+    <tr>
+        <td><strong>Duración</strong></td>
+        <td>[7:23]</td>
+    </tr>
+    <tr>
+        <td><strong>Fecha</strong></td>
+        <td>16/11/2024</td>
+    </tr>
+</table>
+Elizabeth, es una ingeniera de sistemas de 32 años que reside en Lima, segun lo mostrado en cuanto al landing page y el frontend, opina que 
+la encuentra bastante practica por lso atajos a cada seccion que se presenta, le gustaria que agregaras mas promociones, por otro lado
+le gustaria que si esque existiese alguna actulizacion de la aplicacion a otra version eso tambiene ste disponible en la landing page, tambien
+menciona que si se registraria en nuestra landing page. Ademas le resulta practico e intuitivo, para ella es importante las notificaciones y estar al
+dia en sus pagos, finalmente le gustaria que asociemos las notificaciones por correo y por whatsapp.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
