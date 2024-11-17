@@ -2762,16 +2762,16 @@ Aspectos más destacados. Ademas cree que lo más útil es dividir gastos en gru
     </tr>
     <tr>
         <td colspan="2" style="text-align: center;">
-            <img src="images/entrevistasfianles-gean.png" alt="Imagen del video" style="width: 80%;">
+            <img src="images/entrevistasfianles-bryton.png" alt="Imagen del video" style="width: 80%;">
         </td>
     </tr>
     <tr>
         <td><strong>Nombre y Apellido</strong></td>
-        <td>Gianfranco</td>
+        <td>Braython Chuctaya Ramirez</td>
     </tr>
     <tr>
         <td><strong>Edad</strong></td>
-        <td>25</td>
+        <td>21</td>
     </tr>
     <tr>
         <td><strong>Distrito</strong></td>
@@ -2787,14 +2787,14 @@ Aspectos más destacados. Ademas cree que lo más útil es dividir gastos en gru
     </tr>
     <tr>
         <td><strong>Duración</strong></td>
-        <td>[6:23]</td>
+        <td>[6:04]</td>
     </tr>
     <tr>
         <td><strong>Fecha</strong></td>
         <td>16/11/2024</td>
     </tr>
 </table>
-
+Braython de 21 años con interés en la gestión de finanzas personales encuentra FinanceGuard clara y útil, destacando su funcionalidad para dividir gastos y mantener control entre amigos. Sugiere mejoras en la landing page, como casos prácticos y tutoriales, mientras que en la aplicación valora la personalización, como plantillas de gastos frecuentes y gráficos para análisis financiero. Para una versión premium, priorizaría herramientas avanzadas de reportes y recordatorios personalizables. La aplicación le parece adecuada para estudiantes y trabajadores jóvenes con finanzas compartidas en su día a día.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
