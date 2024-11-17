@@ -2661,7 +2661,7 @@ Estas preguntas nos permitirán descubrir si las características que planteamos
         <td>01/11/2024</td>
     </tr>
 </table>
-Marjori, una profesional de 30 años de diseñadora grafica que reside en Lima, segun lo mostrado en cunto al landing page y el frontend, opina que el landingpage si le permite entender rápidamente el propósito, no cambiará nada, menciona que mira todo explicado y facil de hallar, por otro lado le reuslta practico registrarse en esta aplicacion ya que se ve mucho más interactivo. Además las categorías actuales están bien, pero sería útil agregar etiquetas para tipos de eventos, como cenas o viajes, para agrupar mejor los gastos, tambien menciona que quizás un plan que permita generar reportes mensuales, exportar datos y acceso a soporte prioritario. También vería útil la integración con banca para sincronizar gastos.
+Marjori, es una profesional dedicada al diseño grafica de 30 años que reside en Lima, segun lo mostrado en cunto al landing page y el frontend, opina que el landingpage si le permite entender rápidamente el propósito, no cambiará nada, menciona que mira todo explicado y facil de hallar, por otro lado le reuslta practico registrarse en esta aplicacion ya que se ve mucho más interactivo. Además las categorías actuales están bien, pero sería útil agregar etiquetas para tipos de eventos, como cenas o viajes, para agrupar mejor los gastos, tambien menciona que quizás un plan que permita generar reportes mensuales, exportar datos y acceso a soporte prioritario. También vería útil la integración con banca para sincronizar gastos.
 
 <table style="border: 0.01px solid #555">
     <tr>
@@ -2728,7 +2728,7 @@ dia en sus pagos, finalmente le gustaria que asociemos las notificaciones por co
     </tr>
     <tr>
         <td><strong>Edad</strong></td>
-        <td>20</td>
+        <td>21</td>
     </tr>
     <tr>
         <td><strong>Distrito</strong></td>
@@ -2736,7 +2736,7 @@ dia en sus pagos, finalmente le gustaria que asociemos las notificaciones por co
     </tr>
     <tr>
         <td><strong>URL del Video</strong></td>
-        <td><a href="">Video</a></td>
+        <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/ET1FauSlUC1KhBpGAg3q58oBkTw7N48a4uGfNdBs-xfaDg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wafoyi">Video</a></td>
     </tr>
     <tr>
         <td><strong>Timing de Inicio</strong></td>
@@ -2744,14 +2744,15 @@ dia en sus pagos, finalmente le gustaria que asociemos las notificaciones por co
     </tr>
     <tr>
         <td><strong>Duración</strong></td>
-        <td>[5:40]</td>
+        <td>[6:48]</td>
     </tr>
     <tr>
         <td><strong>Fecha</strong></td>
         <td>16/11/2024</td>
     </tr>
 </table>
-
+Jhon, es un estudiante de electronica de 21 años que reside en Lima, segun lo mostrado en cuanto al landing page y el frontend, opina que la landing page es clara, pero podría mejorarse con videos explicativos o una demo interactiva. Considera atractiva la app por su diseño moderno y utilidad, especialmente para organizar finanzas grupales. Valora la facilidad de uso, aunque sugiere simplificar flujos para grupos grandes y añadir autocompletado de contactos frecuentes. Encuentra útiles las opciones de personalización, pero incluiría subcategorías y análisis históricos de gastos. Le importan las notificaciones personalizables sobre pagos pendientes.
+Aspectos más destacados. Ademas cree que lo más útil es dividir gastos en grupo, finalmente cree que entre las funciones premium, valora análisis detallados, integración bancaria y reportes personalizados.
 
 <table style="border: 0.01px solid #555">
     <tr>
