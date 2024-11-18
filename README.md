@@ -2467,7 +2467,7 @@ En el sprint 2 se realizo un desarrollo parcial de la aplciación web, la cual p
 Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-<img src="images/deploymentEvidenceSprint2.png" alt="Evidencia del depliegue del sprint 2" width="100%">
+<img src="images/deploymentEvidenceSprint2.1.png" alt="Evidencia del depliegue del sprint 2" width="100%">
 
 Enlace para acceder al Frontend: <a href="https://finance-guard.web.app/">Frontend FinanceGuard</a>
 
