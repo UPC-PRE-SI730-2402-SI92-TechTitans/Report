@@ -2451,6 +2451,9 @@ En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalid
 * Se validó la comunicación entre el frontend y el fakeAPI en el flujo de inicio de sesión.
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+En el sprint 2 se realizo un desarrollo parcial de la aplciación web, la cual permite al usuario navegar por ciertas funcionalidades. A continuación se muestran algunas evidencias:
+
 1. Seccion de vista previa de los grupos cargados
 <img src="images/groupsOverview.png" alt="Vista previa de grupos" width="100%">
 
@@ -2465,6 +2468,8 @@ Para la elaboración de este sprint no fueron contemplados el desarrollo de un W
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 <img src="images/deploymentEvidenceSprint2.png" alt="Evidencia del depliegue del sprint 2" width="100%">
+
+Enlace para acceder al Frontend: <a href="https://finance-guard.web.app/">Frontend FinanceGuard</a>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 <img src="images/collabInsightSprint2.png" alt="Evidencia del trabajo colaborativo del sprint 2" width="100%">
@@ -2559,7 +2564,48 @@ Para la elaboración de este sprint no fueron contemplados el desarrollo de un W
 
 ### 5.2.4 Sprint 4.
 #### 5.2.4.1. Sprint Planning 4
+
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 4</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2024-11-11</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">10:00 AM</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre, Melina Santillan, Karen Ramos</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 4 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Conectar la aplicación con un API de terceros, culminar los endpoints restantes, implementar el security e inicio de sesión del usuario, y finalmente conectar el front end y el back end.</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 4 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>25</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>24</strong></td></tr>
+</tbody>
+</table>
+
 #### 5.2.4.2. Sprint Backlog 4
+
+Durante el cuarto sprint backlog, el equipo completó el front end y back end de la web application. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitió que se puedan dividir todas las user stories en tareas manejables y asignarlas a los diferentes miembros de acuerdo a sus diferentes habilidades.
+
+<img src="images/trellosprint4.png" alt="Trello sprint 4" style="width: 80%;">
+
+<a href="https://trello.com/invite/b/672fdec2850d5d3e81ef8c23/ATTI1259892172c515fc8e83b3ce897df3956A35F993/financeguard-sprint-2">Link de Trello</a>
+
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="8"><strong>SPRINT 4</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>User Story</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="6"><strong>Work/Tasks</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>ID</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Description</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Estimation (Hours)</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Assigned to</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Status</strong></td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-11</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Reportes de Gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T1</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Generación de reportes de gastos detallados</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementar vista para mostrar análisis de gastos mensuales.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-16</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Dividir Gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T2</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Funcionalidad de división de gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir que los usuarios dividan los gastos entre miembros de grupo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Melina Santillan</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-17</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Gráfico de Gastos Mensuales</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T3</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Implementación de gráfico mensual de gastos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear una visualización gráfica de los gastos mensuales de los usuarios.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td></tr>
+
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US-19</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Descartar Contactos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">T4</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Funcionalidad para descartar contactos</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permitir la gestión y eliminación de contactos del grupo.</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3h</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Cristian Iparraguirre</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td></tr>
+
+</tbody>
+</table>
+
 #### 5.2.4.3. Development Evidence for Sprint Review
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 ##### Unit Tests
