@@ -2554,7 +2554,8 @@ En este sprint se realizaron pruebas Unitarias (Unit Tests) para las funcionalid
 <img src="images/expensesModification.png" alt="Modificación de los gastos de cada participante" width="100%">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
-Para la elaboración de este sprint no fueron contemplados el desarrollo de un Web Service así como los Services Documentation Evidence.
+
+ Para el sprint 3 únicamente se planificó que el sprint abarcaría el front-end y back-end. Inicialmente se trabajó con una json server de forma local y luego se pasó a realizar la implementación con My Json Server el cuál se utiliza en la Front End Web Application desplegada. Hasta el momento el back-end solo fue creado, no tiene vinculo con el front-end. Enlace para acceder al My Json Server 1 y My Json Server 2. Enlace para acceder al Web Service
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 <img src="images/deploymentEvidenceSprint3.png" alt="Evidencia del depliegue del sprint 3" width="100%">
@@ -2611,13 +2612,13 @@ Durante el cuarto sprint backlog, el equipo completó el front end y back end de
 ##### Unit Tests
 * **Clases probadas:**
 
-
 ##### Integration Tests
 
 ##### Repositorio y Commits relacionados con Testing:
 | Repository                 | Branch               | Commit ID | Commit Message                          | Commit Message Body                                   | Commited On (Date) |
 |----------------------------|----------------------|-----------|-----------------------------------------|-------------------------------------------------------|---------------------|
-| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Frontend | feature/tests        | h7i8j9k   | test: add unit tests for ReportsView    | Unit tests for ReportsView and expense data validation | 2024-08-18         |
+| https://github.com/UPC-PRE-SI730-2402-SI92-TechTitans/Backend | feature/tests        | h7i8j9k   | test: add unit tests for ReportsView    | Unit tests for ReportsView and expense data validation | 2024-08-18         |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 1. Vista del informe creada para el análisis de gastos mensuales.
@@ -2875,7 +2876,22 @@ Recomendación:
 Agregar una validación que compruebe que el correo tiene un dominio, de este modo el usuario podrá ingresar correctamtente el correo.
 
 # Conclusiones
-### Conclusiones y recomendaciones
+### Conclusiones
+
+1. Herramienta esencial para la organización financiera: FinanceGuard aborda problemas comunes en la gestión de finanzas personales y empresariales, proporcionando claridad, control y automatización en el manejo de recursos económicos.
+2. Atractivo para múltiples audiencias: Su diseño versátil satisface las necesidades tanto de usuarios individuales como de empresas, cubriendo desde gastos compartidos hasta reportes financieros avanzados.
+3. Impacto positivo en la toma de decisiones financieras: Al ofrecer análisis detallados, alertas y categorización automática de gastos, ayuda a los usuarios a tomar decisiones informadas y a evitar errores costosos.
+4. Potencial de mercado sólido: La creciente demanda de soluciones tecnológicas para la gestión financiera posiciona a FinanceGuard como un competidor relevante en este sector.
+5. Sostenibilidad mediante un modelo freemium: El enfoque de ofrecer funciones básicas gratuitas y opciones premium garantiza accesibilidad inicial y oportunidades de monetización a largo plazo.
+
+### Recomendaciones
+
+1. Priorizar una interfaz intuitiva: Diseñar una experiencia de usuario simple y atractiva para facilitar la adopción de la plataforma por parte de diferentes segmentos de usuarios, incluyendo aquellos con poca experiencia en herramientas digitales.
+2. Incluir tutoriales y soporte: Incorporar guías interactivas, videos explicativos y atención al cliente para educar a los usuarios sobre el uso de las funciones avanzadas de la plataforma.
+3. Fomentar la personalización: Permitir que los usuarios ajusten funciones como alertas, categorización de gastos y reportes, adaptándolas a sus necesidades específicas.
+4. Establecer integraciones clave: Facilitar la sincronización con cuentas bancarias, aplicaciones contables y otras herramientas financieras populares para ofrecer una experiencia centralizada y coherente.
+5. Realizar pruebas constantes con usuarios: Ejecutar ciclos de feedback continuo mediante encuestas, entrevistas y pruebas A/B para identificar áreas de mejora y garantizar que la plataforma siga cumpliendo con las expectativas del mercado.
+
 ### Video About-the-Team
 <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113111_upc_edu_pe/Ee6PYZCScBNImzH64AggPJoBG4mApH-lY0tSKR83HO3khg?e=Pr5tPj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link al video</a>
 
